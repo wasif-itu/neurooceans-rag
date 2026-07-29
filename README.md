@@ -49,6 +49,16 @@ Start Redis locally:
 docker compose up -d redis
 ```
 
+## Web interface
+
+For a small browser-based interface to upload documents and chat with the indexed knowledge base, run:
+
+```bash
+python app.py
+```
+
+Open the local URL shown in the terminal. The **Ask** tab keeps chat sessions in Redis, while **Index documents** uploads supported files or indexes newline-separated URLs.
+
 ## Usage
 
 Create the Pinecone index on the first ingestion, then index a folder or file:
@@ -77,6 +87,7 @@ Use `--clear-history` to begin a session without prior Redis messages.
 src/       document loading, vector storage, chat memory, and RAG orchestration
 utils/     settings and prompt templates
 main.py    command-line entry point
+app.py     Gradio web interface
 ```
 
 ## Next areas of focus
