@@ -50,6 +50,7 @@ def ask_question(
     question: str,
     session_id: str,
     conversation: list[dict[str, str]],
+    external_sources: list[str],
 ) -> tuple[str, list[dict[str, str]], str]:
     """Answer a question and retain the exchange in its Redis session."""
     if not question.strip():
@@ -58,7 +59,14 @@ def ask_question(
     try:
         settings = get_settings()
         history = RedisChatHistory(settings.redis_url, session_id or "gradio")
-        answer, documents = answer_question(get_store(), get_model(), question, history.messages)
+        answer, documents = answer_question(
+            get_store(),
+            get_model(),
+            question,
+            history.messages,
+            settings=settings,
+            external_sources=external_sources or None,
+        )
         history.add_user_message(question)
         history.add_ai_message(answer)
 
@@ -66,7 +74,12 @@ def ask_question(
             {"role": "user", "content": question},
             {"role": "assistant", "content": answer},
         ]
-        sources = "\n".join(f"- {document.metadata.get('source', 'unknown')}" for document in documents)
+        source_lines = [
+            f"- {document.metadata.get('source', 'unknown')} "
+            f"({document.metadata.get('retriever', 'pinecone')})"
+            for document in documents
+        ]
+        sources = "\n".join(source_lines)
         return "", updated_conversation, sources or "No matching sources returned."
     except Exception as error:
         return "", conversation, f"Request failed: {error}"
@@ -82,25 +95,73 @@ def clear_chat(session_id: str) -> tuple[list[dict[str, str]], str]:
 
 
 with gr.Blocks(title="NeuroOceans RAG") as demo:
-    gr.Markdown("# NeuroOceans RAG\nAsk grounded questions over your documents with Gemini, Pinecone, and Redis.")
+    gr.Markdown(
+        "# NeuroOceans RAG\n"
+        "Ask grounded questions over your documents with Gemini, Pinecone, and Redis.\n"
+        "Enable external retrieval sources below to search the web, YouTube, PubMed, "
+        "Arxiv, or Wikipedia alongside your indexed documents."
+    )
 
     with gr.Tab("Ask"):
-        session_id = gr.Textbox(label="Session ID", value="gradio", info="Reuse an ID to continue a Redis-backed conversation.")
+        session_id = gr.Textbox(
+            label="Session ID",
+            value="gradio",
+            info="Reuse an ID to continue a Redis-backed conversation.",
+        )
         chatbot = gr.Chatbot(label="Conversation", height=420)
-        question = gr.Textbox(label="Question", placeholder="Ask about indexed documents...", lines=2)
+
         with gr.Row():
-            ask_button = gr.Button("Ask", variant="primary")
+            question = gr.Textbox(
+                label="Question",
+                placeholder="Ask about indexed documents or external sources...",
+                lines=2,
+                scale=3,
+            )
+            ask_button = gr.Button("Ask", variant="primary", scale=1)
+
+        with gr.Accordion("Retrieval Sources", open=False):
+            gr.Markdown(
+                "Select external sources to search alongside your indexed Pinecone documents. "
+                "Leave all unchecked to use only indexed documents."
+            )
+            source_checkboxes = gr.CheckboxGroup(
+                label="External sources",
+                choices=[
+                    ("🌐 Web Search (Tavily / DuckDuckGo)", "web"),
+                    ("🎬 YouTube Transcripts", "youtube"),
+                    ("📄 PubMed Articles", "pubmed"),
+                    ("📚 Arxiv Papers", "arxiv"),
+                    ("📖 Wikipedia", "wikipedia"),
+                ],
+                value=[],
+            )
+
+        with gr.Row():
             clear_button = gr.Button("Clear chat")
         sources = gr.Markdown("Sources will appear here.")
 
-        ask_button.click(ask_question, [question, session_id, chatbot], [question, chatbot, sources])
-        question.submit(ask_question, [question, session_id, chatbot], [question, chatbot, sources])
+        ask_button.click(
+            ask_question,
+            [question, session_id, chatbot, source_checkboxes],
+            [question, chatbot, sources],
+        )
+        question.submit(
+            ask_question,
+            [question, session_id, chatbot, source_checkboxes],
+            [question, chatbot, sources],
+        )
         clear_button.click(clear_chat, [session_id], [chatbot, sources])
 
     with gr.Tab("Index documents"):
-        gr.Markdown("Upload PDF, TXT, Markdown, or CSV files. You can also paste one URL per line.")
+        gr.Markdown(
+            "Upload PDF, TXT, Markdown, or CSV files. You can also paste one URL per line."
+        )
         files = gr.File(label="Files", file_count="multiple", type="filepath")
-        urls = gr.Textbox(label="URLs", placeholder="https://example.com/page\nhttps://example.com/another-page", lines=4)
+        urls = gr.Textbox(
+            label="URLs",
+            placeholder="https://example.com/page\nhttps://example.com/another-page",
+            lines=4,
+        )
         index_button = gr.Button("Index content", variant="primary")
         index_status = gr.Markdown()
         index_button.click(index_content, [files, urls], index_status)

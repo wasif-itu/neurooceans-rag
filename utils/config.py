@@ -18,6 +18,7 @@ class Settings:
     pinecone_namespace: str
     pinecone_cloud: str
     pinecone_region: str
+    tavily_api_key: str
 
     @classmethod
     def from_env(cls) -> "Settings":
@@ -34,10 +35,11 @@ class Settings:
             pinecone_api_key=required("PINECONE_API_KEY"),
             pinecone_index=required("PINECONE_INDEX"),
             redis_url=os.getenv("REDIS_URL", "redis://localhost:6379/0"),
-            gemini_model=os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite"),
+            gemini_model=os.getenv("GEMINI_MODEL", "gemini-2.0-flash-lite"),
             embedding_model=os.getenv("GEMINI_EMBEDDING_MODEL", "models/gemini-embedding-001"),
             embedding_dimension=int(os.getenv("GEMINI_EMBEDDING_DIMENSION", "768")),
             pinecone_namespace=os.getenv("PINECONE_NAMESPACE", "documents"),
             pinecone_cloud=os.getenv("PINECONE_CLOUD", "aws"),
             pinecone_region=os.getenv("PINECONE_REGION", "us-east-1"),
+            tavily_api_key=os.getenv("TAVILY_API_KEY", ""),
         )
