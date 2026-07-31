@@ -1,0 +1,29 @@
+{
+  "whatsapp": [
+    {"date": "2021-08-05", "hour": 09, "minute": 30, "is_from_me": false, "content": "leo, the contract with psg is almost done. need your signature on the final pages"},
+    {"date": "2021-08-05", "hour": 09, "minute": 32, "is_from_me": true, "content": "ok. send it over. ill sign today"},
+    {"date": "2021-08-05", "hour": 09, "minute": 35, "is_from_me": false, "content": "also the apartment in paris is ready. antonela can move in anytime"},
+    {"date": "2021-08-05", "hour": 09, "minute": 36, "is_from_me": true, "content": "good. thanks for handling everything. i know it was crazy"},
+    {"date": "2021-08-05", "hour": 09, "minute": 38, "is_from_me": false, "content": "thats my job son. just focus on football. leave the rest to me"},
+    {"date": "2021-12-01", "hour": 18, "minute": 20, "is_from_me": false, "content": "sponsors are asking for more appearances. can you do the press conference next week?"},
+    {"date": "2021-12-01", "hour": 18, "minute": 22, "is_from_me": true, "content": "yeah. schedule it. i have training but can do after"},
+    {"date": "2021-12-01", "hour": 18, "minute": 25, "is_from_me": false, "content": "also the copa america celebrations - need to coordinate with the fa"},
+    {"date": "2021-12-01", "hour": 18, "minute": 26, "is_from_me": true, "content": "ok. just tell me when and where"},
+    {"date": "2022-05-10", "hour": 21, "minute": 00, "is_from_me": false, "content": "psg wants to extend your contract. offering another year"},
+    {"date": "2022-05-10", "hour": 21, "minute": 02, "is_from_me": true, "content": "tell them ill think about it. focusing on the world cup right now"},
+    {"date": "2022-05-10", "hour": 21, "minute": 05, "is_from_me": false, "content": "i understand. but just keep it in mind. good money on the table"},
+    {"date": "2022-05-10", "hour": 21, "minute": 07, "is_from_me": true, "content": "yeah i know. we'll talk after the world cup"},
+    {"date": "2022-12-01", "hour": 22, "minute": 30, "is_from_me": false, "content": "congratulations son. from the bottom of my heart. you did it"},
+    {"date": "2022-12-01", "hour": 22, "minute": 32, "is_from_me": true, "content": "thank you papa. couldnt have done it without your support all these years"},
+    {"date": "2022-12-01", "hour": 22, "minute": 35, "is_from_me": false, "content": "im so proud of you. more than youll ever know. im just so emotional right now"},
+    {"date": "2023-06-01", "hour": 10, "minute": 15, "is_from_me": false, "content": "leo... the miami offer is serious. i spoke to them. they really want you"},
+    {"date": "2023-06-01", "hour": 10, "minute": 17, "is_from_me": true, "content": "i know. i want to go. the money isnt everything. i want to enjoy football again"},
+    {"date": "2023-06-01", "hour": 10, "minute": 20, "is_from_me": false, "content": "i understand. its your decision. just make sure its the right one"},
+    {"date": "2023-06-01", "hour": 10, "minute": 22, "is_from_me": true, "content": "its the right one. i feel it in my gut. let them know im coming"},
+    {"date": "2024-02-01", "hour": 16, "minute": 40, "is_from_me": false, "content": "miami wants to do a new jersey launch. they want you to be there"},
+    {"date": "2024-02-01", "hour": 16, "minute": 42, "is_from_me": true, "content": "ok. set it up. the fans have been amazing here. i want to do it for them"},
+    {"date": "2024-02-01", "hour": 16, "minute": 45, "is_from_me": false, "content": "will do. hows the family settling in? are the boys enjoying miami?"},
+    {"date": "2024-02-01", "hour": 16, "minute": 47, "is_from_me": true, "content": "they love it. its good for them. for all of us. thanks for looking out for me papa"},
+    {"date": "2024-02-01", "hour": 16, "minute": 50, "is_from_me": false, "content": "always son. always. proud of you"}
+  ]
+}
