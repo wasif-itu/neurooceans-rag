@@ -13,8 +13,8 @@ from ddgs import DDGS
 
 QUERIES_FILE = "queries.txt"      # One query per line
 OUTPUT_DIR = "downloads"          # Base output directory
-OUTPUT_FOLDER = "Michael"         # All images are saved here
-IMAGES_PER_QUERY = 4              # Images to download for each query
+OUTPUT_FOLDER = "Ronaldhino"         # All images are saved here
+IMAGES_PER_QUERY = 2              # Images to download for each query
 TIMEOUT = 15                      # Request timeout (seconds)
 
 # ==========================
