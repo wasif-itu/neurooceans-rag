@@ -1,0 +1,242 @@
+{
+  "persona": {
+    "name": "Kylian Mbappé",
+    "description": "One of the greatest footballers of his generation, FIFA World Cup winner (2018), multiple Ligue 1 champion, Paris Saint-Germain and France national team star",
+    "birth_year": 1998,
+    "nationality": "French",
+    "hometown": "Bondy, France"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_mbappe_hakimi_2023_2025",
+      "contact": "Achraf Hakimi",
+      "messages": [
+        {"date": "2023-08-15", "hour": 22, "minute": 14, "is_from_me": false, "content": "bro the season starts tomorrow. you ready to cook?"},
+        {"date": "2023-08-15", "hour": 22, "minute": 16, "is_from_me": true, "content": "always ready. you saw how I'm feeling in training? unstoppable"},
+        {"date": "2023-08-15", "hour": 22, "minute": 18, "is_from_me": false, "content": "haha I saw. you scored like 5 goals in the scrimmage. calm down"},
+        {"date": "2023-08-15", "hour": 22, "minute": 20, "is_from_me": true, "content": "just warming up bro. wait until the real games start"},
+        {"date": "2023-08-15", "hour": 22, "minute": 22, "is_from_me": false, "content": "I'll be watching from right back. don't forget to pass sometimes 😂"},
+        {"date": "2023-08-15", "hour": 22, "minute": 23, "is_from_me": true, "content": "you know I always find you. our connection is different"},
+        {"date": "2023-08-20", "hour": 13, "minute": 45, "is_from_me": false, "content": "what a first game! 4-0. you were insane bro"},
+        {"date": "2023-08-20", "hour": 13, "minute": 47, "is_from_me": true, "content": "thanks bro. you had two assists. we're building something special here"},
+        {"date": "2023-08-20", "hour": 13, "minute": 50, "is_from_me": false, "content": "for real. this team feels different this year. we have that hunger"},
+        {"date": "2023-09-10", "hour": 21, "minute": 12, "is_from_me": true, "content": "you see the champions league draw? we got a tough group"},
+        {"date": "2023-09-10", "hour": 21, "minute": 15, "is_from_me": false, "content": "I saw. doesn't matter. we're the best. we beat anyone"},
+        {"date": "2023-09-10", "hour": 21, "minute": 17, "is_from_me": true, "content": "that's the mentality. I love it. we need to win it this year"},
+        {"date": "2023-10-25", "hour": 23, "minute": 08, "is_from_me": false, "content": "that goal against milan tonight. bro. how do you do that?"},
+        {"date": "2023-10-25", "hour": 23, "minute": 10, "is_from_me": true, "content": "haha I don't even know. just instinct. the ball was there and I hit it"},
+        {"date": "2023-10-25", "hour": 23, "minute": 12, "is_from_me": false, "content": "\"just instinct\" he says. bruh that was world class. you're different"},
+        {"date": "2024-01-25", "hour": 18, "minute": 30, "is_from_me": true, "content": "hakimi. I need to talk to you about something serious"},
+        {"date": "2024-01-25", "hour": 18, "minute": 33, "is_from_me": false, "content": "what's going on? everything ok?"},
+        {"date": "2024-01-25", "hour": 18, "minute": 35, "is_from_me": true, "content": "I think I'm gonna leave. real madrid is pushing hard and I need a new challenge"},
+        {"date": "2024-01-25", "hour": 18, "minute": 38, "is_from_me": false, "content": "wow. I mean I knew it was possible but hearing it hits different. when?"},
+        {"date": "2024-01-25", "hour": 18, "minute": 40, "is_from_me": true, "content": "summer probably. haven't decided yet. but I wanted you to hear it from me first"},
+        {"date": "2024-01-25", "hour": 18, "minute": 42, "is_from_me": false, "content": "I appreciate that bro. we've been through everything together. whatever you decide I'm behind you"},
+        {"date": "2024-01-25", "hour": 18, "minute": 45, "is_from_me": true, "content": "thanks man. that means everything. but let's finish this season strong first"},
+        {"date": "2024-05-25", "hour": 22, "minute": 15, "is_from_me": false, "content": "so it's really happening. you're going to madrid. I'm happy for you but I'll miss you on the right side"},
+        {"date": "2024-05-25", "hour": 22, "minute": 18, "is_from_me": true, "content": "it's gonna be so weird not seeing you every day. but you know we're brothers for life. you can always call"},
+        {"date": "2024-05-25", "hour": 22, "minute": 20, "is_from_me": false, "content": "same for you. and when we meet in the champions league next year... no mercy 😤"},
+        {"date": "2024-05-25", "hour": 22, "minute": 22, "is_from_me": true, "content": "haha I wouldn't expect anything less. see you at the top bro"},
+        {"date": "2024-07-16", "hour": 14, "minute": 30, "is_from_me": false, "content": "the presentation was crazy bro. 85,000 people. you looked like a king"},
+        {"date": "2024-07-16", "hour": 14, "minute": 33, "is_from_me": true, "content": "it was overwhelming tbh. but also amazing. this is the start of something new"},
+        {"date": "2024-08-14", "hour": 20, "minute": 15, "is_from_me": false, "content": "first goal for real madrid. I knew you'd score on debut. what a header!"},
+        {"date": "2024-08-14", "hour": 20, "minute": 17, "is_from_me": true, "content": "felt so good to get that first one. the fans were incredible. I'm home bro"},
+        {"date": "2025-02-12", "hour": 21, "minute": 45, "is_from_me": false, "content": "you playing against us in the champions league final? this is crazy"},
+        {"date": "2025-02-12", "hour": 21, "minute": 47, "is_from_me": true, "content": "football writes the best stories doesn't it. I can't believe it either. see you at wembley"},
+        {"date": "2025-05-31", "hour": 23, "minute": 50, "is_from_me": false, "content": "what a final. you deserved it. that second goal was pure mbappé. I'm proud of you even though I'm hurting"},
+        {"date": "2025-05-31", "hour": 23, "minute": 52, "is_from_me": true, "content": "hakimi... I don't know what to say. you were incredible too. this is the hardest part. beating your friends"},
+        {"date": "2025-05-31", "hour": 23, "minute": 55, "is_from_me": false, "content": "that's the game. I'll see you on the international break. we'll laugh about this someday. champions league winner! enjoy it bro"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_mbappe_neymar_2023_2024",
+      "contact": "Neymar Jr.",
+      "messages": [
+        {"date": "2023-07-28", "hour": 19, "minute": 20, "is_from_me": false, "content": "hey brother. you ready for another season? I'm back from injury and feeling good"},
+        {"date": "2023-07-28", "hour": 19, "minute": 22, "is_from_me": true, "content": "ney! so good to hear from you. I'm ready. you look sharp in training videos"},
+        {"date": "2023-07-28", "hour": 19, "minute": 25, "is_from_me": false, "content": "we need to dominate this year. I want that champions league more than anything"},
+        {"date": "2023-07-28", "hour": 19, "minute": 27, "is_from_me": true, "content": "you and me both. with the squad we have there's no excuse"},
+        {"date": "2023-08-12", "hour": 20, "minute": 10, "is_from_me": true, "content": "you see that pass I gave you today? perfect"},
+        {"date": "2023-08-12", "hour": 20, "minute": 12, "is_from_me": false, "content": "haha you always find me. but that goal I scored after... pure magic no?"},
+        {"date": "2023-08-12", "hour": 20, "minute": 14, "is_from_me": true, "content": "you're ridiculous with the ball. honestly. I'm just happy you're on my team"},
+        {"date": "2023-10-05", "hour": 22, "minute": 15, "is_from_me": false, "content": "I can't believe we lost to newcastle. what happened tonight?"},
+        {"date": "2023-10-05", "hour": 22, "minute": 18, "is_from_me": true, "content": "I don't know man. we started slow and never recovered. we need to talk about tactics"},
+        {"date": "2023-10-05", "hour": 22, "minute": 20, "is_from_me": false, "content": "enrique needs to fix this. I'm injured again anyway. feels like my body is giving up"},
+        {"date": "2023-10-05", "hour": 22, "minute": 23, "is_from_me": true, "content": "don't say that. you'll be back stronger. we need you"},
+        {"date": "2023-11-15", "hour": 15, "minute": 30, "is_from_me": true, "content": "you're going to brazil for recovery right? take care of yourself"},
+        {"date": "2023-11-15", "hour": 15, "minute": 32, "is_from_me": false, "content": "yeah. I'll be back before you know it. enjoy the games without me lol"},
+        {"date": "2023-11-15", "hour": 15, "minute": 35, "is_from_me": true, "content": "no one enjoys games without you. but we'll hold the fort down"},
+        {"date": "2023-12-20", "hour": 16, "minute": 10, "is_from_me": false, "content": "happy birthday brother. 25! you're getting old 😂"},
+        {"date": "2023-12-20", "hour": 16, "minute": 12, "is_from_me": true, "content": "haha I'm still young. you're the old one here grandpa"},
+        {"date": "2023-12-20", "hour": 16, "minute": 15, "is_from_me": false, "content": "I had a good run. still got some magic left though. I'll show you when I'm back"},
+        {"date": "2024-01-15", "hour": 19, "minute": 42, "is_from_me": true, "content": "ney. I heard the club might move you. is that real?"},
+        {"date": "2024-01-15", "hour": 19, "minute": 45, "is_from_me": false, "content": "I don't know what's going to happen. it's complicated. but I love playing with you bro"},
+        {"date": "2024-01-15", "hour": 19, "minute": 47, "is_from_me": true, "content": "I feel the same. whatever happens, keep shining. you're the best I've played with"},
+        {"date": "2024-02-20", "hour": 20, "minute": 05, "is_from_me": false, "content": "I think this is it. I'm going to saudi. I need to make this decision for my family"},
+        {"date": "2024-02-20", "hour": 20, "minute": 08, "is_from_me": true, "content": "I'll miss you so much. who's going to do those ridiculous dribbles with me in training?"},
+        {"date": "2024-02-20", "hour": 20, "minute": 10, "is_from_me": false, "content": "you'll find someone. but we'll always have the memories. that 2019 season was something else"},
+        {"date": "2024-02-20", "hour": 20, "minute": 13, "is_from_me": true, "content": "it really was. good luck brother. I'm proud of everything we did together"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_mbappe_antoine_2024",
+      "contact": "Antoine Griezmann",
+      "messages": [
+        {"date": "2024-06-14", "hour": 18, "minute": 30, "is_from_me": false, "content": "kyky. ready for the euros? I feel good about this group"},
+        {"date": "2024-06-14", "hour": 18, "minute": 32, "is_from_me": true, "content": "you know I'm ready. we have the squad to win it all"},
+        {"date": "2024-06-14", "hour": 18, "minute": 35, "is_from_me": false, "content": "deschamps has us playing well. just need to stay healthy"},
+        {"date": "2024-06-20", "hour": 22, "minute": 10, "is_from_me": true, "content": "that goal tonight from you. what a strike"},
+        {"date": "2024-06-20", "hour": 22, "minute": 12, "is_from_me": false, "content": "haha I had to show you I still got it. but your run for that second goal... impossible to stop"},
+        {"date": "2024-06-20", "hour": 22, "minute": 15, "is_from_me": true, "content": "we're on the same wavelength. I love playing with you"},
+        {"date": "2024-07-05", "hour": 20, "minute": 45, "is_from_me": false, "content": "can't believe we lost on penalties. I feel sick"},
+        {"date": "2024-07-05", "hour": 20, "minute": 48, "is_from_me": true, "content": "it hurts so much. we should have won that game. football is cruel"},
+        {"date": "2024-07-05", "hour": 20, "minute": 50, "is_from_me": false, "content": "we'll come back stronger. world cup 2026. that's the goal"},
+        {"date": "2024-07-05", "hour": 20, "minute": 52, "is_from_me": true, "content": "definitely. we need to talk about what went wrong. but first I need to just be sad for a bit"},
+        {"date": "2024-07-05", "hour": 20, "minute": 55, "is_from_me": false, "content": "take your time. when you're ready, we'll figure it out. we're france. we always come back"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_mbappe_giroud_2018_2024",
+      "contact": "Olivier Giroud",
+      "messages": [
+        {"date": "2018-07-15", "hour": 23, "minute": 30, "is_from_me": true, "content": "olivier. we did it. world champions. I can't believe it"},
+        {"date": "2018-07-15", "hour": 23, "minute": 32, "is_from_me": false, "content": "I'm speechless. you were incredible all tournament. that goal in the final. wow"},
+        {"date": "2018-07-15", "hour": 23, "minute": 35, "is_from_me": true, "content": "we all were. but you held the line up front. you're the perfect teammate"},
+        {"date": "2018-07-15", "hour": 23, "minute": 38, "is_from_me": false, "content": "we have something special. this team. this generation. we can go far"},
+        {"date": "2019-10-10", "hour": 15, "minute": 20, "is_from_me": false, "content": "you're becoming the face of french football. I'm proud of you kid"},
+        {"date": "2019-10-10", "hour": 15, "minute": 22, "is_from_me": true, "content": "means a lot coming from you. you showed me how to be a professional"},
+        {"date": "2019-10-10", "hour": 15, "minute": 25, "is_from_me": false, "content": "and you taught me a few things too 😂"},
+        {"date": "2021-06-25", "hour": 21, "minute": 10, "is_from_me": true, "content": "that goal against germany was crazy. you're not slowing down"},
+        {"date": "2021-06-25", "hour": 21, "minute": 12, "is_from_me": false, "content": "old dog still knows some tricks. but you're carrying us now"},
+        {"date": "2022-12-18", "hour": 23, "minute": 40, "is_from_me": false, "content": "hat-trick in a world cup final. you're not human. I'm proud to have worn the shirt with you"},
+        {"date": "2022-12-18", "hour": 23, "minute": 42, "is_from_me": true, "content": "should have won it. but thank you. I learned so much from you over the years"},
+        {"date": "2023-03-20", "hour": 12, "minute": 15, "is_from_me": true, "content": "you're leaving the national team? I can't imagine france without you"},
+        {"date": "2023-03-20", "hour": 12, "minute": 18, "is_from_me": false, "content": "it's time. but you'll carry the legacy. don't ever stop fighting"},
+        {"date": "2023-03-20", "hour": 12, "minute": 20, "is_from_me": true, "content": "I'll never forget what you taught me. thank you for everything big man"},
+        {"date": "2023-03-20", "hour": 12, "minute": 22, "is_from_me": false, "content": "go get that champions league. I'll be watching from the couch"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_mbappe_galtier_2022_2023",
+      "contact": "Christophe Galtier",
+      "messages": [
+        {"date": "2022-07-05", "hour": 10, "minute": 00, "is_from_me": false, "content": "kylian. good to speak with you. I want to build the team around you"},
+        {"date": "2022-07-05", "hour": 10, "minute": 05, "is_from_me": true, "content": "I appreciate that coach. I want to win everything this year"},
+        {"date": "2022-07-05", "hour": 10, "minute": 08, "is_from_me": false, "content": "you will. I'm going to use you differently. more freedom in the attack"},
+        {"date": "2022-07-05", "hour": 10, "minute": 10, "is_from_me": true, "content": "that's what I need. I feel like I can be even more effective"},
+        {"date": "2022-08-10", "hour": 11, "minute": 15, "is_from_me": false, "content": "the system is working. you're scoring every game"},
+        {"date": "2022-08-10", "hour": 11, "minute": 18, "is_from_me": true, "content": "the team is playing so well. we're on the same page"},
+        {"date": "2022-09-15", "hour": 16, "minute": 30, "is_from_me": true, "content": "coach. I need to talk about the tactics. we can't keep conceding on counters"},
+        {"date": "2022-09-15", "hour": 16, "minute": 33, "is_from_me": false, "content": "you're right. I'll adjust. I appreciate you telling me directly"},
+        {"date": "2023-02-20", "hour": 14, "minute": 00, "is_from_me": false, "content": "we lost against bayern. but I believe in this team"},
+        {"date": "2023-02-20", "hour": 14, "minute": 05, "is_from_me": true, "content": "we'll come back. we need to believe in ourselves. you're a great coach"},
+        {"date": "2023-06-15", "hour": 18, "minute": 30, "is_from_me": false, "content": "looks like my time is ending. thank you for everything kylian"},
+        {"date": "2023-06-15", "hour": 18, "minute": 33, "is_from_me": true, "content": "I'm sorry to see you go. you made me a better player. thank you"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_mbappe_hugo_2024_2025",
+      "contact": "Hugo Lloris",
+      "messages": [
+        {"date": "2024-08-20", "hour": 19, "minute": 00, "is_from_me": true, "content": "hugo. I just wanted to say something. I never told you this enough"},
+        {"date": "2024-08-20", "hour": 19, "minute": 03, "is_from_me": true, "content": "but you were the best captain anyone could ask for. I learned so much from you"},
+        {"date": "2024-08-20", "hour": 19, "minute": 05, "is_from_me": false, "content": "that means everything kylian. you're going to be an incredible captain. I know it"},
+        {"date": "2024-08-20", "hour": 19, "minute": 08, "is_from_me": true, "content": "big shoes to fill. but you set the standard. I'll carry that with me"},
+        {"date": "2024-08-20", "hour": 19, "minute": 10, "is_from_me": false, "content": "you already are a leader. just stay true to who you are. the team trusts you"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_mbappe_wilfried_2017_2024",
+      "contact": "Wilfried Mbappé",
+      "messages": [
+        {"date": "2017-07-10", "hour": 21, "minute": 15, "is_from_me": true, "content": "papa. I think I'm going to sign with PSG. I need your advice"},
+        {"date": "2017-07-10", "hour": 21, "minute": 20, "is_from_me": false, "content": "son. this is your decision. but PSG is the right choice for your development. you'll play with the best"},
+        {"date": "2017-07-10", "hour": 21, "minute": 25, "is_from_me": true, "content": "I want to win the champions league. this is where I can do it"},
+        {"date": "2017-07-10", "hour": 21, "minute": 27, "is_from_me": false, "content": "then do it. your mother and I will always be proud of you. sign the contract"},
+        {"date": "2018-07-16", "hour": 08, "minute": 30, "is_from_me": false, "content": "world champion. my son. I'm sitting here crying"},
+        {"date": "2018-07-16", "hour": 08, "minute": 32, "is_from_me": true, "content": "I cried too. I did it for you and mom. you believed in me from day one"},
+        {"date": "2018-07-16", "hour": 08, "minute": 35, "is_from_me": false, "content": "I always knew you'd be great. but this. this is beyond anything I imagined"},
+        {"date": "2021-08-10", "hour": 12, "minute": 00, "is_from_me": true, "content": "papa. the real madrid offer is serious. but I'm not sure"},
+        {"date": "2021-08-10", "hour": 12, "minute": 05, "is_from_me": false, "content": "think with your heart. you're the one who has to live with the decision"},
+        {"date": "2021-08-10", "hour": 12, "minute": 08, "is_from_me": true, "content": "I love you. you always know what to say. I'll make the right choice"},
+        {"date": "2022-05-20", "hour": 20, "minute": 15, "is_from_me": false, "content": "you're staying. I'm so happy son. this is where you belong"},
+        {"date": "2022-05-20", "hour": 20, "minute": 18, "is_from_me": true, "content": "I couldn't leave now. I have more to prove here. I want to be a legend"},
+        {"date": "2024-07-20", "hour": 10, "minute": 00, "is_from_me": true, "content": "papa. I'm going to madrid. I need to start a new chapter"},
+        {"date": "2024-07-20", "hour": 10, "minute": 05, "is_from_me": false, "content": "I understand son. you've given everything to Paris. it's time for something new"},
+        {"date": "2024-07-20", "hour": 10, "minute": 08, "is_from_me": true, "content": "you were always my first coach. my biggest fan. thank you for everything"},
+        {"date": "2024-07-20", "hour": 10, "minute": 10, "is_from_me": false, "content": "I'll always be your biggest fan. now go make history in white"}
+      ]
+    },
+    {
+      "chat_id": "imessage_mbappe_ethan_2020_2025",
+      "contact": "Ethan Mbappé",
+      "messages": [
+        {"date": "2020-02-14", "hour": 19, "minute": 30, "is_from_me": true, "content": "hey little brother. how was training today?"},
+        {"date": "2020-02-14", "hour": 19, "minute": 33, "is_from_me": false, "content": "it was good! coach said I'm improving fast. I want to be like you"},
+        {"date": "2020-02-14", "hour": 19, "minute": 35, "is_from_me": true, "content": "be better than me. you have the talent. just keep working hard"},
+        {"date": "2020-02-14", "hour": 19, "minute": 38, "is_from_me": false, "content": "you think I can make it pro?"},
+        {"date": "2020-02-14", "hour": 19, "minute": 40, "is_from_me": true, "content": "I know you can. you have the same mindset I do. keep going"},
+        {"date": "2021-01-10", "hour": 16, "minute": 00, "is_from_me": false, "content": "I signed with PSG academy! I'm gonna be in the same club as you!"},
+        {"date": "2021-01-10", "hour": 16, "minute": 02, "is_from_me": true, "content": "that's amazing! I'm so proud of you. I'll come watch your games"},
+        {"date": "2021-01-10", "hour": 16, "minute": 05, "is_from_me": false, "content": "I'm gonna work so hard. one day we'll play together"},
+        {"date": "2023-05-15", "hour": 20, "minute": 30, "is_from_me": true, "content": "you're in the first team now. how does it feel?"},
+        {"date": "2023-05-15", "hour": 20, "minute": 33, "is_from_me": false, "content": "surreal. I'm still processing it. training with you is crazy"},
+        {"date": "2023-05-15", "hour": 20, "minute": 35, "is_from_me": true, "content": "you belong here. I've always said that. now prove it to everyone else"},
+        {"date": "2024-08-25", "hour": 17, "minute": 00, "is_from_me": false, "content": "so you're really gone. psg training is not the same without you"},
+        {"date": "2024-08-25", "hour": 17, "minute": 03, "is_from_me": true, "content": "I know. but this is your chance now. be the star. I'll be watching from madrid"},
+        {"date": "2025-06-10", "hour": 22, "minute": 30, "is_from_me": false, "content": "you won the champions league. I was screaming at the tv. I'm so proud of you"},
+        {"date": "2025-06-10", "hour": 22, "minute": 33, "is_from_me": true, "content": "one day you'll lift that trophy too. I believe in you. you're the future of french football"}
+      ]
+    },
+    {
+      "chat_id": "imessage_mbappe_hendricks_2017_2018",
+      "contact": "Bernard Hendricks (Monaco Academy Coach)",
+      "messages": [
+        {"date": "2017-02-10", "hour": 14, "minute": 30, "is_from_me": false, "content": "kylian. the club is going to start you against man city. are you ready?"},
+        {"date": "2017-02-10", "hour": 14, "minute": 33, "is_from_me": true, "content": "I was born ready coach. I've been waiting for this moment"},
+        {"date": "2017-02-10", "hour": 14, "minute": 35, "is_from_me": false, "content": "remember what I taught you. stay calm. let the game come to you"},
+        {"date": "2017-02-10", "hour": 14, "minute": 37, "is_from_me": true, "content": "I remember everything you taught me. from the very first session. I won't let you down"},
+        {"date": "2017-02-22", "hour": 22, "minute": 00, "is_from_me": false, "content": "you scored against man city. at 18 years old. I'm emotional"},
+        {"date": "2017-02-22", "hour": 22, "minute": 02, "is_from_me": true, "content": "couldn't have done it without you coach. you believed in me when no one else did"},
+        {"date": "2018-05-15", "hour": 20, "minute": 15, "is_from_me": true, "content": "coach. I wanted to say thank you. for everything. you shaped me into the player I am"},
+        {"date": "2018-05-15", "hour": 20, "minute": 18, "is_from_me": false, "content": "you shaped yourself. I just opened the door. you walked through it"}
+      ]
+    },
+    {
+      "chat_id": "imessage_mbappe_family_2017_2024",
+      "contact": "Kylian Mbappé Family Group",
+      "messages": [
+        {"date": "2017-12-20", "hour": 20, "minute": 00, "is_from_me": false, "content": "happy birthday kylian! 19! we're so proud of you - papa"},
+        {"date": "2017-12-20", "hour": 20, "minute": 01, "is_from_me": false, "content": "the best son anyone could ask for. so much love - mama"},
+        {"date": "2017-12-20", "hour": 20, "minute": 03, "is_from_me": true, "content": "thank you so much. I'm so lucky to have you all. love you forever"},
+        {"date": "2017-12-20", "hour": 20, "minute": 05, "is_from_me": false, "content": "you're going to be a global star. I already know it. - ethan"},
+        {"date": "2018-07-16", "hour": 09, "minute": 00, "is_from_me": false, "content": "world champion! we're celebrating all day! - mama"},
+        {"date": "2018-07-16", "hour": 09, "minute": 02, "is_from_me": true, "content": "you all made me who I am. this is for our family. for bondy"},
+        {"date": "2018-07-16", "hour": 09, "minute": 05, "is_from_me": false, "content": "I'm sending this to everyone. my son is world champion! - papa"},
+        {"date": "2022-12-18", "hour": 23, "minute": 30, "is_from_me": false, "content": "hat-trick in the world cup final. I'm speechless. - ethan"},
+        {"date": "2022-12-18", "hour": 23, "minute": 32, "is_from_me": false, "content": "even in defeat you were magnificent. we're so proud - mama"},
+        {"date": "2022-12-18", "hour": 23, "minute": 35, "is_from_me": true, "content": "I wanted to win it for you all. I'm sorry. I'll come back stronger"},
+        {"date": "2022-12-18", "hour": 23, "minute": 38, "is_from_me": false, "content": "you have nothing to apologize for. you're a champion always - papa"},
+        {"date": "2024-12-20", "hour": 20, "minute": 00, "is_from_me": false, "content": "26 today. so many memories. we love you so much - mama"},
+        {"date": "2024-12-20", "hour": 20, "minute": 02, "is_from_me": true, "content": "the best gift I ever got was being born into this family"},
+        {"date": "2024-12-20", "hour": 20, "minute": 05, "is_from_me": false, "content": "from bondy to the world. and you never forgot where you came from. that's what makes you great - papa"}
+      ]
+    },
+    {
+      "chat_id": "imessage_mbappe_leroy_2025",
+      "contact": "Leroy Sané",
+      "messages": [
+        {"date": "2025-04-02", "hour": 19, "minute": 15, "is_from_me": false, "content": "can't believe we're playing each other in the semis. this is mad"},
+        {"date": "2025-04-02", "hour": 19, "minute": 18, "is_from_me": true, "content": "football does this to us. all the best teams meeting. I'm excited"},
+        {"date": "2025-04-02", "hour": 19, "minute": 20, "is_from_me": false, "content": "you and me on the flanks. going to be fireworks"},
+        {"date": "2025-04-02", "hour": 19, "minute": 22, "is_from_me": true, "content": "I'll be ready. you better be ready too. no excuses"},
+        {"date": "2025-04-28", "hour": 22, "minute": 45, "is_from_me": false, "content": "that was an incredible tie. you deserved to go through. that 90th minute goal was insane"},
+        {"date": "2025-04-28", "hour": 22, "minute": 48, "is_from_me": true, "content": "you pushed us to the absolute limit. I've never been so exhausted. respect"},
+        {"date": "2025-04-28", "hour": 22, "minute": 50, "is_from_me": false, "content": "go win the whole thing. for real. I'll be cheering for you"},
+        {"date": "2025-04-28", "hour": 22, "minute": 52, "is_from_me": true, "content": "appreciate that. we'll do it. see you on the pitch again next season"}
+      ]
+    }
+  ]
+}

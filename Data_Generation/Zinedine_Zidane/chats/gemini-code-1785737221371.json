@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "name": "Zinedine Zidane",
+    "description": "World Cup winner, French football icon, and legendary Real Madrid player and manager.",
+    "birth_year": 1972,
+    "nationality": "French",
+    "hometown": "Marseille, France"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_zidane_dugarry_1998_2022",
+      "contact": "Christophe Dugarry",
+      "messages": [
+        {"date": "1998-07-13", "hour": 2, "minute": 14, "is_from_me": false, "content": "yazzz brother we did it!! two goals on the biggest stage!! marseille is on fire tonight"},
+        {"date": "1998-07-13", "hour": 2, "minute": 18, "is_from_me": true, "content": "i still cant believe it chrif... my head is spinning. the whole country is outside on champs elysees"},
+        {"date": "1998-07-13", "hour": 2, "minute": 20, "is_from_me": false, "content": "you are immortal now mon ami. sleep a bit if you can, parade tomorrow is gonna be crazy"},
+        {"date": "1998-07-13", "hour": 2, "minute": 25, "is_from_me": true, "content": "impossible to sleep haha. thinking about la castellane... where we started"},
+        {"date": "2006-07-10", "hour": 11, "minute": 5, "is_from_me": false, "content": "hey yaz. just checking on you. ignore the media press, we know your heart"},
+        {"date": "2006-07-10", "hour": 11, "minute": 30, "is_from_me": true, "content": "merci chrif. bitter way to finish but it is done. red card or not i acted on impulse. family first always"},
+        {"date": "2006-07-10", "hour": 11, "minute": 32, "is_from_me": false, "content": "you gave everything for the shirt for 12 years. no one forgets that"},
+        {"date": "2006-07-10", "hour": 11, "minute": 40, "is_from_me": true, "content": "time for peace now. veronique and the boys need me home"},
+        {"date": "2018-05-27", "hour": 1, "minute": 45, "is_from_me": false, "content": "3 in a row!! you are insane mon capitain!! kiev was legendary"},
+        {"date": "2018-05-27", "hour": 1, "minute": 50, "is_from_me": true, "content": "gareth volley was unreal haha. exhausting season but this group never dies"},
+        {"date": "2018-05-27", "hour": 1, "minute": 52, "is_from_me": false, "content": "time to celebrate in madrid!"},
+        {"date": "2018-05-27", "hour": 1, "minute": 55, "is_from_me": true, "content": "yes mon ami. cibeles is waiting"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_zidane_perez_2016_2021",
+      "contact": "Florentino Pérez",
+      "messages": [
+        {"date": "2016-01-04", "hour": 14, "minute": 10, "is_from_me": false, "content": "Zizou, the board has approved. Rafa is stepping down. The first team is yours starting today."},
+        {"date": "2016-01-04", "hour": 14, "minute": 15, "is_from_me": true, "content": "Thank you Presidente. I am honored. We will bring back calm and win trophies. Trust me."},
+        {"date": "2016-01-04", "hour": 14, "minute": 18, "is_from_me": false, "content": "The squad respects you immensely. Go lift them up."},
+        {"date": "2016-05-28", "hour": 23, "minute": 55, "is_from_me": true, "content": "Undecima is ours Presidente. Cristiano scored the final penalty."},
+        {"date": "2016-05-29", "hour": 0, "minute": 2, "is_from_me": false, "content": "Magnificent Zizou. You did it in Milan as a manager just like Glasgow as a player. Masterpiece."},
+        {"date": "2018-05-31", "hour": 8, "minute": 30, "is_from_me": true, "content": "Florentino, good morning. As discussed, I think the team needs a new voice to keep winning. I will announce my departure today."},
+        {"date": "2018-05-31", "hour": 8, "minute": 35, "is_from_me": false, "content": "It breaks my heart Zizou, but I respect your decision. Madrid will always be your house."},
+        {"date": "2019-03-11", "hour": 17, "minute": 0, "is_from_me": true, "content": "I am back Presidente. The club needs me and I cannot say no to you."}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_zidane_beckham_2003_2020",
+      "contact": "David Beckham",
+      "messages": [
+        {"date": "2003-07-02", "hour": 18, "minute": 40, "is_from_me": true, "content": "welcome to madrid david! happy to have you in the team mon ami"},
+        {"date": "2003-07-02", "hour": 18, "minute": 42, "is_from_me": false, "content": "thanks zizou! honored to play beside you mate. looking forward to pre season"},
+        {"date": "2003-07-02", "hour": 18, "minute": 45, "is_from_me": true, "content": "your spanish will improve quick haha. don't worry about the noise here, just enjoy playing"},
+        {"date": "2017-06-04", "hour": 10, "minute": 12, "is_from_me": false, "content": "mate that performance in cardiff against juve was total dominance! congrats on back to back champions league!!"},
+        {"date": "2017-06-04", "hour": 10, "minute": 20, "is_from_me": true, "content": "thanks david! modric and toni controlled the midfield perfectly. reminded me of our galactico days"},
+        {"date": "2017-06-04", "hour": 10, "minute": 22, "is_from_me": false, "content": "you're making management look way too easy mate haha"},
+        {"date": "2017-06-04", "hour": 10, "minute": 25, "is_from_me": true, "content": "haha not easy at all... my hair is getting grayer every week bro"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_zidane_veronique_2002_2022",
+      "contact": "Véronique Zidane",
+      "messages": [
+        {"date": "2002-05-15", "hour": 23, "minute": 10, "is_from_me": true, "content": "chérie did you see the volley?? roberto passed high and i just hit it on instinct"},
+        {"date": "2002-05-15", "hour": 23, "minute": 12, "is_from_me": false, "content": "it was beautiful mon amour!! enzo was jumping on the sofa non stop! champion of europe!"},
+        {"date": "2002-05-15", "hour": 23, "minute": 15, "is_from_me": true, "content": "tell enzo his papa is coming home with the trophy tomorrow night. kiss the boys for me"},
+        {"date": "2002-05-15", "hour": 23, "minute": 17, "is_from_me": false, "content": "we love you so much. rest up, glasgow is freezing tonight!"},
+        {"date": "2016-05-28", "hour": 23, "minute": 50, "is_from_me": false, "content": "so proud of you yaz. first year as head coach and champions league winners!"},
+        {"date": "2016-05-28", "hour": 23, "minute": 52, "is_from_me": true, "content": "merci ma chérie. couldn't do any of this without your support keeping the home quiet"},
+        {"date": "2021-05-27", "hour": 19, "minute": 30, "is_from_me": true, "content": "it's done chérie. official release is out. no more press conferences for a long time"},
+        {"date": "2021-05-27", "hour": 19, "minute": 35, "is_from_me": false, "content": "finally! now we pack for marseille and Aix. time to rest mon chéri"}
+      ]
+    },
+    {
+      "chat_id": "imessage_zidane_enzo_2014_2023",
+      "contact": "Enzo Zidane",
+      "messages": [
+        {"date": "2014-11-16", "hour": 18, "minute": 5, "is_from_me": true, "content": "good match today with Castilla enzo. keep your touches light, don't rush the first pass"},
+        {"date": "2014-11-16", "hour": 18, "minute": 10, "is_from_me": false, "content": "thanks dad. trying to find space between the lines like you showed me"},
+        {"date": "2014-11-16", "hour": 18, "minute": 12, "is_from_me": true, "content": "play with pleasure enzo. do not think about the name on the back of the shirt. just enjoy"},
+        {"date": "2016-11-30", "hour": 21, "minute": 45, "is_from_me": false, "content": "scoring on my debut at Bernabeu with you on the bench... dream come true dad"},
+        {"date": "2016-11-30", "hour": 21, "minute": 48, "is_from_me": true, "content": "i tried to stay calm on the touchline but inside i was crying proud father moments son. well done"},
+        {"date": "2022-12-18", "hour": 19, "minute": 15, "is_from_me": false, "content": "what an incredible world cup final dad! france fought back so hard"},
+        {"date": "2022-12-18", "hour": 19, "minute": 20, "is_from_me": true, "content": "yes son. football is ruthless sometimes, but mbappe and the team showed huge courage. proud of french football"}
+      ]
+    },
+    {
+      "chat_id": "imessage_zidane_blanc_2000_2018",
+      "contact": "Laurent Blanc",
+      "messages": [
+        {"date": "2000-07-02", "hour": 23, "minute": 45, "is_from_me": false, "content": "trezeguet golden goal!! world cup and euro double yaz!! best team in history!"},
+        {"date": "2000-07-02", "hour": 23, "minute": 48, "is_from_me": true, "content": "unbelievable lolo!! we never stopped believing even at 90 mins against italy"},
+        {"date": "2000-07-02", "hour": 23, "minute": 50, "is_from_me": false, "content": "your control in the midfield second half changed everything mon ami"},
+        {"date": "2000-07-02", "hour": 23, "minute": 55, "is_from_me": true, "content": "we celebrate tonight in rotterdam! france is on top of the world again"},
+        {"date": "2016-01-10", "hour": 10, "minute": 15, "is_from_me": false, "content": "congrats on winning your first match as real manager 5-0! tactical setup looked sharp yaz"},
+        {"date": "2016-01-10", "hour": 10, "minute": 22, "is_from_me": true, "content": "merci lolo. taking it one match at a time. coaching is ten times more stressful than playing!"}
+      ]
+    }
+  ]
+}

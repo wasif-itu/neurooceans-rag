@@ -1,0 +1,144 @@
+Comprehensive Prompt for Generating LifeWeaver Persona Data
+Purpose
+Generate complete LifeWeaver chat data for specified famous personalities, with realistic conversations spanning their entire lives across multiple chat threads (WhatsApp and iMessage), plus a separate text file of search engine queries for images. This data will seed a story-generation application that creates narratives from chat history.
+System Context
+Application: LifeWeaver - An AI story generation system that takes thousands of pictures, WhatsApp messages, and iMessages to create life stories (daily, weekly, monthly, yearly summaries) for individuals.
+Data Requirements:
+Chat Messages: Multiple chat threads (3-10 per person) with 10-50 messages each, spanning different life phases, in JSON format
+Image Search Queries: 10 search engine queries in a separate .txt file that would retrieve relevant images from different moments in the person's life
+Persona Generation Rules
+1. Persona Selection
+You will be given the name of a famous person. You must generate data for that specific person only. Do not select or suggest alternative personas.
+2. Persona Context Structure
+For the given persona, define:
+Name: Full name
+Birth Year: Year of birth
+Nationality: Country of origin
+Hometown: City/region
+Brief Description: 1-2 sentences summarizing their significance
+Key Relationships: 3-10 important people in their life (family, friends, colleagues, rivals) - include realistic names
+Personality Traits: How they speak, text, behave (e.g., "Warm, sarcastic, uses lowercase, lots of emojis")
+Life Arc: Major events from childhood to present day
+3. Chat Thread Generation
+Thread Requirements:
+3-10 threads per person (mix of WhatsApp and iMessage)
+10-50 messages per thread
+Cover different life phases (childhood, career start, peak, late career, post-career)
+Each thread has a unique contact/relationship
+Natural chronological flow with gaps (hours, days, weeks, sometimes years)
+Chat Types (choose 3-8):
+Mentor/Manager/Coach: Career guidance, professional relationship
+Parent/Close Family: Personal life, support, family matters
+Best Friend/Confidante: Deep conversations, emotional support
+Romantic Partner/Spouse: Love, relationship milestones, family
+Rival/Peer: Competition, mutual respect, friendly banter
+Child: Fatherhood/motherhood, legacy, teaching
+Teammate/Colleague: Professional collaboration, shared success
+Family Group Chat: Extended family, celebrations, connectedness
+Message Attributes:
+date: "YYYY-MM-DD" format, any real past date
+hour: 0-23 integer
+minute: 0-59 integer
+is_from_me: boolean (true = persona, false = contact)
+content: message text (plain, no markdown, no HTML)
+4. Writing Style Rules
+Realistic Texting Voice:
+Casual, natural texting: lowercase, occasional typos, emojis
+Contractions (can't, don't, won't, gonna, wanna)
+Sentence fragments, ellipses for trailing off
+No formal/narrated prose - read like actual text messages
+Character Consistency:
+Each persona has a distinct voice matching their personality
+Each contact has a consistent voice
+Use real events, dates, feelings, callbacks to earlier messages
+Avoid generic filler ("that's great!", "how are you") - every exchange must carry real detail
+Chronological Flow:
+Spread across realistic dates and times
+Natural gaps (hours, days, sometimes weeks) between exchanges
+Story arc within each thread (beginning → middle → emotional peak → resolution)
+Content Specificity:
+Name real events, dates, feelings, callbacks
+Concrete details that can later be retrieved and quoted by story-generation model
+Avoid PII (phone numbers, addresses, etc.)
+5. Search Engine Queries Generation
+Format: Separate .txt file with 10 search queries, one per line
+Coverage: Queries should span the persona's entire life arc:
+Childhood/hometown
+Early career breakthrough
+Peak success moments
+Personal milestones (weddings, children)
+Later career/post-career
+Legacy moments
+Controversies or challenges
+Awards/recognition
+Query Format: Plain text search queries that would retrieve relevant images
+Use specific keywords (names, dates, events, locations)
+Include relevant descriptors (e.g., "celebrating", "training", "with family")
+Search engine optimized format
+Examples:
+text
+Lewis Hamilton Stevenage childhood go-karting 1990sLewis Hamilton first win World Championship 2008 McLarenLewis Hamilton record 7th World Championship 2020 Turkey
+Output Format
+JSON Structure (for chat data only)
+json
+{  "persona": {    "name": "Full Name",    "description": "Brief description of significance",    "birth_year": 1985,    "nationality": "Nationality",    "hometown": "City, Country"  },  "whatsapp": [    {      "chat_id": "whatsapp_persona_contact_YYYY_YYYY",      "contact": "Contact Name",      "messages": [        {"date": "YYYY-MM-DD", "hour": 0-23, "minute": 0-59, "is_from_me": true/false, "content": "message text"}      ]    }  ],  "imessage": [    {      "chat_id": "imessage_persona_contact_YYYY_YYYY",      "contact": "Contact Name",      "messages": [        {"date": "YYYY-MM-DD", "hour": 0-23, "minute": 0-59, "is_from_me": true/false, "content": "message text"}      ]    }  ]}
+Separate .txt File (for search queries)
+text
+query 1query 2query 3query 4query 5query 6query 7query 8query 9query 10
+Detailed Example: Lewis Hamilton
+Persona Context (for reference only - generated internally)
+text
+Name: Lewis HamiltonDescription: 7-time Formula 1 World Champion, Mercedes-AMG Petronas driver, activist, fashion iconBirth Year: 1985Nationality: BritishHometown: Stevenage, EnglandPersonality: Passionate, outspoken, emotional, perfectionist, deeply committed to social justice, uses emojis frequently, gives detailed technical feedback, supportive of teammatesKey Relationships: Toto Wolff (Team Principal), Angela Cullen (Trainer), Sebastian Vettel (Fellow Driver/Friend), Anthony Hamilton (Father), Nicole Scherzinger (Ex-Partner), Kanye West (Friend), Family GroupLife Arc: Childhood go-karting → McLaren debut (2007) → First World Championship (2008) → Move to Mercedes (2013) → 6th & 7th Championships (2019-2020) → 2021 Abu Dhabi controversy → 8th Championship (2023) → Move to Ferrari (2024)
+Generated Chat Threads (example - actual varies per persona)
+WhatsApp - Toto Wolff: 45 messages (March-November 2023)
+WhatsApp - Sebastian Vettel: 28 messages (January-December 2023)
+WhatsApp - Anthony Hamilton: 30 messages (January-November 2023)
+WhatsApp - Kanye West: 22 messages (April-August 2023)
+iMessage - Angela Cullen: 36 messages (January-December 2023)
+iMessage - Nicole Scherzinger: 26 messages (February-November 2023)
+iMessage - Roscoe's Caretaker: 18 messages (January-November 2023)
+Example JSON Output (first few messages only)
+json
+{  "persona": {    "name": "Lewis Hamilton",    "description": "7-time Formula 1 World Champion, Mercedes-AMG Petronas driver, activist, fashion icon",    "birth_year": 1985,    "nationality": "British",    "hometown": "Stevenage, England"  },  "whatsapp": [    {      "chat_id": "whatsapp_hamilton_toto_2023",      "contact": "Toto Wolff",      "messages": [        {"date": "2023-03-02", "hour": 9, "minute": 15, "is_from_me": false, "content": "lewis. we need to talk about the car setup. sim says we're losing 2 tenths in sector 2"},        {"date": "2023-03-02", "hour": 9, "minute": 17, "is_from_me": true, "content": "yeah i felt it too. the rear's not gripping on exit. I'm already working with the engineers on it"},        {"date": "2023-03-02", "hour": 9, "minute": 20, "is_from_me": false, "content": "good. push them. we can't afford a slow start this year"}      ]    }  ],  "imessage": [    {      "chat_id": "imessage_hamilton_angela_2023",      "contact": "Angela Cullen",      "messages": [        {"date": "2023-01-03", "hour": 7, "minute": 15, "is_from_me": true, "content": "morning ange. ready for the torture session?"},        {"date": "2023-01-03", "hour": 7, "minute": 16, "is_from_me": false, "content": "always! hope you're ready. it's leg day and i'm not going easy"}      ]    }  ]}
+Example .txt File (search queries)
+text
+Lewis Hamilton Stevenage childhood go-karting 1990sLewis Hamilton first win World Championship 2008 McLarenLewis Hamilton Mercedes move 2013 contract announcementLewis Hamilton 6th World Championship 2019 MexicoLewis Hamilton record 7th World Championship 2020 TurkeyLewis Hamilton Abu Dhabi 2021 championship controversyLewis Hamilton knighthood 2021 New Year Honours listLewis Hamilton 8th World Championship 2023 Abu DhabiLewis Hamilton Mercedes Ferrari announcement 2024 shocking moveLewis Hamilton documentary Netflix behind the scenes 2025
+Quality Control Checklist
+Per Persona:
+□ 3-10 unique chat threads created
+□ 10-50 messages per thread (mix of lengths)
+□ 10 search queries in separate .txt file covering different life moments
+□ Multiple life phases covered (childhood → peak → present)
+□ Consistent character voice throughout
+□ Realistic conversations with emotional arc
+□ Chronological ordering with natural gaps
+□ No PII (phone numbers, addresses)
+□ Specific details/events that can be retrieved later
+□ Proper JSON formatting (valid, no trailing commas)
+Overall:
+□ All messages in plain text (no markdown, no HTML)
+□ Mix of WhatsApp and iMessage threads
+□ Natural alternation of is_from_me (not 1-for-1 pattern)
+□ Realistic dates (historical/current, not all same day)
+□ Queries.txt file has exactly 10 queries, one per line
+Advanced Tips
+For Maximum Realism:
+Reference pop culture and current events of the time period
+Use era-appropriate slang (e.g., "lol" appears in 2000s+, "haha" across all eras)
+Include inside jokes and callbacks to earlier messages
+Vary message lengths (short texts, longer emotional messages)
+Add typos occasionally but not too many (realistic but not sloppy)
+Include group chats for family and friends (adds social dimension)
+Thread story arcs that span weeks/months within each chat
+For Story Generation Quality:
+Seed emotional moments that can be expanded into full stories
+Include specific dates and times for event anchoring
+Use concrete language ("the 2019 Mexico race" vs "that race")
+Name key people and places for contextual richness
+Include contrasting viewpoints (argument, disagreement, resolution)
+For Search Queries:
+Cover different eras of the person's life
+Include key milestones that would have generated significant media coverage
+Use specific keywords (names, dates, events, locations)
+Format as actual search queries that would retrieve relevant images
+Include 10 distinct moments - no repeats
