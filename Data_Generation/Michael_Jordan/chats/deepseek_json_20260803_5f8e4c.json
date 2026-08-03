@@ -1,0 +1,281 @@
+{
+  "persona": {
+    "name": "Michael Jeffrey Jordan",
+    "description": "Widely regarded as the greatest basketball player of all time, 6-time NBA champion with the Chicago Bulls, 5-time MVP, 14-time All-Star, Olympic gold medalist, and influential global icon",
+    "birth_year": 1963,
+    "nationality": "American",
+    "hometown": "Wilmington, North Carolina"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_jordan_pippen_1996_1998",
+      "contact": "Scottie Pippen",
+      "messages": [
+        {"date": "1996-06-16", "hour": 22, "minute": 45, "is_from_me": true, "content": "scottie. we did it again. 4th ring. nobody can stop us"},
+        {"date": "1996-06-16", "hour": 22, "minute": 47, "is_from_me": false, "content": "I still can't believe we beat them that bad. 72 wins and a championship. unreal"},
+        {"date": "1996-06-16", "hour": 22, "minute": 50, "is_from_me": true, "content": "told you at the start of the season. we were gonna dominate. you doubted me"},
+        {"date": "1996-06-16", "hour": 22, "minute": 52, "is_from_me": false, "content": "I never doubted. I just thought 72 was crazy. but you kept pushing everyone"},
+        {"date": "1996-06-16", "hour": 22, "minute": 55, "is_from_me": true, "content": "that's what I do. I push. you stepped up this season. proud of you"},
+        {"date": "1996-07-15", "hour": 14, "minute": 20, "is_from_me": false, "content": "you going to the olympics? I'm thinking about it"},
+        {"date": "1996-07-15", "hour": 14, "minute": 23, "is_from_me": true, "content": "dream team 2. yeah I'm going. you should too. another gold sounds good"},
+        {"date": "1996-07-15", "hour": 14, "minute": 25, "is_from_me": false, "content": "alright. let's do it. but I'm not carrying your bags this time"},
+        {"date": "1996-07-15", "hour": 14, "minute": 27, "is_from_me": true, "content": "haha you will if you want to win. that's how it works"},
+        {"date": "1997-06-01", "hour": 20, "minute": 15, "is_from_me": true, "content": "flu game. didn't even need to be 100%. still dropped 38 on them"},
+        {"date": "1997-06-01", "hour": 20, "minute": 18, "is_from_me": false, "content": "I was watching you in the tunnel before the game. you looked like death. then you went out and did that"},
+        {"date": "1997-06-01", "hour": 20, "minute": 20, "is_from_me": true, "content": "mind over matter. I wasn't gonna lose game 5. not to utah. never"},
+        {"date": "1997-06-01", "hour": 20, "minute": 22, "is_from_me": false, "content": "you're something else mike. I've never seen anything like it"},
+        {"date": "1998-06-14", "hour": 23, "minute": 30, "is_from_me": false, "content": "game 6. that last shot. that was the greatest moment I've ever been part of"},
+        {"date": "1998-06-14", "hour": 23, "minute": 33, "is_from_me": true, "content": "the shot heard round the world. pushed off a little. but they didn't call it"},
+        {"date": "1998-06-14", "hour": 23, "minute": 35, "is_from_me": false, "content": "haha I saw it. but that's what makes you great. you find a way"},
+        {"date": "1998-06-14", "hour": 23, "minute": 38, "is_from_me": true, "content": "6 rings. back to back to back. twice. nobody's ever gonna do that again"},
+        {"date": "1998-06-14", "hour": 23, "minute": 40, "is_from_me": false, "content": "we did it. I don't know about the future but this moment. this is everything"},
+        {"date": "1998-06-14", "hour": 23, "minute": 43, "is_from_me": true, "content": "enjoy it scottie. we earned this. all those practices. all that pain. worth it"},
+        {"date": "1998-07-20", "hour": 10, "minute": 30, "is_from_me": false, "content": "phil's leaving. what are you gonna do?"},
+        {"date": "1998-07-20", "hour": 10, "minute": 33, "is_from_me": true, "content": "I don't know. this might be it for me too. nothing left to prove"},
+        {"date": "1998-07-20", "hour": 10, "minute": 35, "is_from_me": false, "content": "you can't retire. you're the greatest. you'll get bored"},
+        {"date": "1998-07-20", "hour": 10, "minute": 38, "is_from_me": true, "content": "I never get bored. I've got golf. and I need a break"},
+        {"date": "1999-01-13", "hour": 12, "minute": 00, "is_from_me": false, "content": "just saw the news. you're really retiring. I'm gonna miss you out there"},
+        {"date": "1999-01-13", "hour": 12, "minute": 03, "is_from_me": true, "content": "I'll miss competing with you. but I'm at peace with it. we did everything"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jordan_phil_1991_1998",
+      "contact": "Phil Jackson",
+      "messages": [
+        {"date": "1991-06-12", "hour": 22, "minute": 30, "is_from_me": false, "content": "michael. first ring. how does it feel?"},
+        {"date": "1991-06-12", "hour": 22, "minute": 33, "is_from_me": true, "content": "finally. it's like a weight lifted. but I already want the next one"},
+        {"date": "1991-06-12", "hour": 22, "minute": 35, "is_from_me": false, "content": "that's the right mindset. this is just the beginning of a dynasty"},
+        {"date": "1991-06-12", "hour": 22, "minute": 38, "is_from_me": true, "content": "I trust you coach. the triangle works. I bought in and now I'm champion"},
+        {"date": "1991-06-12", "hour": 22, "minute": 40, "is_from_me": false, "content": "you bought in? you fought me every step of the way. but you learned"},
+        {"date": "1991-06-12", "hour": 22, "minute": 42, "is_from_me": true, "content": "I had to see it work. I'm a skeptic. you proved me wrong"},
+        {"date": "1993-06-20", "hour": 23, "minute": 15, "is_from_me": false, "content": "three in a row. nobody thought we could do it again"},
+        {"date": "1993-06-20", "hour": 23, "minute": 18, "is_from_me": true, "content": "I told you we would. we're unstoppable when we're all on the same page"},
+        {"date": "1993-08-10", "hour": 19, "minute": 45, "is_from_me": true, "content": "coach. I need to talk. my father... he's gone"},
+        {"date": "1993-08-10", "hour": 19, "minute": 48, "is_from_me": false, "content": "michael. I'm so sorry. is there anything I can do?"},
+        {"date": "1993-08-10", "hour": 19, "minute": 50, "is_from_me": true, "content": "no. I just... I don't know if I can keep playing. I need time"},
+        {"date": "1993-08-10", "hour": 19, "minute": 53, "is_from_me": false, "content": "take all the time you need. basketball will always be here when you're ready"},
+        {"date": "1993-10-06", "hour": 15, "minute": 00, "is_from_me": true, "content": "I'm retiring coach. I can't do it right now. everything feels empty"},
+        {"date": "1993-10-06", "hour": 15, "minute": 03, "is_from_me": false, "content": "I understand. you've given everything to the game. your father would be proud"},
+        {"date": "1995-03-18", "hour": 10, "minute": 30, "is_from_me": false, "content": "you're coming back. I knew it. the game is in your blood"},
+        {"date": "1995-03-18", "hour": 10, "minute": 33, "is_from_me": true, "content": "I miss it too much. I miss competing. I miss winning"},
+        {"date": "1995-03-18", "hour": 10, "minute": 35, "is_from_me": false, "content": "you never really left. welcome back. we've got work to do"},
+        {"date": "1996-06-16", "hour": 23, "minute": 00, "is_from_me": true, "content": "we're back on top coach. 72-10. then the ring. I told you"},
+        {"date": "1996-06-16", "hour": 23, "minute": 03, "is_from_me": false, "content": "you were right. this is the greatest season ever. and it's not even close"},
+        {"date": "1997-06-01", "hour": 21, "minute": 30, "is_from_me": true, "content": "flu game. I know you were worried. but I had to play"},
+        {"date": "1997-06-01", "hour": 21, "minute": 33, "is_from_me": false, "content": "worried doesn't begin to describe it. but you are superhuman. I've never seen anything like that"},
+        {"date": "1998-06-14", "hour": 23, "minute": 45, "is_from_me": false, "content": "the last dance. that shot. I don't know what to say"},
+        {"date": "1998-06-14", "hour": 23, "minute": 48, "is_from_me": true, "content": "six. count 'em. six. this is the perfect ending"},
+        {"date": "1998-06-14", "hour": 23, "minute": 50, "is_from_me": false, "content": "it is. I'm so honored to have coached you. you're the greatest ever"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jordan_barkley_1992_1995",
+      "contact": "Charles Barkley",
+      "messages": [
+        {"date": "1992-07-15", "hour": 18, "minute": 30, "is_from_me": false, "content": "dream team. we're gonna destroy everyone. you ready?"},
+        {"date": "1992-07-15", "hour": 18, "minute": 33, "is_from_me": true, "content": "I was born ready. but can you handle playing with me?"},
+        {"date": "1992-07-15", "hour": 18, "minute": 35, "is_from_me": false, "content": "I can handle anyone. I'm the round mound of rebound. you just score"},
+        {"date": "1992-07-15", "hour": 18, "minute": 38, "is_from_me": true, "content": "I do everything. scoring. defense. leadership. you just rebound"},
+        {"date": "1992-07-15", "hour": 18, "minute": 40, "is_from_me": false, "content": "haha you're an asshole. but you're right. I'll bring the boards"},
+        {"date": "1993-06-20", "hour": 23, "minute": 15, "is_from_me": true, "content": "three-peat. how's that taste from the sidelines?"},
+        {"date": "1993-06-20", "hour": 23, "minute": 18, "is_from_me": false, "content": "don't rub it in. we were close. but you're just better"},
+        {"date": "1993-06-20", "hour": 23, "minute": 20, "is_from_me": true, "content": "close doesn't count. you know that. rings matter"},
+        {"date": "1993-06-20", "hour": 23, "minute": 22, "is_from_me": false, "content": "I know. and I hate that you're right. one day I'll get one"},
+        {"date": "1995-03-18", "hour": 20, "minute": 00, "is_from_me": false, "content": "you're back! I thought you were done with basketball"},
+        {"date": "1995-03-18", "hour": 20, "minute": 02, "is_from_me": true, "content": "baseball was fun. but I'm a winner. I need rings"},
+        {"date": "1995-03-18", "hour": 20, "minute": 05, "is_from_me": false, "content": "get ready. I'm coming for you. 1996 is my year"},
+        {"date": "1995-03-18", "hour": 20, "minute": 08, "is_from_me": true, "content": "you can try. but you know how this ends. I win. you lose"},
+        {"date": "1996-06-16", "hour": 23, "minute": 00, "is_from_me": false, "content": "72 wins. ring number 4. you're not human. I'm starting to think you're actually an alien"},
+        {"date": "1996-06-16", "hour": 23, "minute": 03, "is_from_me": true, "content": "just hard work. and talent. and competitive fire. things you have. just not enough"},
+        {"date": "1996-06-16", "hour": 23, "minute": 05, "is_from_me": false, "content": "I hate that I can't hate you. you're the best. I'll admit it"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jordan_dennis_1995_1997",
+      "contact": "Dennis Rodman",
+      "messages": [
+        {"date": "1995-08-15", "hour": 15, "minute": 20, "is_from_me": false, "content": "mike. I'm coming to chicago. we're gonna win everything"},
+        {"date": "1995-08-15", "hour": 15, "minute": 23, "is_from_me": true, "content": "good. I need someone who can rebound like crazy. you're crazy in other ways too"},
+        {"date": "1995-08-15", "hour": 15, "minute": 25, "is_from_me": false, "content": "crazy is my secret. you score. I board. scottie defends. unstoppable"},
+        {"date": "1995-08-15", "hour": 15, "minute": 28, "is_from_me": true, "content": "don't let me down. I hate losing more than I love winning"},
+        {"date": "1996-06-16", "hour": 23, "minute": 30, "is_from_me": false, "content": "I told you. championship. number 4. I'm a winner now"},
+        {"date": "1996-06-16", "hour": 23, "minute": 33, "is_from_me": true, "content": "you were huge this season. your rebounding changed everything. keep it up"},
+        {"date": "1997-06-01", "hour": 21, "minute": 45, "is_from_me": false, "content": "flu game. you're sick as a dog. and you dominate. I don't understand you"},
+        {"date": "1997-06-01", "hour": 21, "minute": 48, "is_from_me": true, "content": "you don't need to understand. just get me the ball. and the rebounds. I'll do the rest"},
+        {"date": "1997-06-01", "hour": 21, "minute": 50, "is_from_me": false, "content": "you're insane. but I love it. I'd die for you on that court"},
+        {"date": "1997-06-01", "hour": 21, "minute": 52, "is_from_me": true, "content": "I know you would. that's why you're my worm. now let's get another ring"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jordan_steve_1997_1998",
+      "contact": "Steve Kerr",
+      "messages": [
+        {"date": "1997-06-12", "hour": 19, "minute": 30, "is_from_me": false, "content": "mike. I just want to say I appreciate you trusting me. you could have taken that shot"},
+        {"date": "1997-06-12", "hour": 19, "minute": 33, "is_from_me": true, "content": "I trusted you because you were open. and you've worked your ass off. you earned it"},
+        {"date": "1997-06-12", "hour": 19, "minute": 35, "is_from_me": false, "content": "I'll never forget that pass. game 6. championship on the line. you found me"},
+        {"date": "1997-06-12", "hour": 19, "minute": 38, "is_from_me": true, "content": "that's what great teams do. we find the open man. and you knocked it down"},
+        {"date": "1997-06-12", "hour": 19, "minute": 40, "is_from_me": false, "content": "you're the greatest for a reason. you make everyone around you better"},
+        {"date": "1998-06-14", "hour": 23, "minute": 30, "is_from_me": false, "content": "game 6. the last dance. you did it again. pushed off or not. it's a legend"},
+        {"date": "1998-06-14", "hour": 23, "minute": 33, "is_from_me": true, "content": "haha I saw that replay. but legends are made of those moments. I'll take it"},
+        {"date": "1998-06-14", "hour": 23, "minute": 35, "is_from_me": false, "content": "six rings. I still can't believe I was part of it. thank you mike"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jordan_tiger_1999_2005",
+      "contact": "Tiger Woods",
+      "messages": [
+        {"date": "1999-07-20", "hour": 16, "minute": 00, "is_from_me": false, "content": "MJ. I saw your golf swing. you need help"},
+        {"date": "1999-07-20", "hour": 16, "minute": 03, "is_from_me": true, "content": "haha I can beat you at golf. don't test me"},
+        {"date": "1999-07-20", "hour": 16, "minute": 05, "is_from_me": false, "content": "you can't beat me at anything. you're too competitive for your own good"},
+        {"date": "1999-07-20", "hour": 16, "minute": 08, "is_from_me": true, "content": "I retired from basketball. golf is my new thing. watch out"},
+        {"date": "2000-06-15", "hour": 15, "minute": 30, "is_from_me": false, "content": "I heard you won that celebrity tournament. you might be getting better"},
+        {"date": "2000-06-15", "hour": 15, "minute": 33, "is_from_me": true, "content": "I'm improving. you should give me lessons. I'll pay"},
+        {"date": "2000-06-15", "hour": 15, "minute": 35, "is_from_me": false, "content": "you can't pay me enough. but I'll beat you on the course"},
+        {"date": "2005-05-10", "hour": 12, "minute": 00, "is_from_me": true, "content": "congratulations on the masters win. you're a beast"},
+        {"date": "2005-05-10", "hour": 12, "minute": 03, "is_from_me": false, "content": "thanks. but you're still the G.O.A.T. of all sports"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_jordan_juanita_1989_1998",
+      "contact": "Juanita Vanoy",
+      "messages": [
+        {"date": "1989-09-02", "hour": 20, "minute": 15, "is_from_me": true, "content": "I love you. I can't wait to marry you. everything is falling into place"},
+        {"date": "1989-09-02", "hour": 20, "minute": 18, "is_from_me": false, "content": "I love you too. you're going to be an amazing husband. and father"},
+        {"date": "1989-09-02", "hour": 20, "minute": 20, "is_from_me": true, "content": "I'm going to give you everything. I promise. a family. a life. everything"},
+        {"date": "1990-06-18", "hour": 19, "minute": 30, "is_from_me": false, "content": "jeffrey is here! we have a son. you're a father. I love you"},
+        {"date": "1990-06-18", "hour": 19, "minute": 33, "is_from_me": true, "content": "I'm crying. I can't believe it. I'm gonna be the best father. I promise"},
+        {"date": "1991-06-12", "hour": 23, "minute": 30, "is_from_me": false, "content": "champion husband. champion father. I'm so proud of you"},
+        {"date": "1991-06-12", "hour": 23, "minute": 33, "is_from_me": true, "content": "I did it for you. for our family. this is just the beginning"},
+        {"date": "1992-11-13", "hour": 20, "minute": 00, "is_from_me": false, "content": "marcus is here. two sons. and one day they'll know how great their father is"},
+        {"date": "1992-11-13", "hour": 20, "minute": 03, "is_from_me": true, "content": "they'll know their mother is the greatest. you gave me a family"},
+        {"date": "1993-08-10", "hour": 20, "minute": 30, "is_from_me": true, "content": "juanita. my father. I can't. I just can't"},
+        {"date": "1993-08-10", "hour": 20, "minute": 33, "is_from_me": false, "content": "I know baby. I know. I'm here. I'll always be here"},
+        {"date": "1993-08-10", "hour": 20, "minute": 35, "is_from_me": true, "content": "I don't know what to do. basketball doesn't matter. nothing matters"},
+        {"date": "1993-10-06", "hour": 16, "minute": 00, "is_from_me": true, "content": "I'm retiring. I need to be with family. I need to heal"},
+        {"date": "1993-10-06", "hour": 16, "minute": 03, "is_from_me": false, "content": "I support you. we'll get through this. I promise"},
+        {"date": "1996-06-16", "hour": 23, "minute": 00, "is_from_me": false, "content": "I'm so proud of you. 72 wins. ring number 4. you came back stronger"},
+        {"date": "1996-06-16", "hour": 23, "minute": 03, "is_from_me": true, "content": "I came back for you. for the family. for everything"},
+        {"date": "1998-06-14", "hour": 23, "minute": 45, "is_from_me": false, "content": "six rings. the greatest. I'm glad I was here to see it all"},
+        {"date": "1998-06-14", "hour": 23, "minute": 48, "is_from_me": true, "content": "you made all of this possible. thank you. for everything"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jordan_deloris_1978_1998",
+      "contact": "Deloris Jordan",
+      "messages": [
+        {"date": "1978-05-15", "hour": 17, "minute": 30, "is_from_me": true, "content": "mom. I got cut from the varsity team. I'm so embarrassed"},
+        {"date": "1978-05-15", "hour": 17, "minute": 33, "is_from_me": false, "content": "michael. this isn't the end. this is just the beginning. use this as motivation"},
+        {"date": "1978-05-15", "hour": 17, "minute": 35, "is_from_me": true, "content": "I'm gonna work harder than anyone. I promise. I'll never let this happen again"},
+        {"date": "1978-05-15", "hour": 17, "minute": 38, "is_from_me": false, "content": "that's my son. that fighting spirit. you'll make us proud. I know it"},
+        {"date": "1982-03-29", "hour": 22, "minute": 00, "is_from_me": true, "content": "mom. I hit the game winner. NCAA championship. I did it"},
+        {"date": "1982-03-29", "hour": 22, "minute": 03, "is_from_me": false, "content": "I was screaming at the TV. everyone knew you'd make it. you have ice in your veins"},
+        {"date": "1984-06-19", "hour": 20, "minute": 00, "is_from_me": true, "content": "drafted to the bulls. I'm going to make it in the NBA"},
+        {"date": "1984-06-19", "hour": 20, "minute": 03, "is_from_me": false, "content": "you already have. I'm so proud of you michael. always"},
+        {"date": "1993-08-10", "hour": 20, "minute": 30, "is_from_me": true, "content": "mom. I can't breathe. dad's gone. I can't do this"},
+        {"date": "1993-08-10", "hour": 20, "minute": 33, "is_from_me": false, "content": "my baby. we'll get through this together. your father loved you so much"},
+        {"date": "1993-08-10", "hour": 20, "minute": 35, "is_from_me": true, "content": "I wanted to make him proud. he was my everything"},
+        {"date": "1993-08-10", "hour": 20, "minute": 38, "is_from_me": false, "content": "he was proud of you every single day. you made his life so full"},
+        {"date": "1993-10-06", "hour": 16, "minute": 00, "is_from_me": true, "content": "I'm retiring mom. I need to figure things out"},
+        {"date": "1993-10-06", "hour": 16, "minute": 03, "is_from_me": false, "content": "do what you need to do. but remember who you are. you're a champion"},
+        {"date": "1995-03-18", "hour": 11, "minute": 00, "is_from_me": true, "content": "I'm going back mom. I need to win again"},
+        {"date": "1995-03-18", "hour": 11, "minute": 03, "is_from_me": false, "content": "I knew you would. you can't stay away from the game you love"},
+        {"date": "1996-06-16", "hour": 23, "minute": 30, "is_from_me": true, "content": "I won again mom. 4th ring. 72 wins. I did it for dad"},
+        {"date": "1996-06-16", "hour": 23, "minute": 33, "is_from_me": false, "content": "he's watching from heaven. he's so proud. I'm so proud"},
+        {"date": "1998-06-14", "hour": 23, "minute": 45, "is_from_me": true, "content": "six rings. can you believe it? from that boy who got cut from varsity"},
+        {"date": "1998-06-14", "hour": 23, "minute": 48, "is_from_me": false, "content": "I always believed. you're the greatest son a mother could ask for"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jordan_ahmad_1991_1998",
+      "contact": "Ahmad Rashad",
+      "messages": [
+        {"date": "1991-06-12", "hour": 22, "minute": 45, "is_from_me": false, "content": "mike. you did it. first ring. how are you feeling?"},
+        {"date": "1991-06-12", "hour": 22, "minute": 48, "is_from_me": true, "content": "like I can finally breathe. everyone said I couldn't win. I proved them wrong"},
+        {"date": "1991-06-12", "hour": 22, "minute": 50, "is_from_me": false, "content": "you always prove them wrong. that's what makes you great"},
+        {"date": "1992-06-14", "hour": 22, "minute": 30, "is_from_me": false, "content": "back to back. dynasty is forming. I'm honored to call you a friend"},
+        {"date": "1992-06-14", "hour": 22, "minute": 33, "is_from_me": true, "content": "you've been with me from the start. I appreciate you so much"},
+        {"date": "1993-06-20", "hour": 23, "minute": 00, "is_from_me": false, "content": "three-peat. nobody's done this since the 60s. history"},
+        {"date": "1993-06-20", "hour": 23, "minute": 03, "is_from_me": true, "content": "we're special. this group. this team. I'll never forget this"},
+        {"date": "1995-03-18", "hour": 11, "minute": 30, "is_from_me": false, "content": "you're back! I got the call from your agent. I'm gonna cry"},
+        {"date": "1995-03-18", "hour": 11, "minute": 33, "is_from_me": true, "content": "I'm back. I need to win again. I need that feeling"},
+        {"date": "1996-06-16", "hour": 23, "minute": 30, "is_from_me": false, "content": "72 wins. ring number 4. this is the greatest season of all time"},
+        {"date": "1996-06-16", "hour": 23, "minute": 33, "is_from_me": true, "content": "I told you I'd come back and dominate. I keep my promises"},
+        {"date": "1998-06-14", "hour": 23, "minute": 45, "is_from_me": false, "content": "the last dance. I was there in the stands. I saw that shot. it was the most incredible thing I've ever witnessed"},
+        {"date": "1998-06-14", "hour": 23, "minute": 48, "is_from_me": true, "content": "I wanted to give the fans something special. I think I did. thank you for always being there"},
+        {"date": "1998-06-14", "hour": 23, "minute": 50, "is_from_me": false, "content": "always. you changed the game forever. I'm honored"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jordan_james_sr_1984_1993",
+      "contact": "James R. Jordan Sr.",
+      "messages": [
+        {"date": "1984-06-19", "hour": 21, "minute": 00, "is_from_me": false, "content": "son. I'm so proud of you. drafted to the NBA. this is everything we dreamed"},
+        {"date": "1984-06-19", "hour": 21, "minute": 03, "is_from_me": true, "content": "I couldn't have done it without you. all those hours in the driveway. you pushed me"},
+        {"date": "1984-06-19", "hour": 21, "minute": 05, "is_from_me": false, "content": "I always knew you'd make it. you have that fire. that determination"},
+        {"date": "1986-04-20", "hour": 20, "minute": 30, "is_from_me": true, "content": "dad. I scored 63 points against bird and the celtics. in the playoffs"},
+        {"date": "1986-04-20", "hour": 20, "minute": 33, "is_from_me": false, "content": "I watched every second. you were amazing. but they still won. don't let it stop you"},
+        {"date": "1986-04-20", "hour": 20, "minute": 35, "is_from_me": true, "content": "it won't. I'm going to destroy everyone next year. I promise"},
+        {"date": "1989-05-07", "hour": 21, "minute": 00, "is_from_me": true, "content": "the shot over ehlo. game 5. we won the series. I'm coming for that ring"},
+        {"date": "1989-05-07", "hour": 21, "minute": 03, "is_from_me": false, "content": "that's my son. clutch. ice cold. I knew you had it in you"},
+        {"date": "1991-06-12", "hour": 23, "minute": 30, "is_from_me": false, "content": "first championship. I'm crying son. I never doubted. not once"},
+        {"date": "1991-06-12", "hour": 23, "minute": 33, "is_from_me": true, "content": "I did it for you. this is just the first. there's more coming"},
+        {"date": "1991-06-12", "hour": 23, "minute": 35, "is_from_me": false, "content": "I know there is. you're the greatest. I've always said it"},
+        {"date": "1993-06-20", "hour": 23, "minute": 30, "is_from_me": false, "content": "three in a row. I'm speechless. you're making history"},
+        {"date": "1993-06-20", "hour": 23, "minute": 33, "is_from_me": true, "content": "I want to keep winning. for you. for our family"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jordan_jeffrey_2003_2010",
+      "contact": "Jeffrey Jordan",
+      "messages": [
+        {"date": "2003-04-16", "hour": 22, "minute": 30, "is_from_me": true, "content": "hey son. I just played my last game. how are you doing?"},
+        {"date": "2003-04-16", "hour": 22, "minute": 33, "is_from_me": false, "content": "I'm proud of you dad. I've watched your whole career. you're the best ever"},
+        {"date": "2003-04-16", "hour": 22, "minute": 35, "is_from_me": true, "content": "thank you. but you know what? I'm excited to just be your dad now. no more distractions"},
+        {"date": "2003-04-16", "hour": 22, "minute": 38, "is_from_me": false, "content": "you were always my dad first. I just shared you with the world"},
+        {"date": "2005-08-10", "hour": 15, "minute": 00, "is_from_me": true, "content": "you know you can talk to me about anything right? I know it's not easy being my son"},
+        {"date": "2005-08-10", "hour": 15, "minute": 03, "is_from_me": false, "content": "it's okay dad. I've made peace with it. I'm my own person. I'll figure it out"},
+        {"date": "2005-08-10", "hour": 15, "minute": 05, "is_from_me": true, "content": "that's all I want. for you to be happy. I love you"},
+        {"date": "2007-06-20", "hour": 19, "minute": 30, "is_from_me": false, "content": "I'm going to play basketball in college. I hope you're okay with that"},
+        {"date": "2007-06-20", "hour": 19, "minute": 33, "is_from_me": true, "content": "I'm more than okay with it. just be yourself. don't try to be me. be better"},
+        {"date": "2010-06-15", "hour": 18, "minute": 00, "is_from_me": true, "content": "I'm buying the bobcats. I wanted you to hear it from me first"},
+        {"date": "2010-06-15", "hour": 18, "minute": 03, "is_from_me": false, "content": "wow. owner dad. that's incredible. I'm so excited for you"},
+        {"date": "2010-06-15", "hour": 18, "minute": 05, "is_from_me": true, "content": "I want you to be part of it. if you want. this is for our family"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jordan_marcus_2003_2010",
+      "contact": "Marcus Jordan",
+      "messages": [
+        {"date": "2003-04-16", "hour": 22, "minute": 30, "is_from_me": true, "content": "marcus. dad's done. how do you feel about it?"},
+        {"date": "2003-04-16", "hour": 22, "minute": 33, "is_from_me": false, "content": "I'm happy you can spend more time with us now. I've missed you"},
+        {"date": "2003-04-16", "hour": 22, "minute": 35, "is_from_me": true, "content": "I've missed you too. we're going to make up for lost time. I promise"},
+        {"date": "2005-08-10", "hour": 15, "minute": 00, "is_from_me": false, "content": "everyone expects me to be like you. it's a lot of pressure"},
+        {"date": "2005-08-10", "hour": 15, "minute": 03, "is_from_me": true, "content": "I know. and I'm sorry for that. you don't have to be me. you just have to be you"},
+        {"date": "2005-08-10", "hour": 15, "minute": 05, "is_from_me": false, "content": "easier said than done. but I'm trying to find my own path"},
+        {"date": "2008-06-15", "hour": 18, "minute": 00, "is_from_me": true, "content": "I know you're considering UCF. I'm behind you 100% whatever you choose"},
+        {"date": "2008-06-15", "hour": 18, "minute": 03, "is_from_me": false, "content": "really? I thought you'd push me to UNC"},
+        {"date": "2008-06-15", "hour": 18, "minute": 05, "is_from_me": true, "content": "no. I pushed myself enough for a lifetime. you choose what makes you happy"},
+        {"date": "2008-06-15", "hour": 18, "minute": 08, "is_from_me": false, "content": "thanks dad. that means everything"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jordan_family_1996_1998",
+      "contact": "Jordan Family Group",
+      "messages": [
+        {"date": "1996-06-16", "hour": 23, "minute": 00, "is_from_me": false, "content": "championship! we're celebrating all night - juanita"},
+        {"date": "1996-06-16", "hour": 23, "minute": 02, "is_from_me": false, "content": "daddy won! daddy won! - jeffrey (from juanita's phone)"},
+        {"date": "1996-06-16", "hour": 23, "minute": 05, "is_from_me": true, "content": "I love you all. this is for our family. for everything"},
+        {"date": "1996-06-16", "hour": 23, "minute": 08, "is_from_me": false, "content": "you're the greatest. I've always said it. - deloris"},
+        {"date": "1997-06-01", "hour": 22, "minute": 00, "is_from_me": false, "content": "flu game. I saw you hugging coach. you looked so sick. - deloris"},
+        {"date": "1997-06-01", "hour": 22, "minute": 02, "is_from_me": true, "content": "I felt terrible. but I had to win. I couldn't let them down"},
+        {"date": "1997-06-01", "hour": 22, "minute": 05, "is_from_me": false, "content": "you never let anyone down. you're superhuman - juanita"},
+        {"date": "1998-06-14", "hour": 23, "minute": 30, "is_from_me": false, "content": "six. you did it again. I can't stop crying - deloris"},
+        {"date": "1998-06-14", "hour": 23, "minute": 33, "is_from_me": false, "content": "the greatest finals ever. I was screaming - jeffrey"},
+        {"date": "1998-06-14", "hour": 23, "minute": 35, "is_from_me": true, "content": "thank you all. you've supported me through everything. I love you all"},
+        {"date": "1998-06-14", "hour": 23, "minute": 38, "is_from_me": false, "content": "we love you more. now come home. we're celebrating - juanita"}
+      ]
+    }
+  ]
+}

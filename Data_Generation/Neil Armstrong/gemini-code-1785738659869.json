@@ -1,0 +1,72 @@
+{
+  "persona": {
+    "name": "Neil Armstrong",
+    "description": "Naval aviator, X-15 test pilot, Gemini 8 command pilot, and Apollo 11 commander—the first human to walk on the Moon.",
+    "birth_year": 1930,
+    "nationality": "American",
+    "hometown": "Wapakoneta, Ohio"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_armstrong_buzz_1969_2009",
+      "contact": "Buzz Aldrin",
+      "messages": [
+        {"date": "1969-07-21", "hour": 4, "minute": 15, "is_from_me": true, "content": "buzz, the landing site at tranquil base is clear. fuel was down to 20 seconds, but Eagle is stable. remarkable view out the hatch"},
+        {"date": "1969-07-21", "hour": 4, "minute": 20, "is_from_me": false, "content": "Magnificent desolation Neil. Preparations for surface EVA are complete on my side."},
+        {"date": "1969-07-21", "hour": 4, "minute": 25, "is_from_me": true, "content": "stepping off the ladder now. step for a man... giant leap for mankind"},
+        {"date": "1969-07-21", "hour": 6, "minute": 10, "is_from_me": false, "content": "Planted the flag and gathered the bulk sample. Ascent engine prep commences shortly."},
+        {"date": "1969-07-21", "hour": 6, "minute": 15, "is_from_me": true, "content": "good work buzz. let's focus on rendezvous with mike in Columbia"},
+        {"date": "1999-07-20", "hour": 14, "minute": 30, "is_from_me": false, "content": "Hard to believe it has been 30 years since Sea of Tranquility Neil. Time flies."},
+        {"date": "1999-07-20", "hour": 14, "minute": 35, "is_from_me": true, "content": "indeed buzz. 400,000 engineers and technicians made that landing possible. we were just the pilot team at the end of the chain"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_armstrong_collins_1969_2011",
+      "contact": "Michael Collins",
+      "messages": [
+        {"date": "1969-07-20", "hour": 21, "minute": 10, "is_from_me": false, "content": "Eagle, Columbia here. You are tracking well. How does the surface look from orbit altitude?"},
+        {"date": "1969-07-20", "hour": 21, "minute": 12, "is_from_me": true, "content": "mike, terrain looks rough with boulders near West Crater, but we found a smooth patch. taking over manual control now"},
+        {"date": "1969-07-21", "hour": 18, "minute": 0, "is_from_me": false, "content": "Docking complete! Welcome back aboard Columbia gentlemen. Longest lonely orbit of my life is over!"},
+        {"date": "1969-07-21", "hour": 18, "minute": 05, "is_from_me": true, "content": "glad to see you mike. coffee and rest will be welcome before trans-earth injection"},
+        {"date": "2009-07-16", "hour": 10, "minute": 20, "is_from_me": true, "content": "mike, 40th anniversary events at air and space museum today. looking forward to catching up quietly after the press briefings"},
+        {"date": "2009-07-16", "hour": 10, "minute": 25, "is_from_me": false, "content": "Still avoiding the spotlight after four decades Neil! See you at the dinner."}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_armstrong_deke_1966_1985",
+      "contact": "Deke Slayton",
+      "messages": [
+        {"date": "1966-03-16", "hour": 22, "minute": 40, "is_from_me": true, "content": "deke, gemini 8 roll thruster stuck open after successful docking. maneuvered spacecraft manually to stabilize spin and executed emergency re-entry in pacific"},
+        {"date": "1966-03-16", "hour": 22, "minute": 45, "is_from_me": false, "content": "Understood Neil. You and Dave Scott saved the mission from catastrophic structural failure. Outstanding piloting under 1 revolution per second spin."},
+        {"date": "1968-12-23", "hour": 11, "minute": 0, "is_from_me": false, "content": "Neil, drop by my office tomorrow morning. We need to discuss commander assignments for Apollo 11."},
+        {"date": "1968-12-23", "hour": 11, "minute": 05, "is_from_me": true, "content": "roger deke. simulator runs are clear for the morning, I will be there at 0800"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_armstrong_janet_1962_1975",
+      "contact": "Janet Shearon",
+      "messages": [
+        {"date": "1962-09-17", "hour": 18, "minute": 30, "is_from_me": true, "content": "jan, nasa announced the selection of the second astronaut group today. we will be moving from edwards to houston soon"},
+        {"date": "1962-09-17", "hour": 18, "minute": 35, "is_from_me": false, "content": "Oh Neil! Houston will be so different from the desert. The boys and I are ready when you are."},
+        {"date": "1968-05-06", "hour": 16, "minute": 15, "is_from_me": true, "content": "jan, LTV lunar landing research vehicle had a thruster control failure during training today. I ejected at 200 feet. parachute deployed cleanly"},
+        {"date": "1968-05-06", "hour": 16, "minute": 20, "is_from_me": false, "content": "Neil!! Are you injured?! Al Bean told me you walked back to your office with a bit tongue!"},
+        {"date": "1968-05-06", "hour": 16, "minute": 22, "is_from_me": true, "content": "just bit my tongue slightly. fine otherwise. back to paperwork now"},
+        {"date": "1969-08-14", "hour": 20, "minute": 0, "is_from_me": false, "content": "Quarantine at Lunar Receiving Lab is officially over! Parades in New York and Chicago tomorrow Neil."},
+        {"date": "1969-08-14", "hour": 20, "minute": 05, "is_from_me": true, "content": "looking forward to being home with you and the boys far more than the parades jan"}
+      ]
+    },
+    {
+      "chat_id": "imessage_armstrong_rick_1972_2010",
+      "contact": "Rick Armstrong",
+      "messages": [
+        {"date": "1972-10-12", "hour": 17, "minute": 0, "is_from_me": true, "content": "rick, finished grading engineering mechanics papers at university of cincinnati today. glad to be back in the classroom and farm"},
+        {"date": "1972-10-12", "hour": 17, "minute": 05, "is_from_me": false, "content": "Must be nice having students treat you like a professor instead of a celebrity Dad!"},
+        {"date": "1972-10-12", "hour": 17, "minute": 10, "is_from_me": true, "content": "precisely rick. fluid dynamics equations do not care who is solving them. that is the beauty of science"},
+        {"date": "2010-08-05", "hour": 19, "minute": 40, "is_from_me": false, "content": "Happy 80th birthday Dad! Glad we could celebrate quietly at the house."},
+        {"date": "2010-08-05", "hour": 19, "minute": 45, "is_from_me": true, "content": "thank you rick. quiet family moments are always the best milestone celebrations"}
+      ]
+    }
+  ]
+}

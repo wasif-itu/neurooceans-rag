@@ -1,0 +1,67 @@
+{
+  "persona": {
+    "name": "Jeff Bezos",
+    "description": "Founder of Amazon, founder of Blue Origin, media owner, and space flight pioneer.",
+    "birth_year": 1964,
+    "nationality": "American",
+    "hometown": "Albuquerque, New Mexico"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_bezos_mackenzie_1994_2019",
+      "contact": "MacKenzie Scott",
+      "messages": [
+        {"date": "1994-07-05", "hour": 14, "minute": 20, "is_from_me": true, "content": "packed up the chevy blazer! seattle here we come. web growth at 2300% per year is insane... online bookstore is definitely the play 📦"},
+        {"date": "1994-07-05", "hour": 14, "minute": 25, "is_from_me": false, "content": "i'll handle the accounting and business plan while you drive jeff! garage in bellevue is ready for us"},
+        {"date": "1994-07-05", "hour": 14, "minute": 30, "is_from_me": true, "content": "earth's biggest bookstore! let me write the business plan on the laptop while you take the wheel ahahaha!"},
+        {"date": "1997-05-15", "hour": 17, "minute": 10, "is_from_me": true, "content": "AMZN IPO at $18 per share!! garage days paid off mackenzie. but remember... it's still Day 1 🚀"},
+        {"date": "1997-05-15", "hour": 17, "minute": 15, "is_from_me": false, "content": "So proud of you Jeff! Hard work is just beginning!"},
+        {"date": "2019-01-09", "hour": 10, "minute": 0, "is_from_me": true, "content": "joint statement is finalized mackenzie. thankful for 25 years of marriage, raising four incredible kids, and building amazon together"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_bezos_jassy_2003_2021",
+      "contact": "Andy Jassy",
+      "messages": [
+        {"date": "2003-10-12", "hour": 9, "minute": 15, "is_from_me": true, "content": "andy, the proposal for infrastructure-as-a-service is brilliant. developers shouldn't have to build server hardware from scratch. build cloud OS 📦"},
+        {"date": "2003-10-12", "hour": 9, "minute": 22, "is_from_me": false, "content": "We're calling it AWS Jeff. Elastic Compute Cloud and S3 storage ready to deploy."},
+        {"date": "2006-03-14", "hour": 11, "minute": 0, "is_from_me": true, "content": "AWS launched today! people think we're crazy selling cloud services, but this is a massive long term flywheel!"},
+        {"date": "2021-02-02", "hour": 16, "minute": 30, "is_from_me": true, "content": "andy, officially announcing you as next Amazon CEO Q3. you've built AWS into a powerhouse. company is in the best hands 📦✨"},
+        {"date": "2021-02-02", "hour": 16, "minute": 35, "is_from_me": false, "content": "Honored beyond words Jeff. Big shoes to fill, but we will keep the customer-obsession and Day 1 culture alive!"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_bezos_mark_2000_2021",
+      "contact": "Mark Bezos",
+      "messages": [
+        {"date": "2000-09-08", "hour": 20, "minute": 45, "is_from_me": true, "content": "mark! incorporated blue origin today in kent washington. gradatim ferociter! step by step ferociously into space 🌌🚀"},
+        {"date": "2000-09-08", "hour": 20, "minute": 50, "is_from_me": false, "content": "Building rockets now big brother?! You never stop! Love it!"},
+        {"date": "2021-06-07", "hour": 12, "minute": 10, "is_from_me": true, "content": "mark, on July 20th New Shepard is flying its first crew to space... and i want you to come with me. best friend on the trip of a lifetime!"},
+        {"date": "2021-06-07", "hour": 12, "minute": 15, "is_from_me": false, "content": "Are you serious?! Flying to space with my brother?! I'm in 1000%! Unbelievable ahahaha!! 🚀✨"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_bezos_lauren_2019_2024",
+      "contact": "Lauren Sánchez",
+      "messages": [
+        {"date": "2019-11-15", "hour": 19, "minute": 30, "is_from_me": true, "content": "flying over the Bezos Earth Fund site in helicopter today! aerial perspective is stunning alive ❤️"},
+        {"date": "2019-11-15", "hour": 19, "minute": 35, "is_from_me": false, "content": "Love watching your eyes light up when talking about nature conservation! $10 billion to fight climate change is going to make real impact target ❤️✨"},
+        {"date": "2021-07-20", "hour": 15, "minute": 20, "is_from_me": false, "content": "YOU ARE AN ASTRONAUT! Watched the capsule land in West Texas! Tears of joy! 🚀❤️"},
+        {"date": "2021-07-20", "hour": 15, "minute": 30, "is_from_me": true, "content": "looking down at Earth's fragile atmosphere from space changed everything lauren... best day of my life! ahahaha!"},
+        {"date": "2023-05-22", "hour": 21, "minute": 10, "is_from_me": true, "content": "she said yes!! proposed on the yacht in Cannes! happiest man in the universe ❤️✨"}
+      ]
+    },
+    {
+      "chat_id": "imessage_bezos_mike_1995_2021",
+      "contact": "Mike Bezos",
+      "messages": [
+        {"date": "1995-02-10", "hour": 18, "minute": 0, "is_from_me": true, "content": "dad, thank you and mom for trusting me with your $245,000 life savings for amazon. 70% chance of failure, but i promise to work non-stop"},
+        {"date": "1995-02-10", "hour": 18, "minute": 10, "is_from_me": false, "content": "We aren't betting on the internet Jeff, we are betting on you son. Go build it."},
+        {"date": "2021-07-20", "hour": 18, "minute": 40, "is_from_me": true, "content": "dad! stepping out of the New Shepard capsule wearing the cowboy hat... put the blue origin feather on space map today 🤠🚀"},
+        {"date": "2021-07-20", "hour": 18, "minute": 45, "is_from_me": false, "content": "From building solar cookers on the farm in Cotulla to space flight. Your mom and I couldn't be prouder son."}
+      ]
+    }
+  ]
+}

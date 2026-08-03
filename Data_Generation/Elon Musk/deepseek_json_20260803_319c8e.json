@@ -1,0 +1,210 @@
+{
+  "persona": {
+    "name": "Elon Reeve Musk",
+    "description": "Visionary entrepreneur and engineer, founder of SpaceX, CEO of Tesla, co-founder of PayPal, Neuralink, and The Boring Company, owner of X, known for ambitious goals of colonizing Mars and accelerating sustainable energy",
+    "birth_year": 1971,
+    "nationality": "South African-born American",
+    "hometown": "Pretoria, South Africa"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_musk_gwynne_2002_2025",
+      "contact": "Gwynne Shotwell",
+      "messages": [
+        {"date": "2002-05-06", "hour": 10, "minute": 15, "is_from_me": false, "content": "elon. I've looked at the numbers. this is insane. we're going to need serious investment"},
+        {"date": "2002-05-06", "hour": 10, "minute": 18, "is_from_me": true, "content": "I know. paypal money. $165 million. we're going to burn through it. but we're building the future"},
+        {"date": "2002-05-06", "hour": 10, "minute": 20, "is_from_me": false, "content": "you're actually insane. I like it. let's build some rockets"},
+        {"date": "2006-03-24", "hour": 20, "minute": 30, "is_from_me": true, "content": "falcon 1 failed again. I feel sick. we can't keep failing"},
+        {"date": "2006-03-24", "hour": 20, "minute": 33, "is_from_me": false, "content": "we're learning. this is the fourth? no. third. we'll get it"},
+        {"date": "2008-08-03", "hour": 22, "minute": 45, "is_from_me": false, "content": "we're out of money. tesla is burning too. what do we do?"},
+        {"date": "2008-08-03", "hour": 22, "minute": 48, "is_from_me": true, "content": "I'm liquidating everything. personal. we're going to make this work"},
+        {"date": "2008-09-28", "hour": 22, "minute": 30, "is_from_me": true, "content": "we did it. falcon 1 made orbit. the first privately funded rocket. I'm crying"},
+        {"date": "2008-09-28", "hour": 22, "minute": 33, "is_from_me": false, "content": "I'm crying too. we saved the company. we're going to mars"},
+        {"date": "2012-05-25", "hour": 20, "minute": 15, "is_from_me": false, "content": "dragon docked with the ISS. first commercial spacecraft. you did it"},
+        {"date": "2012-05-25", "hour": 20, "minute": 18, "is_from_me": true, "content": "we did it. this is just the beginning. I'm going to send people to mars before 2030"},
+        {"date": "2015-12-22", "hour": 21, "minute": 00, "is_from_me": false, "content": "we landed the booster. I can't believe it. vertical landing on land"},
+        {"date": "2015-12-22", "hour": 21, "minute": 03, "is_from_me": true, "content": "this changes everything. reusability. the economics of space are broken and we fixed it"},
+        {"date": "2018-02-06", "hour": 22, "minute": 30, "is_from_me": true, "content": "falcon heavy. starman in the red tesla. watching the earth from space"},
+        {"date": "2018-02-06", "hour": 22, "minute": 33, "is_from_me": false, "content": "I was crying in the control room. it was beautiful. you're insane. I love it"},
+        {"date": "2020-05-30", "hour": 19, "minute": 45, "is_from_me": true, "content": "crew dragon with astronauts. first commercial human spaceflight. history"},
+        {"date": "2020-05-30", "hour": 19, "minute": 48, "is_from_me": false, "content": "I remember when it was just the two of us and a dream. look at us now"},
+        {"date": "2024-03-14", "hour": 23, "minute": 15, "is_from_me": true, "content": "starship. third flight. it was incredible. the ship is evolving. we're going to mars"},
+        {"date": "2024-03-14", "hour": 23, "minute": 18, "is_from_me": false, "content": "I was holding my breath. it looked like it worked. the heat shield held. I'm going to be on that first mars mission with you. just try to stop me"},
+        {"date": "2025-01-20", "hour": 08, "minute": 00, "is_from_me": false, "content": "you're in the white house tomorrow. shaking hands with trump. what a world"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_musk_kimbal_1995_2025",
+      "contact": "Kimbal Musk",
+      "messages": [
+        {"date": "1995-05-01", "hour": 19, "minute": 30, "is_from_me": false, "content": "elon. zip2 is going to be huge. I can feel it. we're going to be rich"},
+        {"date": "1995-05-01", "hour": 19, "minute": 33, "is_from_me": true, "content": "rich is just the start. I'm building something big. zip2 is step one"},
+        {"date": "1999-02-20", "hour": 15, "minute": 00, "is_from_me": true, "content": "compac bought zip2. $307 million. can you believe it?"},
+        {"date": "1999-02-20", "hour": 15, "minute": 03, "is_from_me": false, "content": "I can't. you did it. I'm so proud. what's next?"},
+        {"date": "1999-02-20", "hour": 15, "minute": 05, "is_from_me": true, "content": "x.com. online banking. I'm going to revolutionize finance"},
+        {"date": "2000-03-16", "hour": 20, "minute": 15, "is_from_me": false, "content": "the merger with confinity is done. you're with peter thiel. this is huge"},
+        {"date": "2000-03-16", "hour": 20, "minute": 18, "is_from_me": true, "content": "we're going to build the future of payments"},
+        {"date": "2002-10-15", "hour": 18, "minute": 30, "is_from_me": true, "content": "I'm starting spacex. rockets. I know it sounds crazy"},
+        {"date": "2002-10-15", "hour": 18, "minute": 33, "is_from_me": false, "content": "it does sound crazy. but when have you ever done something that wasn't? I'm in"},
+        {"date": "2008-09-28", "hour": 22, "minute": 00, "is_from_me": false, "content": "falcon 1 made orbit. you did it. you crazy bastard"},
+        {"date": "2008-09-28", "hour": 22, "minute": 03, "is_from_me": true, "content": "I couldn't have done it without you. you lent me money. you believed when no one else did"},
+        {"date": "2022-04-25", "hour": 18, "minute": 45, "is_from_me": true, "content": "I bought twitter. I know it's crazy. I'm going to fix it"},
+        {"date": "2022-04-25", "hour": 18, "minute": 48, "is_from_me": false, "content": "it is crazy. but if anyone can fix it, it's you. just promise me you won't break the internet"},
+        {"date": "2024-10-31", "hour": 10, "minute": 00, "is_from_me": false, "content": "you're taking a job in government? this is not the elon I know"},
+        {"date": "2024-10-31", "hour": 10, "minute": 03, "is_from_me": true, "content": "it's time for something different. I can shake things up from the inside. trust me"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_musk_grimes_2018_2023",
+      "contact": "Grimes",
+      "messages": [
+        {"date": "2018-05-07", "hour": 23, "minute": 30, "is_from_me": true, "content": "this ai safety thing we're working on. it's huge. you're brilliant. just wanted to say that"},
+        {"date": "2018-05-07", "hour": 23, "minute": 33, "is_from_me": false, "content": "you're not so bad yourself. I love discussing the future with you"},
+        {"date": "2018-05-07", "hour": 23, "minute": 35, "is_from_me": true, "content": "we should meet. properly. I feel something here"},
+        {"date": "2019-10-15", "hour": 15, "minute": 00, "is_from_me": false, "content": "I want to have a child with you. is that crazy?"},
+        {"date": "2019-10-15", "hour": 15, "minute": 03, "is_from_me": true, "content": "not crazy. the future needs kids from people like us"},
+        {"date": "2020-05-04", "hour": 12, "minute": 00, "is_from_me": false, "content": "x Æ A-12 is here. our son. I love him so much already"},
+        {"date": "2020-05-04", "hour": 12, "minute": 03, "is_from_me": true, "content": "I'm holding him. he's perfect. a little robot alien"},
+        {"date": "2021-09-15", "hour": 18, "minute": 30, "is_from_me": true, "content": "we need to figure out what we're doing. this is complicated"},
+        {"date": "2021-09-15", "hour": 18, "minute": 33, "is_from_me": false, "content": "I know. I'll always love you but maybe this is better for our family. separate"},
+        {"date": "2022-06-20", "hour": 20, "minute": 00, "is_from_me": false, "content": "I'm happy for you and shivon. family matters"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_musk_tim_2015_2025",
+      "contact": "Tim Cook",
+      "messages": [
+        {"date": "2015-10-20", "hour": 14, "minute": 30, "is_from_me": false, "content": "elon. congratulations on the model S. it's a remarkable vehicle"},
+        {"date": "2015-10-20", "hour": 14, "minute": 33, "is_from_me": true, "content": "thank you. apple should make an electric car. you could do it"},
+        {"date": "2015-10-20", "hour": 14, "minute": 35, "is_from_me": false, "content": "we're exploring possibilities. but the automotive industry is complex"},
+        {"date": "2015-10-20", "hour": 14, "minute": 38, "is_from_me": true, "content": "it's hard. but it's the future. come join us"},
+        {"date": "2018-07-10", "hour": 16, "minute": 00, "is_from_me": true, "content": "I tried to sell tesla to apple in 2016 for $600 a share. you should have bought"},
+        {"date": "2018-07-10", "hour": 16, "minute": 03, "is_from_me": false, "content": "I remember. we considered it. but I think you're doing well on your own"},
+        {"date": "2018-07-10", "hour": 16, "minute": 05, "is_from_me": true, "content": "stock split adjusted that would be worth $1.2 trillion now. mistakes happen"},
+        {"date": "2024-06-10", "hour": 12, "minute": 00, "is_from_me": false, "content": "the ai race is heating up. I'd love to discuss collaboration"},
+        {"date": "2024-06-10", "hour": 12, "minute": 03, "is_from_me": true, "content": "maybe. but I'm going all in on xAI. you're welcome to join the revolution"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_musk_joe_2021_2024",
+      "contact": "Joe Biden",
+      "messages": [
+        {"date": "2021-08-05", "hour": 15, "minute": 00, "is_from_me": true, "content": "you keep calling me a 'union-busting billionaire'. I'm not anti-union. I'm pro-efficiency"},
+        {"date": "2021-08-05", "hour": 15, "minute": 03, "is_from_me": false, "content": "elon, unions built the middle class. you need to understand workers' rights"},
+        {"date": "2021-08-05", "hour": 15, "minute": 05, "is_from_me": true, "content": "I understand efficiency. my workers are happy. I pay them well. you're misinformed"},
+        {"date": "2022-12-15", "hour": 18, "minute": 30, "is_from_me": false, "content": "your twitter takeover is a disaster. you're spreading misinformation"},
+        {"date": "2022-12-15", "hour": 18, "minute": 33, "is_from_me": true, "content": "I'm restoring free speech. you don't get to decide what is misinformation. twitter was a propaganda machine"},
+        {"date": "2023-06-20", "hour": 14, "minute": 00, "is_from_me": true, "content": "your administration is hostile to tesla and spacex. I'm looking at legal options"},
+        {"date": "2024-07-13", "hour": 16, "minute": 45, "is_from_me": false, "content": "I'm endorsing biden for re-election. he's the right choice for this country"},
+        {"date": "2024-07-13", "hour": 16, "minute": 48, "is_from_me": true, "content": "I was starting to lean towards trump actually"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_musk_jay_2010_2025",
+      "contact": "Jay Leno",
+      "messages": [
+        {"date": "2010-04-15", "hour": 14, "minute": 30, "is_from_me": false, "content": "I just drove the roadster. what a car. you're doing something special"},
+        {"date": "2010-04-15", "hour": 14, "minute": 33, "is_from_me": true, "content": "thanks jay. I saw you on the show. you're one of the few who gets it"},
+        {"date": "2010-04-15", "hour": 14, "minute": 35, "is_from_me": false, "content": "the world needs electric cars. I'll always support what you're doing"},
+        {"date": "2012-06-22", "hour": 20, "minute": 00, "is_from_me": true, "content": "model s is out. you need to drive one. it's the future"},
+        {"date": "2012-06-22", "hour": 20, "minute": 03, "is_from_me": false, "content": "I'm on my way. I told you you'd change the world. I'm not surprised"},
+        {"date": "2015-09-30", "hour": 18, "minute": 15, "is_from_me": false, "content": "autopilot. you're insane. you're going to make people drive themselves"},
+        {"date": "2015-09-30", "hour": 18, "minute": 18, "is_from_me": true, "content": "that's the plan. full self driving by 2020"},
+        {"date": "2023-12-01", "hour": 16, "minute": 00, "is_from_me": false, "content": "cybertruck. I just drove one. it's wild. it's ugly. I love it"},
+        {"date": "2023-12-01", "hour": 16, "minute": 03, "is_from_me": true, "content": "haha 'ugly' is the point. it's post-apocalyptic. that's the vibe"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_musk_justine_2000_2008",
+      "contact": "Justine Wilson",
+      "messages": [
+        {"date": "2000-01-15", "hour": 20, "minute": 30, "is_from_me": true, "content": "I think I'm in love with you. you're the most brilliant woman I've ever met"},
+        {"date": "2000-01-15", "hour": 20, "minute": 33, "is_from_me": false, "content": "you're not so bad yourself. but you're a bit intense sometimes"},
+        {"date": "2000-01-15", "hour": 20, "minute": 35, "is_from_me": true, "content": "intense is who I am. I'm going to change the world. you should be part of it"},
+        {"date": "2000-09-15", "hour": 14, "minute": 00, "is_from_me": false, "content": "I want to have a family with you. is that something you can imagine?"},
+        {"date": "2000-09-15", "hour": 14, "minute": 03, "is_from_me": true, "content": "I can imagine it. but I don't think I'm ready to be a father"},
+        {"date": "2002-05-15", "hour": 16, "minute": 30, "is_from_me": false, "content": "nevada is gone. I can't believe we lost him. I'm broken"},
+        {"date": "2002-05-15", "hour": 16, "minute": 33, "is_from_me": true, "content": "I'm broken too. I don't know how to handle this"},
+        {"date": "2004-06-10", "hour": 12, "minute": 00, "is_from_me": false, "content": "the twins are here. griffin and xavier. look at them. they're perfect"},
+        {"date": "2006-12-10", "hour": 10, "minute": 00, "is_from_me": false, "content": "kai is here. damian is here. saxon is here. our family is growing"},
+        {"date": "2008-06-15", "hour": 22, "minute": 30, "is_from_me": true, "content": "I don't think we're working. I know I'm not easy to be with. but you deserve better. I need to focus on tesla. on spacex"},
+        {"date": "2008-06-15", "hour": 22, "minute": 33, "is_from_me": false, "content": "I know. you've always been married to your work. I'll always care about you"}
+      ]
+    },
+    {
+      "chat_id": "imessage_musk_shivon_2021_2025",
+      "contact": "Shivon Zilis",
+      "messages": [
+        {"date": "2021-11-05", "hour": 20, "minute": 30, "is_from_me": false, "content": "I have something to tell you. I'm pregnant. it's ours. I know this is complicated"},
+        {"date": "2021-11-05", "hour": 20, "minute": 33, "is_from_me": true, "content": "I need time to process this. but I'm not going anywhere. I'll be there for you and the child"},
+        {"date": "2021-11-05", "hour": 20, "minute": 35, "is_from_me": false, "content": "I know it's a lot. but I believe in us. I believe in this"},
+        {"date": "2022-01-02", "hour": 10, "minute": 00, "is_from_me": false, "content": "strider and azure are here. our twins. they're beautiful"},
+        {"date": "2022-01-02", "hour": 10, "minute": 03, "is_from_me": true, "content": "I'm coming over. they need a father. and you need to know I'm committed. to the children. to neuralink. to you"},
+        {"date": "2022-10-15", "hour": 18, "minute": 00, "is_from_me": true, "content": "thank you for being patient with me. I know I'm not easy. you're one of the only people who truly gets what I'm trying to do"}
+      ]
+    },
+    {
+      "chat_id": "imessage_musk_maye_1989_2025",
+      "contact": "Maye Musk",
+      "messages": [
+        {"date": "1989-04-15", "hour": 15, "minute": 30, "is_from_me": true, "content": "mom. I'm leaving south africa. I need to make something of myself"},
+        {"date": "1989-04-15", "hour": 15, "minute": 33, "is_from_me": false, "content": "I know you will. you have that fire. just promise me you'll stay safe. you'll take care of yourself"},
+        {"date": "1989-04-15", "hour": 15, "minute": 35, "is_from_me": true, "content": "I promise. I'm going to do something amazing. I can feel it"},
+        {"date": "1995-09-15", "hour": 20, "minute": 00, "is_from_me": false, "content": "I'm so proud of you. you're building a company. zip2. you're doing it"},
+        {"date": "1995-09-15", "hour": 20, "minute": 03, "is_from_me": true, "content": "thank you mom. I learned from the best. you always pushed me to follow my dreams"},
+        {"date": "2002-10-15", "hour": 16, "minute": 30, "is_from_me": true, "content": "mom. I'm starting spacex. I'm going to put a human on mars"},
+        {"date": "2002-10-15", "hour": 16, "minute": 33, "is_from_me": false, "content": "I've heard you say that since you were a child. go for it. I believe in you"},
+        {"date": "2008-09-28", "hour": 22, "minute": 30, "is_from_me": true, "content": "we did it. falcon 1 made orbit. I'm going to mars mom. I'm really going to do it"},
+        {"date": "2008-09-28", "hour": 22, "minute": 33, "is_from_me": false, "content": "I always knew you would. you're my brilliant son. I love you"},
+        {"date": "2018-02-06", "hour": 22, "minute": 30, "is_from_me": false, "content": "the red tesla in space. it's beautiful. you're incredible"},
+        {"date": "2018-02-06", "hour": 22, "minute": 33, "is_from_me": true, "content": "I did it for you. for everyone who believed in me. I'm going to keep going"},
+        {"date": "2024-10-31", "hour": 10, "minute": 00, "is_from_me": false, "content": "you're going to work with the government? I always knew you'd do something political someday"},
+        {"date": "2024-10-31", "hour": 10, "minute": 03, "is_from_me": true, "content": "it's time for something different. I can shake things up from the inside. trust me mom"},
+        {"date": "2025-01-20", "hour": 08, "minute": 00, "is_from_me": false, "content": "watching you on TV at the inauguration. I'm so proud of you. my son the world changer"}
+      ]
+    },
+    {
+      "chat_id": "imessage_musk_talulah_2010_2016",
+      "contact": "Talulah Riley",
+      "messages": [
+        {"date": "2010-09-20", "hour": 19, "minute": 30, "is_from_me": true, "content": "I love you. you're the most interesting person I've ever met"},
+        {"date": "2010-09-20", "hour": 19, "minute": 33, "is_from_me": false, "content": "I love you too. even though you're insane. it's part of your charm"},
+        {"date": "2010-09-20", "hour": 19, "minute": 35, "is_from_me": true, "content": "I want to marry you. I know it's fast but I know what I want"},
+        {"date": "2012-09-25", "hour": 14, "minute": 00, "is_from_me": false, "content": "you work too much. but I married a man trying to save the world. I knew what I signed up for"},
+        {"date": "2012-09-25", "hour": 14, "minute": 03, "is_from_me": true, "content": "I'm sorry. I'm obsessed. but the world needs saving. you understand right?"},
+        {"date": "2014-12-31", "hour": 23, "minute": 30, "is_from_me": false, "content": "I'm moving out. I need space. you're never here"},
+        {"date": "2014-12-31", "hour": 23, "minute": 33, "is_from_me": true, "content": "I understand. I'm not good at this. but I'll always love you"},
+        {"date": "2016-02-10", "hour": 18, "minute": 00, "is_from_me": false, "content": "I think this is it. I'm going to Australia. I need to move on. I'll always love you elon"},
+        {"date": "2016-02-10", "hour": 18, "minute": 03, "is_from_me": true, "content": "you were the best thing that happened to me. I'll never forget that. be happy"}
+      ]
+    },
+    {
+      "chat_id": "imessage_musk_family_1995_2025",
+      "contact": "Musk Family Group",
+      "messages": [
+        {"date": "1995-09-15", "hour": 20, "minute": 00, "is_from_me": false, "content": "zip2 is founded! my son is an entrepreneur! - maye"},
+        {"date": "1995-09-15", "hour": 20, "minute": 02, "is_from_me": false, "content": "I can't believe you're doing this elon. you're insane. I'm so proud - kimbal"},
+        {"date": "1995-09-15", "hour": 20, "minute": 05, "is_from_me": true, "content": "thank you. this is just the beginning. I love you all"},
+        {"date": "2008-09-28", "hour": 22, "minute": 30, "is_from_me": false, "content": "falcon 1 made orbit! we were watching and screaming! - kimbal"},
+        {"date": "2008-09-28", "hour": 22, "minute": 33, "is_from_me": false, "content": "you saved the company elon. you saved everything - tosca"},
+        {"date": "2008-09-28", "hour": 22, "minute": 35, "is_from_me": true, "content": "I couldn't have done it without you all. I love you all so much"},
+        {"date": "2012-06-22", "hour": 20, "minute": 00, "is_from_me": false, "content": "model s is out! the car of the future! - kimbal"},
+        {"date": "2012-06-22", "hour": 20, "minute": 03, "is_from_me": false, "content": "you've changed the auto industry forever. I'm so proud - maye"},
+        {"date": "2016-12-31", "hour": 23, "minute": 30, "is_from_me": false, "content": "the boring company? you're building tunnels now? you're impossible - tosca"},
+        {"date": "2016-12-31", "hour": 23, "minute": 33, "is_from_me": true, "content": "haha I'm trying to solve traffic. and I thought it was funny"},
+        {"date": "2018-02-06", "hour": 22, "minute": 30, "is_from_me": false, "content": "starman in space. I cried. it was the most beautiful thing I've ever seen - maye"},
+        {"date": "2018-02-06", "hour": 22, "minute": 33, "is_from_me": true, "content": "it was incredible. the earth from space. we need to protect it. and go to mars"},
+        {"date": "2020-05-30", "hour": 19, "minute": 30, "is_from_me": false, "content": "spacex put astronauts in orbit. from the US. on american rockets. you did it - kimbal"},
+        {"date": "2020-05-30", "hour": 19, "minute": 33, "is_from_me": true, "content": "we did it. humanity is becoming a multi-planetary species. this is everything"},
+        {"date": "2022-04-25", "hour": 18, "minute": 30, "is_from_me": false, "content": "you bought twitter. you're running a social media platform now. what is happening - tosca"},
+        {"date": "2022-04-25", "hour": 18, "minute": 33, "is_from_me": true, "content": "I'm protecting free speech. the platform was being censored. I'm going to fix it"},
+        {"date": "2024-03-14", "hour": 23, "minute": 30, "is_from_me": false, "content": "starship third flight. you're really going to mars. this is happening - kimbal"},
+        {"date": "2024-03-14", "hour": 23, "minute": 33, "is_from_me": true, "content": "this is happening. I'm going to die on mars. just not on impact"},
+        {"date": "2025-01-20", "hour": 08, "minute": 00, "is_from_me": false, "content": "the inauguration! you're in the white house! my brother is working for the president - kimbal"},
+        {"date": "2025-01-20", "hour": 08, "minute": 03, "is_from_me": true, "content": "I'm here to get things done. big things. keep watching"}
+      ]
+    }
+  ]
+}

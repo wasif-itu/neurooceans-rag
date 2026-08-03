@@ -1,0 +1,73 @@
+{
+  "persona": {
+    "name": "Serena Williams",
+    "description": "23-time Grand Slam singles champion, sports icon, entrepreneur, and advocate.",
+    "birth_year": 1981,
+    "nationality": "American",
+    "hometown": "Compton, California"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_serena_venus_1999_2022",
+      "contact": "Venus Williams",
+      "messages": [
+        {"date": "1999-09-11", "hour": 21, "minute": 30, "is_from_me": true, "content": "vee i did it!! i actually won the US open!! hinges are officially broken open"},
+        {"date": "1999-09-11", "hour": 21, "minute": 34, "is_from_me": false, "content": "i told you little sister!! so proud of you!! dad is literally screaming in the hallway haha"},
+        {"date": "1999-09-11", "hour": 21, "minute": 38, "is_from_me": true, "content": "we are just getting started ❤️ doubles trophy next!"},
+        {"date": "2003-01-25", "hour": 16, "minute": 10, "is_from_me": false, "content": "serena slam complete! playing you in four straight finals was tough but you earned every bit of it sis"},
+        {"date": "2003-01-25", "hour": 16, "minute": 15, "is_from_me": true, "content": "love you so much vee. holding all four trophies at once wouldn't mean anything without you by my side"},
+        {"date": "2015-07-11", "hour": 17, "minute": 45, "is_from_me": true, "content": "serena slam round two achieved! wimbledon trophy #6 in the bag 🏆✨"},
+        {"date": "2015-07-11", "hour": 17, "minute": 50, "is_from_me": false, "content": "goat status reaffirmed 🔥 line up the outfits for the champions dinner!"},
+        {"date": "2022-09-02", "hour": 23, "minute": 15, "is_from_me": false, "content": "that night session under the lights at arthur ashe was magic serena. the crowd gave you everything"},
+        {"date": "2022-09-02", "hour": 23, "minute": 20, "is_from_me": true, "content": "i wouldn't be serena if there wasn't venus. love you forever vee ❤️ best doubles partner in history"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_serena_patrick_2012_2020",
+      "contact": "Patrick Mouratoglou",
+      "messages": [
+        {"date": "2012-06-30", "hour": 18, "minute": 20, "is_from_me": false, "content": "Great session today Serena. Your serve rhythm is back where it needs to be for Wimbledon."},
+        {"date": "2012-06-30", "hour": 18, "minute": 25, "is_from_me": true, "content": "thanks patrick. losing in paris hurt real bad but i feel the fire again. let's go take wimbledon"},
+        {"date": "2012-07-07", "hour": 17, "minute": 0, "is_from_me": false, "content": "Wimbledon Champion #5! 24 aces in the final match. Incredible focus."},
+        {"date": "2012-07-07", "hour": 17, "minute": 05, "is_from_me": true, "content": "we did it!! this is just the beginning of our work 🔥"},
+        {"date": "2017-01-28", "hour": 20, "minute": 12, "is_from_me": false, "content": "Grand Slam #23 in Melbourne. Absolutely unbelievable. You made history today."},
+        {"date": "2017-01-28", "hour": 20, "minute": 18, "is_from_me": true, "content": "and i did it while 8 weeks pregnant haha! keep that secret for a few more weeks patrick 🤫❤️"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_serena_wozniacki_2014_2020",
+      "contact": "Caroline Wozniacki",
+      "messages": [
+        {"date": "2014-09-07", "hour": 22, "minute": 10, "is_from_me": true, "content": "caro! amazing fight today in the final. you know you are family to me right?"},
+        {"date": "2014-09-07", "hour": 22, "minute": 15, "is_from_me": false, "content": "love you serena! if i had to lose to anyone at ashe stadium i'm glad it was you! congratulations on #18 🏆"},
+        {"date": "2014-09-07", "hour": 22, "minute": 18, "is_from_me": true, "content": "vacation time now!! miami beach here we come 🌴💃🏽"},
+        {"date": "2018-01-27", "hour": 14, "minute": 30, "is_from_me": true, "content": "CARO YOU DID IT!!! GRAND SLAM CHAMPION AND WORLD NUMBER 1 AGAIN!! i am crying tears of joy right now😭🏆❤️"},
+        {"date": "2018-01-27", "hour": 14, "minute": 35, "is_from_me": false, "content": "thank you serena!! watching you win for so many years showed me how to keep fighting!! love you so much!"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_serena_alexis_2016_2022",
+      "contact": "Alexis Ohanian",
+      "messages": [
+        {"date": "2016-12-10", "hour": 20, "minute": 15, "is_from_me": true, "content": "hey business mogul... missing you in LA! did you finish reading the pitch deck i sent?"},
+        {"date": "2016-12-10", "hour": 20, "minute": 20, "is_from_me": false, "content": "Just reviewed it! Serena Ventures is going to redefine early-stage investing. So proud of your vision ❤️"},
+        {"date": "2017-09-01", "hour": 15, "minute": 45, "is_from_me": false, "content": "She's here! Alexis Olympia Ohanian Jr. is healthy and perfect. You were so brave today my love."},
+        {"date": "2017-09-01", "hour": 16, "minute": 02, "is_from_me": true, "content": "my heart is completely overflowing... she is our entire world alexis 👶🏽❤️"},
+        {"date": "2022-08-09", "hour": 11, "minute": 30, "is_from_me": true, "content": "vogue article is live babe... officially announced my evolution away from tennis"},
+        {"date": "2022-08-09", "hour": 11, "minute": 35, "is_from_me": false, "content": "The greatest legacy in sports history. Now onto the next chapter together building businesses and raising Olympia ❤️🔥"}
+      ]
+    },
+    {
+      "chat_id": "imessage_serena_oracene_2002_2021",
+      "contact": "Oracene Price",
+      "messages": [
+        {"date": "2002-07-06", "hour": 19, "minute": 10, "is_from_me": true, "content": "mom! holding the wimbledon dish! thank you for everything you instilled in us from day 1"},
+        {"date": "2002-07-06", "hour": 19, "minute": 15, "is_from_me": false, "content": "God is good Serena. You worked hard and stayed humble. proud of you baby girl"},
+        {"date": "2018-07-14", "hour": 18, "minute": 40, "is_from_me": true, "content": "mom i couldn't get the win today at wimbledon... felt so hard after everything with the childbirth complications"},
+        {"date": "2018-07-14", "hour": 18, "minute": 45, "is_from_me": false, "content": "you reached a grand slam final less than a year after almost dying in the hospital serena. you are already a winner to all mothers"}
+      ]
+    }
+  ]
+}

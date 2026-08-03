@@ -1,0 +1,68 @@
+{
+  "persona": {
+    "name": "Shahid Afridi",
+    "description": "2009 T20 World Cup champion, former Pakistan captain, legendary explosive all-rounder, and philanthropist.",
+    "birth_year": 1977,
+    "nationality": "Pakistani",
+    "hometown": "Karachi, Pakistan"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_afridi_wasim_1996_2022",
+      "contact": "Wasim Akram",
+      "messages": [
+        {"date": "1996-10-04", "hour": 19, "minute": 10, "is_from_me": false, "content": "Shahid man what was that!! 37 balls century with Waqar's bat!! Whole world is talking about you boy!"},
+        {"date": "1996-10-04", "hour": 19, "minute": 15, "is_from_me": true, "content": "Wasim bhai Allah ka shukar hai!! Just went out and tried to hit every ball! Couldn't have done it without your guidance 🙌🇵🇰"},
+        {"date": "1996-10-04", "hour": 19, "minute": 18, "is_from_me": false, "content": "Keep your feet on the ground Lala. You are a superstar now, work even harder."},
+        {"date": "2009-06-21", "hour": 23, "minute": 40, "is_from_me": false, "content": "Lala hero performance in both semi and final!! World Cup Champions at Lord's!! Star pose was everywhere!"},
+        {"date": "2009-06-21", "hour": 23, "minute": 45, "is_from_me": true, "content": "Wasim bhai victory for the whole country! People needed this happiness back home ❤️🇵🇰⭐"},
+        {"date": "2021-10-24", "hour": 23, "minute": 10, "is_from_me": true, "content": "Wasim bhai historic win against India today! Boys played with so much courage"},
+        {"date": "2021-10-24", "hour": 23, "minute": 15, "is_from_me": false, "content": "Shaheen bowled like you in your prime Lala! Perfect yorkers!"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_afridi_shaheen_2020_2024",
+      "contact": "Shaheen Shah Afridi",
+      "messages": [
+        {"date": "2020-11-10", "hour": 21, "minute": 30, "is_from_me": true, "content": "Shaheen brilliant spell today in PSL. Maintain that wrist position when pitching full"},
+        {"date": "2020-11-10", "hour": 21, "minute": 35, "is_from_me": false, "content": "JazakAllah Lala bhai! Trying to work on the inswinger to right handers. Appreciate the advice always 🙏"},
+        {"date": "2023-02-03", "hour": 22, "minute": 0, "is_from_me": false, "content": "Lala bhai feeling so blessed to join the family today. Thank you for welcoming me with open arms"},
+        {"date": "2023-02-03", "hour": 22, "minute": 05, "is_from_me": true, "content": "Ansha is very precious to us Shaheen. May Allah bless both of you with endless happiness. Always here for you son ❤️🤲"},
+        {"date": "2024-02-18", "hour": 18, "minute": 20, "is_from_me": true, "content": "Lead Lahore Qalandars with full confidence beta. Don't take pressure of captaincy, just enjoy your bowling ⭐"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_afridi_shoaib_2007_2020",
+      "contact": "Shoaib Akhtar",
+      "messages": [
+        {"date": "2007-09-24", "hour": 20, "minute": 15, "is_from_me": false, "content": "Lala player of the tournament in T20 WC! You bowled like a magician throughout South Africa!"},
+        {"date": "2007-09-24", "hour": 20, "minute": 20, "is_from_me": true, "content": "shoaib jani missed you in the squad brother! we almost won the final. next time trophy is ours Inshallah 🙌"},
+        {"date": "2014-03-02", "hour": 22, "minute": 10, "is_from_me": false, "content": "TWO SIXES OFF ASHWIN IN THE LAST OVER!! BOOM BOOM AFRIDI IS UNBEATABLE!! RAWALPINDI EXPRESS IS DANCING 😂🔥"},
+        {"date": "2014-03-02", "hour": 22, "minute": 15, "is_from_me": true, "content": "haha shoaib! heart was beating so fast brother! hit them clean for Pakistan! 🇵🇰⭐"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_afridi_ansha_2018_2023",
+      "contact": "Ansha Afridi",
+      "messages": [
+        {"date": "2018-03-10", "hour": 16, "minute": 20, "is_from_me": true, "content": "Ansha beta how is university going today? don't forget to eat lunch on time ❤️"},
+        {"date": "2018-03-10", "hour": 16, "minute": 25, "is_from_me": false, "content": "Going great Baba! Just finished classes. Hope your foundation event in Lahore went well!"},
+        {"date": "2018-03-10", "hour": 16, "minute": 30, "is_from_me": true, "content": "Alhamdulillah raised good funds for the hospital in Thar today. Heading to airport now, bringing sweets for everyone!"},
+        {"date": "2023-02-02", "hour": 23, "minute": 15, "is_from_me": true, "content": "My little princess... seeing you as a bride tomorrow makes my heart full. Allah always protect you Ansha beta ❤️🤲"},
+        {"date": "2023-02-02", "hour": 23, "minute": 20, "is_from_me": false, "content": "Love you so much Baba! You are the best father in the world. Thank you for everything ❤️😭"}
+      ]
+    },
+    {
+      "chat_id": "imessage_afridi_younis_2009_2017",
+      "contact": "Younis Khan",
+      "messages": [
+        {"date": "2009-06-21", "hour": 22, "minute": 30, "is_from_me": true, "content": "Younis bhai thank you for promoting me to number 3 in the order! It changed my entire tournament 🙌"},
+        {"date": "2009-06-21", "hour": 22, "minute": 35, "is_from_me": false, "content": "I knew you would win us the cup Shahid. You are a big match player. Enjoy this moment skipper!"},
+        {"date": "2017-04-10", "hour": 14, "minute": 0, "is_from_me": true, "content": "Younis bhai congratulations on 10,000 Test runs! First Pakistani to do it. Absolute legend of world cricket 🇵🇰⭐"},
+        {"date": "2017-04-10", "hour": 14, "minute": 10, "is_from_me": false, "content": "JazakAllah Lala! Means a lot coming from you brother. Time for both of us to mentor the kids now!"}
+      ]
+    }
+  ]
+}

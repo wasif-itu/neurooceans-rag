@@ -1,0 +1,166 @@
+{
+  "persona": {
+    "name": "Dr. Abdul Qadeer Khan",
+    "description": "Pakistani nuclear scientist and metallurgical engineer, founder of the Kahuta Research Laboratories (KRL), widely regarded as the father of Pakistan's nuclear weapons program, central figure in Pakistan's atomic bomb development",
+    "birth_year": 1936,
+    "nationality": "Pakistani",
+    "hometown": "Bhopal, India (migrated to Pakistan in 1952)"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_khan_bhutto_1974_1976",
+      "contact": "Zulfikar Ali Bhutto",
+      "messages": [
+        {"date": "1974-05-18", "hour": 18, "minute": 30, "is_from_me": false, "content": "dr. khan. I need to meet you. immediately. we have been humiliated by india"},
+        {"date": "1974-05-18", "hour": 18, "minute": 33, "is_from_me": true, "content": "yes prime minister. I know why you're calling. their nuclear test. I've been thinking about this for years"},
+        {"date": "1974-05-18", "hour": 18, "minute": 35, "is_from_me": false, "content": "I need you to build us a bomb. we have nothing. india will blackmail us. I've seen the reports from the netherlands"},
+        {"date": "1974-05-18", "hour": 18, "minute": 38, "is_from_me": true, "content": "I can do it. I have the knowledge. I have the blueprints in my head. but I need full authority. I need resources"},
+        {"date": "1974-05-18", "hour": 18, "minute": 40, "is_from_me": false, "content": "you will have everything. anything you ask. this is the most important mission in our nation's history. protect the secrecy"},
+        {"date": "1974-12-20", "hour": 16, "minute": 00, "is_from_me": true, "content": "prime minister. I've made progress. I have the centrifuge designs finalized. I need to start construction"},
+        {"date": "1974-12-20", "hour": 16, "minute": 03, "is_from_me": false, "content": "I'll authorize everything. build your lab in kahuta. I want the first bomb ready by 1980"},
+        {"date": "1975-07-10", "hour": 15, "minute": 30, "is_from_me": false, "content": "dr. khan. I need a timeline. the nation needs to know when we can test"},
+        {"date": "1975-07-10", "hour": 15, "minute": 33, "is_from_me": true, "content": "I am confident we can build the bomb in six years. I'll be ready for our independence day in 1976 to show you"},
+        {"date": "1976-09-06", "hour": 18, "minute": 00, "is_from_me": false, "content": "I saw the centrifuges. you've done it. we're going to build this bomb. Pakistan's survival depends on you"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_khan_zia_1977_1980",
+      "contact": "General Muhammad Zia-ul-Haq",
+      "messages": [
+        {"date": "1977-07-05", "hour": 20, "minute": 00, "is_from_me": false, "content": "dr. khan. I've taken over. the nation needs stability. your program will continue. full support"},
+        {"date": "1977-07-05", "hour": 20, "minute": 03, "is_from_me": true, "content": "general. I don't care who runs the country as long as the program continues. I need your support"},
+        {"date": "1977-07-05", "hour": 20, "minute": 05, "is_from_me": false, "content": "you have it. I want the bomb in my lifetime. this is the most important mission"},
+        {"date": "1979-12-27", "hour": 18, "minute": 00, "is_from_me": true, "content": "general. the soviets invaded afghanistan. the americans are going to put pressure on us. I need more resources quickly"},
+        {"date": "1979-12-27", "hour": 18, "minute": 03, "is_from_me": false, "content": "take whatever you need. I'll sign any authorization. your program is our shield"},
+        {"date": "1980-06-15", "hour": 16, "minute": 30, "is_from_me": true, "content": "we've enriched uranium. the first batch. it's happening. but I need more centrifuges"},
+        {"date": "1980-06-15", "hour": 16, "minute": 33, "is_from_me": false, "content": "get them. whatever it takes. I don't care about the west. I care about Pakistan"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_khan_ishfaq_1980_1998",
+      "contact": "Dr. Ishfaq Ahmad",
+      "messages": [
+        {"date": "1980-10-10", "hour": 14, "minute": 00, "is_from_me": false, "content": "dr. khan. I'm happy to collaborate. but PAEC has a different approach. we need to coordinate"},
+        {"date": "1980-10-10", "hour": 14, "minute": 03, "is_from_me": true, "content": "coordinate? you want to take credit for my work. I built the centrifuges. I brought the blueprints. you were nowhere"},
+        {"date": "1980-10-10", "hour": 14, "minute": 05, "is_from_me": false, "content": "that's not fair. we've been working on the plutonium route. we need both paths to succeed"},
+        {"date": "1980-10-10", "hour": 14, "minute": 08, "is_from_me": true, "content": "your plutonium path will take decades. I'll have the uranium bomb in five years. let the record show"},
+        {"date": "1998-05-28", "hour": 20, "minute": 30, "is_from_me": true, "content": "we did it. the chagai tests. you know I made this possible. you know it. the uranium bomb is ours"},
+        {"date": "1998-05-28", "hour": 20, "minute": 33, "is_from_me": false, "content": "we did it together. as a nation. I won't deny your contributions. but I wish you would acknowledge mine"},
+        {"date": "1998-05-28", "hour": 20, "minute": 35, "is_from_me": true, "content": "I built the centrifuges from nothing. I risked my life. the uranium bomb is my child. my life's work"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_khan_samar_1998_2005",
+      "contact": "Dr. Samar Mubarakmand",
+      "messages": [
+        {"date": "1998-05-28", "hour": 20, "minute": 30, "is_from_me": false, "content": "dr. khan. the tests were successful. all five devices. Pakistan is a nuclear power"},
+        {"date": "1998-05-28", "hour": 20, "minute": 33, "is_from_me": true, "content": "the uranium bomb made it possible. my centrifuges. my years of work. nobody can deny that"},
+        {"date": "1998-05-28", "hour": 20, "minute": 35, "is_from_me": false, "content": "I know. I've always respected your contribution. we all have"},
+        {"date": "1998-06-01", "hour": 18, "minute": 00, "is_from_me": true, "content": "I'll be speaking on tv tonight. I'll tell the nation what we built. the indians will think twice"},
+        {"date": "2004-02-01", "hour": 16, "minute": 30, "is_from_me": false, "content": "dr. khan. I've heard about the confessions. I'm concerned about what you've said. what happened?"},
+        {"date": "2004-02-01", "hour": 16, "minute": 33, "is_from_me": true, "content": "they forced me. the americans. the military. I had no choice. I'm a patriot. I've always served Pakistan"},
+        {"date": "2004-02-01", "hour": 16, "minute": 35, "is_from_me": false, "content": "I believe you. but the world sees it differently. you're a hero to Pakistan. that's what matters"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_khan_musharraf_2001_2008",
+      "contact": "General Pervez Musharraf",
+      "messages": [
+        {"date": "2001-10-15", "hour": 14, "minute": 00, "is_from_me": false, "content": "dr. khan. the americans are coming. after 9/11. we need to be careful about the program"},
+        {"date": "2001-10-15", "hour": 14, "minute": 03, "is_from_me": true, "content": "I will not let them interfere. this is my life's work. you cannot stop me"},
+        {"date": "2001-10-15", "hour": 14, "minute": 05, "is_from_me": false, "content": "I don't want to stop you. but we must be discreet. the world is watching"},
+        {"date": "2004-02-01", "hour": 10, "minute": 00, "is_from_me": false, "content": "dr. khan. you've been implicated in the proliferation network. I have to do something"},
+        {"date": "2004-02-01", "hour": 10, "minute": 03, "is_from_me": true, "content": "they forced me. I was protecting Pakistan. you know this. you have to believe me"},
+        {"date": "2004-02-01", "hour": 10, "minute": 05, "is_from_me": false, "content": "I'll protect you. but I need you to cooperate. you'll be under house arrest. for your own protection"},
+        {"date": "2004-02-04", "hour": 18, "minute": 30, "is_from_me": true, "content": "I've been betrayed. by everyone. I built this nation's nuclear shield. and this is my reward. house arrest"},
+        {"date": "2007-08-15", "hour": 16, "minute": 00, "is_from_me": false, "content": "your condition is being reviewed. I'll make sure you get proper care. you're still a national hero"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_khan_dutch_1972_1975",
+      "contact": "Hendrik Slebos (URENCO Colleague)",
+      "messages": [
+        {"date": "1972-06-15", "hour": 14, "minute": 30, "is_from_me": false, "content": "dr. khan. you've been very interested in the centrifuge designs. more than most"},
+        {"date": "1972-06-15", "hour": 14, "minute": 33, "is_from_me": true, "content": "I'm a scientist. I want to understand everything. this is revolutionary technology"},
+        {"date": "1972-06-15", "hour": 14, "minute": 35, "is_from_me": false, "content": "of course. but you seem to be memorizing things. taking notes in your head"},
+        {"date": "1972-06-15", "hour": 14, "minute": 38, "is_from_me": true, "content": "I have a good memory. I want to bring this knowledge to my country. we need it"},
+        {"date": "1975-12-20", "hour": 18, "minute": 00, "is_from_me": false, "content": "I've been informed about your activities. they say you've taken classified documents. you've betrayed us"},
+        {"date": "1975-12-20", "hour": 18, "minute": 03, "is_from_me": true, "content": "I've taken nothing. I have a good memory. I remember everything. they can't stop me"},
+        {"date": "1975-12-20", "hour": 18, "minute": 05, "is_from_me": false, "content": "you're a brilliant scientist. but you've chosen your path. you've made an enemy of the west"},
+        {"date": "1975-12-20", "hour": 18, "minute": 08, "is_from_me": true, "content": "I've chosen my nation. Pakistan needs me. I will not apologize for loving my country"}
+      ]
+    },
+    {
+      "chat_id": "imessage_khan_huma_1980_2021",
+      "contact": "Dr. Huma Khan (Daughter)",
+      "messages": [
+        {"date": "1980-05-10", "hour": 15, "minute": 30, "is_from_me": false, "content": "baba. I'm so proud of you. I know you're building something important for Pakistan"},
+        {"date": "1980-05-10", "hour": 15, "minute": 33, "is_from_me": true, "content": "my daughter. I'm doing this for you. for our future. for Pakistan. you don't understand now. but one day you will"},
+        {"date": "1980-05-10", "hour": 15, "minute": 35, "is_from_me": false, "content": "I understand more than you think. I see the sacrifices. I see how hard you work"},
+        {"date": "1990-06-15", "hour": 16, "minute": 00, "is_from_me": false, "content": "baba. I'm getting married. I want you to be proud of me. I'm following my own path"},
+        {"date": "1990-06-15", "hour": 16, "minute": 03, "is_from_me": true, "content": "I'm always proud of you. you're my daughter. you can do anything. I've given you everything"},
+        {"date": "1998-05-28", "hour": 20, "minute": 00, "is_from_me": false, "content": "baba. I saw the tests on TV. you did it. you're a hero. I'm so emotional"},
+        {"date": "1998-05-28", "hour": 20, "minute": 03, "is_from_me": true, "content": "I did it for you. for Pakistan. this will change everything. our enemies will think twice"},
+        {"date": "2004-02-10", "hour": 18, "minute": 00, "is_from_me": false, "content": "baba. I'm worried about you. the house arrest. can I visit you?"},
+        {"date": "2004-02-10", "hour": 18, "minute": 03, "is_from_me": true, "content": "they won't let you visit. but I'm okay. I'm a fighter. I've survived everything. I'll survive this"},
+        {"date": "2009-02-01", "hour": 14, "minute": 00, "is_from_me": false, "content": "baba. you're free. I can't believe it. they lifted the house arrest"},
+        {"date": "2009-02-01", "hour": 14, "minute": 03, "is_from_me": true, "content": "I told you. I'm too strong to be broken. I want to see you. I want to see my grandchildren"},
+        {"date": "2021-10-10", "hour": 08, "minute": 00, "is_from_me": false, "content": "baba. please hold on. I'm coming. I love you. you're my hero. please"}
+      ]
+    },
+    {
+      "chat_id": "imessage_khan_dina_1980_2021",
+      "contact": "Dr. Dina Khan (Daughter)",
+      "messages": [
+        {"date": "1980-08-10", "hour": 17, "minute": 00, "is_from_me": false, "content": "baba. I love you. thank you for always being there for us"},
+        {"date": "1980-08-10", "hour": 17, "minute": 03, "is_from_me": true, "content": "I love you too. I've given my life to this country. but my family is everything"},
+        {"date": "1995-12-20", "hour": 18, "minute": 30, "is_from_me": false, "content": "baba. I want to study physics. like you. I want to make you proud"},
+        {"date": "1995-12-20", "hour": 18, "minute": 33, "is_from_me": true, "content": "you make me proud every day. study whatever you want. just be happy. that's all I want"},
+        {"date": "1998-05-28", "hour": 20, "minute": 30, "is_from_me": false, "content": "baba. the nation is celebrating. I'm so proud to be your daughter"},
+        {"date": "1998-05-28", "hour": 20, "minute": 33, "is_from_me": true, "content": "my daughter. I did this for you. for Pakistan. for our future. we are safe now"},
+        {"date": "2004-02-10", "hour": 18, "minute": 00, "is_from_me": false, "content": "baba. I saw the news. I don't understand why they're doing this to you"},
+        {"date": "2004-02-10", "hour": 18, "minute": 03, "is_from_me": true, "content": "don't worry about me. I've always been a target. the west has always wanted to destroy me. I'm still here"},
+        {"date": "2009-02-01", "hour": 14, "minute": 00, "is_from_me": false, "content": "baba. you're home. finally. I want to see you. I need to see you"},
+        {"date": "2009-02-01", "hour": 14, "minute": 03, "is_from_me": true, "content": "I'm coming to see you. I've missed you. I've missed my family"}
+      ]
+    },
+    {
+      "chat_id": "imessage_khan_family_1998_2021",
+      "contact": "AQ Khan Family Group",
+      "messages": [
+        {"date": "1998-05-28", "hour": 20, "minute": 30, "is_from_me": false, "content": "baba. I'm so proud of you. you've made history. - huma"},
+        {"date": "1998-05-28", "hour": 20, "minute": 33, "is_from_me": false, "content": "we were watching on TV. you're the hero of Pakistan. - dina"},
+        {"date": "1998-05-28", "hour": 20, "minute": 35, "is_from_me": true, "content": "I did it for all of you. for my grandchildren. for Pakistan. we are safe now"},
+        {"date": "1998-05-28", "hour": 20, "minute": 38, "is_from_me": false, "content": "the whole nation is celebrating. you built our shield. - huma"},
+        {"date": "2004-02-04", "hour": 18, "minute": 00, "is_from_me": false, "content": "baba. we heard about the house arrest. why is this happening? - dina"},
+        {"date": "2004-02-04", "hour": 18, "minute": 03, "is_from_me": false, "content": "I'm so confused. you're a hero. you should be celebrated. - huma"},
+        {"date": "2004-02-04", "hour": 18, "minute": 05, "is_from_me": true, "content": "don't worry about me. I've faced worse. I've been betrayed before. but I'm still standing"},
+        {"date": "2004-02-04", "hour": 18, "minute": 08, "is_from_me": false, "content": "we love you baba. you're still our hero. we'll never forget what you did. - dina"},
+        {"date": "2009-02-01", "hour": 14, "minute": 00, "is_from_me": false, "content": "baba. you're free. we're all so happy. come see us. - huma"},
+        {"date": "2009-02-01", "hour": 14, "minute": 03, "is_from_me": true, "content": "I'm coming. I've missed you all. the family is everything"},
+        {"date": "2010-12-25", "hour": 18, "minute": 00, "is_from_me": false, "content": "happy birthday baba. you're 74. and you're still a legend. - dina"},
+        {"date": "2010-12-25", "hour": 18, "minute": 03, "is_from_me": false, "content": "we love you so much. you've given us so much. - huma"},
+        {"date": "2010-12-25", "hour": 18, "minute": 05, "is_from_me": true, "content": "I love you all. you're my greatest achievement. more than the bomb. more than anything"},
+        {"date": "2021-10-10", "hour": 08, "minute": 00, "is_from_me": false, "content": "baba. we're all here. we love you. please hold on. you're our hero. forever. - huma"},
+        {"date": "2021-10-10", "hour": 08, "minute": 02, "is_from_me": false, "content": "I'm so proud to be your daughter. you changed everything. I love you. - dina"},
+        {"date": "2021-10-10", "hour": 08, "minute": 05, "is_from_me": true, "content": "I love you all. my family. my legacy. I'm at peace. I did what I had to do. for Pakistan. for you. forever"}
+      ]
+    },
+    {
+      "chat_id": "imessage_khan_germany_1965_1972",
+      "contact": "Professor Dr. Heinz Müller",
+      "messages": [
+        {"date": "1965-09-15", "hour": 14, "minute": 30, "is_from_me": false, "content": "dr. khan. your work in metallurgy is excellent. you could have a great career in germany"},
+        {"date": "1965-09-15", "hour": 14, "minute": 33, "is_from_me": true, "content": "thank you professor. but I want to take my knowledge back to Pakistan. my country needs me"},
+        {"date": "1965-09-15", "hour": 14, "minute": 35, "is_from_me": false, "content": "you're a brilliant scientist. your country is lucky to have you"},
+        {"date": "1965-09-15", "hour": 14, "minute": 38, "is_from_me": true, "content": "I just want to serve my people. that's all I've ever wanted"},
+        {"date": "1972-03-10", "hour": 16, "minute": 00, "is_from_me": false, "content": "I heard you're working at URENCO now. you're involved in the centrifuge program"},
+        {"date": "1972-03-10", "hour": 16, "minute": 03, "is_from_me": true, "content": "I'm learning everything I can. it's remarkable technology. I want to master it"},
+        {"date": "1972-03-10", "hour": 16, "minute": 05, "is_from_me": false, "content": "be careful dr. khan. I see the fire in your eyes. don't do anything reckless"},
+        {"date": "1972-03-10", "hour": 16, "minute": 08, "is_from_me": true, "content": "I have a duty to my country. whatever it takes. that's who I am"}
+      ]
+    }
+  ]
+}

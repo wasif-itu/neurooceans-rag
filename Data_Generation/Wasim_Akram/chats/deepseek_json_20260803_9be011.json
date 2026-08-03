@@ -1,0 +1,189 @@
+{
+  "persona": {
+    "name": "Wasim Akram",
+    "description": "One of the greatest fast bowlers in cricket history, known as 'The Sultan of Swing,' 1992 World Cup winner, first bowler to 500 ODI wickets, Pakistan's all-time leading wicket-taker",
+    "birth_year": 1966,
+    "nationality": "Pakistani",
+    "hometown": "Lahore, Pakistan"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_akram_imran_1992_2003",
+      "contact": "Imran Khan",
+      "messages": [
+        {"date": "1992-03-25", "hour": 22, "minute": 45, "is_from_me": false, "content": "wasim. we did it. world champions. you were magnificent today"},
+        {"date": "1992-03-25", "hour": 22, "minute": 48, "is_from_me": true, "content": "captain. I couldn't have done it without you. you taught me everything"},
+        {"date": "1992-03-25", "hour": 22, "minute": 50, "is_from_me": false, "content": "you have the talent. I just showed you the path. that inswinger to lamb was unplayable"},
+        {"date": "1992-03-25", "hour": 22, "minute": 53, "is_from_me": true, "content": "I still can't believe it. two wickets in two balls in a world cup final"},
+        {"date": "1993-01-10", "hour": 14, "minute": 30, "is_from_me": false, "content": "wasim. I'm stepping down as captain. they want you to lead the team"},
+        {"date": "1993-01-10", "hour": 14, "minute": 33, "is_from_me": true, "content": "I don't know if I'm ready. you were the perfect captain"},
+        {"date": "1993-01-10", "hour": 14, "minute": 35, "is_from_me": false, "content": "you're ready. you have the respect of the team. lead with your heart and your instinct"},
+        {"date": "1993-03-20", "hour": 16, "minute": 15, "is_from_me": true, "content": "imran. the west indies tour was crazy. we got arrested. I need to tell you what happened"},
+        {"date": "1993-03-20", "hour": 16, "minute": 18, "is_from_me": false, "content": "I heard. stay strong. the truth will come out. I believe in you"},
+        {"date": "1999-06-20", "hour": 20, "minute": 30, "is_from_me": true, "content": "I lost the final. again. against australia. I feel like I let everyone down"},
+        {"date": "1999-06-20", "hour": 20, "minute": 33, "is_from_me": false, "content": "you didn't let anyone down. you got to the final. that's something. learn from it"},
+        {"date": "2003-03-20", "hour": 18, "minute": 00, "is_from_me": true, "content": "imran. I'm retiring after the world cup. it's time"},
+        {"date": "2003-03-20", "hour": 18, "minute": 03, "is_from_me": false, "content": "you've had an incredible career. I'm proud of you. the team is in safe hands"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_akram_waqar_1990_2003",
+      "contact": "Waqar Younis",
+      "messages": [
+        {"date": "1990-05-15", "hour": 19, "minute": 30, "is_from_me": false, "content": "wasim. we're going to destroy everyone. you and me. the best bowling pair in the world"},
+        {"date": "1990-05-15", "hour": 19, "minute": 33, "is_from_me": true, "content": "I know. the reverse swing is working. they don't know what's coming"},
+        {"date": "1990-05-15", "hour": 19, "minute": 35, "is_from_me": false, "content": "they'll never figure it out. we're changing the game"},
+        {"date": "1992-03-25", "hour": 22, "minute": 00, "is_from_me": true, "content": "waqar. world champions! we did it!"},
+        {"date": "1992-03-25", "hour": 22, "minute": 03, "is_from_me": false, "content": "I was watching from the stands. your ball to lamb. I almost jumped out of my seat"},
+        {"date": "1992-03-25", "hour": 22, "minute": 05, "is_from_me": true, "content": "haha you would have done the same. we're unstoppable together"},
+        {"date": "1994-08-20", "hour": 21, "minute": 15, "is_from_me": false, "content": "they're still accusing us of ball tampering. let them talk. they can't play"},
+        {"date": "1994-08-20", "hour": 21, "minute": 18, "is_from_me": true, "content": "let them. our skill speaks for itself. no one swings it like we do"},
+        {"date": "2002-04-28", "hour": 18, "minute": 00, "is_from_me": true, "content": "I'm retiring from tests. but I'll play the world cup. one last push"},
+        {"date": "2002-04-28", "hour": 18, "minute": 03, "is_from_me": false, "content": "you deserve to go out on your own terms. you're the greatest left arm bowler ever"},
+        {"date": "2003-03-20", "hour": 18, "minute": 30, "is_from_me": false, "content": "500 wickets in ODIs. first ever. you're a legend wasim"},
+        {"date": "2003-03-20", "hour": 18, "minute": 33, "is_from_me": true, "content": "we did it together. that partnership made me better"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_akram_inzamam_1999_2003",
+      "contact": "Inzamam-ul-Haq",
+      "messages": [
+        {"date": "1999-06-20", "hour": 20, "minute": 30, "is_from_me": false, "content": "wasim bhai. I'm sorry. I should have played better in the final"},
+        {"date": "1999-06-20", "hour": 20, "minute": 33, "is_from_me": true, "content": "inzamam. don't say that. we lost as a team. you've carried us so many times"},
+        {"date": "1999-06-20", "hour": 20, "minute": 35, "is_from_me": false, "content": "you're the best captain I've played under. I'm proud to have been in that final"},
+        {"date": "1999-06-20", "hour": 20, "minute": 38, "is_from_me": true, "content": "and I'm proud to have you in my team. keep scoring runs. you're the future"},
+        {"date": "2003-03-20", "hour": 18, "minute": 00, "is_from_me": true, "content": "inzamam. I'm retiring after the world cup. I want you to know I believe in you"},
+        {"date": "2003-03-20", "hour": 18, "minute": 03, "is_from_me": false, "content": "I'll miss you in the dressing room. who's going to tell me when I'm playing too many dot balls?"},
+        {"date": "2003-03-20", "hour": 18, "minute": 05, "is_from_me": true, "content": "haha you'll have to figure that out yourself. but you'll be captain one day. I know it"},
+        {"date": "2003-03-20", "hour": 18, "minute": 08, "is_from_me": false, "content": "thank you bhai. for everything. you made me a better player"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_akram_wasim_bbc_2003",
+      "contact": "Martin Gough (BBC Sport)",
+      "messages": [
+        {"date": "2003-03-22", "hour": 15, "minute": 00, "is_from_me": false, "content": "wasim. thank you for the interview. your career has been remarkable"},
+        {"date": "2003-03-22", "hour": 15, "minute": 03, "is_from_me": true, "content": "thank you. it's been a rollercoaster. I wouldn't change a thing"},
+        {"date": "2003-03-22", "hour": 15, "minute": 05, "is_from_me": false, "content": "what's your best memory? 1992 world cup final?"},
+        {"date": "2003-03-22", "hour": 15, "minute": 08, "is_from_me": true, "content": "yes. but also that 10-wicket haul in dunedin. I was only 18. I thought I was dreaming"},
+        {"date": "2003-03-22", "hour": 15, "minute": 10, "is_from_me": false, "content": "you've had controversies too. any regrets?"},
+        {"date": "2003-03-22", "hour": 15, "minute": 13, "is_from_me": true, "content": "the allegations hurt. but I was cleared. I just want people to remember me as a cricketer who gave everything"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_akram_huma_1995_2009",
+      "contact": "Huma Mufti",
+      "messages": [
+        {"date": "1995-06-10", "hour": 20, "minute": 30, "is_from_me": true, "content": "I can't wait to marry you. you've changed my life"},
+        {"date": "1995-06-10", "hour": 20, "minute": 33, "is_from_me": false, "content": "you've changed mine too. I'm so excited for our life together"},
+        {"date": "1996-11-15", "hour": 14, "minute": 00, "is_from_me": false, "content": "tahmoor is here! we have a son! I love you so much"},
+        {"date": "1996-11-15", "hour": 14, "minute": 03, "is_from_me": true, "content": "I'm crying. I can't believe it. I'm a father. thank you for this gift"},
+        {"date": "1999-06-20", "hour": 20, "minute": 30, "is_from_me": false, "content": "I'm so proud of you. you led the team to the final. I know you wanted to win but you played beautifully"},
+        {"date": "1999-06-20", "hour": 20, "minute": 33, "is_from_me": true, "content": "I wanted to win it for you. for the kids. but I'll come back stronger"},
+        {"date": "2001-04-10", "hour": 16, "minute": 00, "is_from_me": false, "content": "akbar is walking! you missed it. I have a video to show you when you get home"},
+        {"date": "2001-04-10", "hour": 16, "minute": 03, "is_from_me": true, "content": "I hate being away. I miss you all so much. send the video immediately"},
+        {"date": "2009-03-15", "hour": 15, "minute": 30, "is_from_me": true, "content": "I'm getting tests done in chennai. I'm worried about the results"},
+        {"date": "2009-03-15", "hour": 15, "minute": 33, "is_from_me": false, "content": "I'm here with you. we'll get through this. I promise. I love you"},
+        {"date": "2009-10-25", "hour": 07, "minute": 45, "is_from_me": true, "content": "huma. please hold on. I'm here. I'm with you. please don't leave me"},
+        {"date": "2009-10-25", "hour": 07, "minute": 50, "is_from_me": false, "content": "I love you wasim. I'll always love you. take care of our boys"},
+        {"date": "2009-10-25", "hour": 08, "minute": 15, "is_from_me": true, "content": "she's gone. I can't believe she's gone. how do I tell the boys? how do I go on?"}
+      ]
+    },
+    {
+      "chat_id": "imessage_akram_shaniera_2011_2022",
+      "contact": "Shaniera Thompson",
+      "messages": [
+        {"date": "2011-12-15", "hour": 18, "minute": 30, "is_from_me": false, "content": "I had the most amazing time tonight. you're so different from what I expected"},
+        {"date": "2011-12-15", "hour": 18, "minute": 33, "is_from_me": true, "content": "haha what did you expect? I'm just a cricket player from Lahore"},
+        {"date": "2011-12-15", "hour": 18, "minute": 35, "is_from_me": false, "content": "someone more... serious? you're actually very funny"},
+        {"date": "2011-12-15", "hour": 18, "minute": 38, "is_from_me": true, "content": "I have my moments. I'd love to see you again. if you'd like"},
+        {"date": "2013-08-12", "hour": 20, "minute": 00, "is_from_me": false, "content": "we did it! I can't believe I'm married to you. this is the happiest day of my life"},
+        {"date": "2013-08-12", "hour": 20, "minute": 03, "is_from_me": true, "content": "you gave me a second chance at happiness. I'll never stop being grateful"},
+        {"date": "2013-08-12", "hour": 20, "minute": 05, "is_from_me": false, "content": "I love you. and I love tahmoor and akbar. we're a family now"},
+        {"date": "2013-08-12", "hour": 20, "minute": 08, "is_from_me": true, "content": "I love you too. I never thought I'd feel this way again. you're my miracle"},
+        {"date": "2014-12-27", "hour": 12, "minute": 30, "is_from_me": false, "content": "aiyla is here! our daughter! I can't stop crying"},
+        {"date": "2014-12-27", "hour": 12, "minute": 33, "is_from_me": true, "content": "I'm crying too. she's beautiful. just like her mother. thank you for this gift"},
+        {"date": "2018-05-20", "hour": 19, "minute": 00, "is_from_me": false, "content": "I love watching you commentate. you're so passionate about the game"},
+        {"date": "2018-05-20", "hour": 19, "minute": 03, "is_from_me": true, "content": "I love being back in cricket. but I love coming home to you and aiyla more"},
+        {"date": "2022-01-15", "hour": 16, "minute": 30, "is_from_me": false, "content": "our life is so different now. but I wouldn't change a thing. I love our family"},
+        {"date": "2022-01-15", "hour": 16, "minute": 33, "is_from_me": true, "content": "you changed everything for me. I love you shaniera. forever"}
+      ]
+    },
+    {
+      "chat_id": "imessage_akram_tahmoor_2005_2022",
+      "contact": "Tahmoor Akram",
+      "messages": [
+        {"date": "2005-08-10", "hour": 15, "minute": 00, "is_from_me": false, "content": "baba. I want to play cricket. can you teach me?"},
+        {"date": "2005-08-10", "hour": 15, "minute": 03, "is_from_me": true, "content": "of course beta. I'll teach you everything. but you have to promise to work hard"},
+        {"date": "2005-08-10", "hour": 15, "minute": 05, "is_from_me": false, "content": "I promise! I want to be as good as you!"},
+        {"date": "2005-08-10", "hour": 15, "minute": 08, "is_from_me": true, "content": "haha you'll be better than me. I know it"},
+        {"date": "2012-05-20", "hour": 16, "minute": 00, "is_from_me": false, "content": "baba. can you come watch my match next week? I'm playing well"},
+        {"date": "2012-05-20", "hour": 16, "minute": 03, "is_from_me": true, "content": "of course. I'll be there. I wouldn't miss it for the world"},
+        {"date": "2014-07-15", "hour": 18, "minute": 30, "is_from_me": false, "content": "how do you feel about shaniera? I think she's good for you"},
+        {"date": "2014-07-15", "hour": 18, "minute": 33, "is_from_me": true, "content": "she's amazing. but I needed to know you and akbar were okay with it"},
+        {"date": "2014-07-15", "hour": 18, "minute": 35, "is_from_me": false, "content": "we are. mama would want you to be happy. we just want you to be happy"},
+        {"date": "2014-07-15", "hour": 18, "minute": 38, "is_from_me": true, "content": "I'm so proud of the man you've become. I love you son"},
+        {"date": "2022-12-25", "hour": 20, "minute": 00, "is_from_me": false, "content": "baba. I love you. thank you for everything. for being the best father"},
+        {"date": "2022-12-25", "hour": 20, "minute": 03, "is_from_me": true, "content": "I love you too son. you're my greatest achievement"}
+      ]
+    },
+    {
+      "chat_id": "imessage_akram_akbar_2005_2022",
+      "contact": "Akbar Akram",
+      "messages": [
+        {"date": "2005-09-15", "hour": 17, "minute": 00, "is_from_me": false, "content": "baba. I want to be a bowler like you! teach me the reverse swing!"},
+        {"date": "2005-09-15", "hour": 17, "minute": 03, "is_from_me": true, "content": "haha you're too young for reverse swing beta. let's start with the basics"},
+        {"date": "2010-03-10", "hour": 18, "minute": 30, "is_from_me": false, "content": "I miss mama. I can't believe she's gone"},
+        {"date": "2010-03-10", "hour": 18, "minute": 33, "is_from_me": true, "content": "I miss her too beta. every single day. but we have to be strong for each other"},
+        {"date": "2010-03-10", "hour": 18, "minute": 35, "is_from_me": false, "content": "I'll be strong baba. for you. for tahmoor. I promise"},
+        {"date": "2013-08-12", "hour": 20, "minute": 00, "is_from_me": false, "content": "congratulations baba. shaniera is wonderful. I'm happy for you"},
+        {"date": "2013-08-12", "hour": 20, "minute": 03, "is_from_me": true, "content": "thank you beta. that means so much coming from you"},
+        {"date": "2019-06-15", "hour": 19, "minute": 00, "is_from_me": false, "content": "I watched your commentary today. you're so good at it. I'm proud of you"},
+        {"date": "2019-06-15", "hour": 19, "minute": 03, "is_from_me": true, "content": "I'm just trying to be like you. growing up to be a good man"}
+      ]
+    },
+    {
+      "chat_id": "imessage_akram_aiyla_2020_2022",
+      "contact": "Aiyla Akram",
+      "messages": [
+        {"date": "2020-06-03", "hour": 12, "minute": 00, "is_from_me": false, "content": "happy birthday baba! I love you! you're the best daddy in the world"},
+        {"date": "2020-06-03", "hour": 12, "minute": 03, "is_from_me": true, "content": "thank you my princess! you make every birthday special"},
+        {"date": "2020-06-03", "hour": 12, "minute": 05, "is_from_me": false, "content": "when can I watch you play cricket? I want to see you bowl!"},
+        {"date": "2020-06-03", "hour": 12, "minute": 08, "is_from_me": true, "content": "I'll show you videos. and one day I'll teach you. you'll be a great cricketer"},
+        {"date": "2021-12-25", "hour": 20, "minute": 00, "is_from_me": false, "content": "baba I love you! merry christmas! you're my hero"},
+        {"date": "2021-12-25", "hour": 20, "minute": 03, "is_from_me": true, "content": "you're my hero too beta. the best gift I ever got"},
+        {"date": "2022-09-15", "hour": 18, "minute": 30, "is_from_me": false, "content": "baba. I'm learning to bowl in school! I'm doing it just like you!"},
+        {"date": "2022-09-15", "hour": 18, "minute": 33, "is_from_me": true, "content": "that's my girl! I'm coming to watch you play soon. I promise"}
+      ]
+    },
+    {
+      "chat_id": "imessage_akram_family_1992_2022",
+      "contact": "Wasim Akram Family Group",
+      "messages": [
+        {"date": "1992-03-25", "hour": 23, "minute": 00, "is_from_me": false, "content": "world champions! I'm so proud of you! - papa"},
+        {"date": "1992-03-25", "hour": 23, "minute": 02, "is_from_me": false, "content": "I was screaming at the TV. you're our hero - mama"},
+        {"date": "1992-03-25", "hour": 23, "minute": 05, "is_from_me": true, "content": "I did it for you. for our family. for pakistan. I love you all"},
+        {"date": "2003-03-20", "hour": 18, "minute": 30, "is_from_me": false, "content": "500 wickets. first ever. you've done it all. I'm speechless - tahmoor"},
+        {"date": "2003-03-20", "hour": 18, "minute": 33, "is_from_me": false, "content": "the best bowler ever. and I got to watch it all - akbar"},
+        {"date": "2003-03-20", "hour": 18, "minute": 35, "is_from_me": true, "content": "thank you my family. you were with me through everything"},
+        {"date": "2009-10-25", "hour": 20, "minute": 00, "is_from_me": false, "content": "we're here for you baba. we'll get through this together - tahmoor"},
+        {"date": "2009-10-25", "hour": 20, "minute": 03, "is_from_me": false, "content": "I love you. we love you. stay strong - akbar"},
+        {"date": "2009-10-25", "hour": 20, "minute": 05, "is_from_me": true, "content": "I love you both. you're the reason I keep going. my boys"},
+        {"date": "2013-08-12", "hour": 20, "minute": 30, "is_from_me": false, "content": "welcome to the family shaniera! we're so happy to have you - tahmoor"},
+        {"date": "2013-08-12", "hour": 20, "minute": 33, "is_from_me": false, "content": "thank you for making our baba happy. we love you - akbar"},
+        {"date": "2013-08-12", "hour": 20, "minute": 35, "is_from_me": false, "content": "I love you all. this family is everything - shaniera"},
+        {"date": "2013-08-12", "hour": 20, "minute": 38, "is_from_me": true, "content": "I'm the luckiest man alive. thank you all. for everything"},
+        {"date": "2014-12-27", "hour": 20, "minute": 00, "is_from_me": false, "content": "aiyla is here! the family is growing! so much joy - shaniera"},
+        {"date": "2014-12-27", "hour": 20, "minute": 03, "is_from_me": false, "content": "welcome to the world little one! we love you - tahmoor"},
+        {"date": "2014-12-27", "hour": 20, "minute": 05, "is_from_me": true, "content": "my family. my everything. I love you all more than words can say"},
+        {"date": "2022-06-03", "hour": 12, "minute": 00, "is_from_me": false, "content": "happy birthday baba! you're 56 and still the greatest - tahmoor"},
+        {"date": "2022-06-03", "hour": 12, "minute": 02, "is_from_me": false, "content": "the sultan of swing. the father of our family. I love you - akbar"},
+        {"date": "2022-06-03", "hour": 12, "minute": 04, "is_from_me": false, "content": "you're the best husband and father. so much love - shaniera"},
+        {"date": "2022-06-03", "hour": 12, "minute": 06, "is_from_me": false, "content": "happy birthday baba! I love you! - aiyla"},
+        {"date": "2022-06-03", "hour": 12, "minute": 08, "is_from_me": true, "content": "I'm the luckiest man in the world. this family is my greatest legacy. I love you all forever"}
+      ]
+    }
+  ]
+}
