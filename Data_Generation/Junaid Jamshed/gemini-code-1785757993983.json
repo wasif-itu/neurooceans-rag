@@ -1,0 +1,67 @@
+{
+  "persona": {
+    "name": "Junaid Jamshed",
+    "description": "Lead singer of Vital Signs, pop icon turned Islamic scholar, nasheed reciter, and entrepreneur.",
+    "birth_year": 1964,
+    "nationality": "Pakistani",
+    "hometown": "Karachi, Pakistan"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_junaid_rohail_1987_2015",
+      "contact": "Rohail Hyatt",
+      "messages": [
+        {"date": "1987-08-13", "hour": 22, "minute": 10, "is_from_me": true, "content": "rohail bhai! PTV just aired Dil Dil Pakistan for Independence Day eve! my phone hasn't stopped ringing!"},
+        {"date": "1987-08-13", "hour": 22, "minute": 15, "is_from_me": false, "content": "Junaid! Shoaib Mansoor hit the mark with the video editing! Every radio station in Islamabad and Lahore is playing it!"},
+        {"date": "1987-08-13", "hour": 22, "minute": 20, "is_from_me": true, "content": "unbelievable feeling brother. Vital Signs is officially on the map 🇵🇰✨"},
+        {"date": "1999-11-20", "hour": 18, "minute": 30, "is_from_me": true, "content": "rohail mera bhai, Us Rah Par album response is great, but honestly inside I feel an empty space that music isn't filling anymore"},
+        {"date": "1999-11-20", "hour": 18, "minute": 35, "is_from_me": false, "content": "You've been reflecting a lot lately Junaid. Take your time to figure out what your heart is seeking."},
+        {"date": "2004-06-15", "hour": 11, "minute": 40, "is_from_me": true, "content": "rohail, I've officially decided to step away from commercial music. starting a new journey focused on faith and nasheeds"},
+        {"date": "2004-06-15", "hour": 11, "minute": 45, "is_from_me": false, "content": "I respect your decision deeply Junaid. You gave the nation its unofficial national anthem. Wishing you peace my friend."}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_junaid_tariqjameel_2003_2016",
+      "contact": "Maulana Tariq Jameel",
+      "messages": [
+        {"date": "2003-03-12", "hour": 20, "minute": 15, "is_from_me": true, "content": "Assalam-o-Alaikum Maulana Sahab. The Tableegh congregation in Raiwind deeply moved my soul. I want to change my life's direction 🤲"},
+        {"date": "2003-03-12", "hour": 20, "minute": 20, "is_from_me": false, "content": "Walaikum Assalam Junaid beta. Allah guides whom He wills. Use the voice Allah gave you to spread peace and remembrance of Him."},
+        {"date": "2005-10-10", "hour": 14, "minute": 0, "is_from_me": true, "content": "Maulana Sahab, recorded Mera Dil Badal De today. Praying that it brings people closer to Almighty Allah 🤲❤️"},
+        {"date": "2005-10-10", "hour": 14, "minute": 10, "is_from_me": false, "content": "MushaAllah Junaid. May Allah accept your recitation and make it a source of guidance for millions."},
+        {"date": "2016-12-02", "hour": 9, "minute": 30, "is_from_me": true, "content": "Maulana Sahab, leaving for Chitral today for Dawah work. Please remember me and the team in your special prayers 🤲"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_junaid_salman_1990_2016",
+      "contact": "Salman Ahmad",
+      "messages": [
+        {"date": "1990-05-18", "hour": 21, "minute": 30, "is_from_me": true, "content": "salman! legendary guitar solo on Goray Rang Ka Zamana! crowds at Karachi concert went wild tonight!"},
+        {"date": "1990-05-18", "hour": 21, "minute": 35, "is_from_me": false, "content": "Junaid my bro! That energy was unmatched! We are changing Pakistani youth culture forever!"},
+        {"date": "2007-08-14", "hour": 16, "minute": 20, "is_from_me": false, "content": "Junaid, 20 years of Dil Dil Pakistan today! Watching old Vital Signs clips on television!"},
+        {"date": "2007-08-14", "hour": 16, "minute": 25, "is_from_me": true, "content": "Alhamdulillah salman bhai! Allah gave us so much love from the people of Pakistan. Grateful for those memories 🇵🇰❤️"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_junaid_ayesha_2002_2016",
+      "contact": "Ayesha Junaid",
+      "messages": [
+        {"date": "2002-08-10", "hour": 19, "minute": 30, "is_from_me": true, "content": "Ayesha, opening the first J. clothing store in Tariq Road Karachi today. Bismillah for this new business journey 🤲"},
+        {"date": "2002-08-10", "hour": 19, "minute": 35, "is_from_me": false, "content": "MashAllah Junaid! May Allah bless the business with barakah. The eastern wear collection looks beautiful!"},
+        {"date": "2010-11-05", "hour": 21, "minute": 10, "is_from_me": true, "content": "Ayesha, J. expanded to Dubai and London this month! Never imagined a small fashion idea would grow this big worldwide ✨"},
+        {"date": "2010-11-05", "hour": 21, "minute": 15, "is_from_me": false, "content": "Allah's blessings for your sincerity and hard work Junaid ❤️"},
+        {"date": "2016-12-06", "hour": 18, "minute": 45, "is_from_me": true, "content": "Ayesha, finished the sessions in Chitral mountains. Weather is cold but scenery is peaceful. Boarding the flight back to Islamabad tomorrow morning ❤️"}
+      ]
+    },
+    {
+      "chat_id": "imessage_junaid_babar_2005_2015",
+      "contact": "Babar Junejo",
+      "messages": [
+        {"date": "2005-04-12", "hour": 15, "minute": 20, "is_from_me": true, "content": "babar, the new naat Jalwa-e-Janan master track is ready. want to make sure all proceeds go to charity and foundation work"},
+        {"date": "2005-04-12", "hour": 15, "minute": 25, "is_from_me": false, "content": "Understood Junaid. Distribution across Pakistan and UK is set up. The response to your nasheeds is overwhelming."},
+        {"date": "2015-06-20", "hour": 12, "minute": 0, "is_from_me": true, "content": "babar bhai, Ramadan drive reached thousands of deserving families in Thar and rural Sindh. Alhamdulillah for being able to serve people 🤲🇵🇰"}
+      ]
+    }
+  ]
+}

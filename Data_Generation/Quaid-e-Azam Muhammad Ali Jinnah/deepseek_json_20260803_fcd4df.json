@@ -1,0 +1,201 @@
+{
+  "persona": {
+    "name": "Muhammad Ali Jinnah",
+    "description": "Founder and first Governor-General of Pakistan, leader of the All-India Muslim League, instrumental in the creation of Pakistan as a separate nation for Muslims of the Indian subcontinent, brilliant constitutional lawyer and statesman",
+    "birth_year": 1876,
+    "nationality": "British Indian (later Pakistani)",
+    "hometown": "Karachi, Bombay Presidency (now Karachi, Pakistan)"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_jinnah_liaquat_1940_1948",
+      "contact": "Liaquat Ali Khan",
+      "messages": [
+        {"date": "1940-03-23", "hour": 22, "minute": 30, "is_from_me": false, "content": "quaid. the resolution has passed. we have our demand. a separate nation for the muslims. I'm emotional"},
+        {"date": "1940-03-23", "hour": 22, "minute": 33, "is_from_me": true, "content": "this is the beginning liaquat. the road ahead will be difficult. but we have planted the flag. history will remember this day"},
+        {"date": "1940-03-23", "hour": 22, "minute": 35, "is_from_me": false, "content": "the congress will never accept this. you know that. they'll fight us every step"},
+        {"date": "1940-03-23", "hour": 22, "minute": 38, "is_from_me": true, "content": "let them. the two-nation theory is not just politics. it is the reality of our history. we are distinct. we are separate. we must have our own homeland"},
+        {"date": "1942-03-22", "hour": 16, "minute": 00, "is_from_me": false, "content": "cripps is here. they're offering dominion status. I don't trust them"},
+        {"date": "1942-03-22", "hour": 16, "minute": 03, "is_from_me": true, "content": "trust no one but yourselves. I'll talk to him. but I'll make no compromises on Pakistan. this is what we must fight for"},
+        {"date": "1946-07-15", "hour": 18, "minute": 00, "is_from_me": true, "content": "the cabinet mission has failed. the muslim league has been vindicated. partition is the only solution"},
+        {"date": "1946-07-15", "hour": 18, "minute": 03, "is_from_me": false, "content": "but the cost will be terrible. I've heard the rumors of violence. I'm worried quaid"},
+        {"date": "1946-07-15", "hour": 18, "minute": 05, "is_from_me": true, "content": "I'm worried too. but we cannot allow fear to stop us. the muslims of this subcontinent deserve a homeland. we will carry this burden together"},
+        {"date": "1947-06-03", "hour": 20, "minute": 00, "is_from_me": false, "content": "mountbatten has announced it. june 3rd plan. we're getting pakistan. but we're going to lose the punjab. bengal will be split. so much bloodshed"},
+        {"date": "1947-06-03", "hour": 20, "minute": 03, "is_from_me": true, "content": "I know. I've fought for this for thirty years. but every birth comes with pain. a nation is no different. we must be ready to rebuild from the ashes"},
+        {"date": "1947-08-14", "hour": 23, "minute": 30, "is_from_me": true, "content": "liaquat. we've done it. pakistan exists. the dream is reality. I don't know how to feel. I'm exhausted but I'm at peace"},
+        {"date": "1947-08-14", "hour": 23, "minute": 33, "is_from_me": false, "content": "I've never seen you like this quaid. you look... proud. we've made history. you've made history"},
+        {"date": "1947-08-14", "hour": 23, "minute": 35, "is_from_me": true, "content": "history was made by all those who believed. the muhajirs leaving their homes. the people of the frontier. the students. the women. we owe them everything"},
+        {"date": "1948-09-11", "hour": 08, "minute": 00, "is_from_me": false, "content": "quaid. I'm coming. please hold on. you can't leave us now. not yet"},
+        {"date": "1948-09-11", "hour": 08, "minute": 03, "is_from_me": true, "content": "I've done what I was born to do. Pakistan is here. now you must lead. take care of the people. take care of the nation. I trust you. goodbye my friend"},
+        {"date": "1948-09-11", "hour": 18, "minute": 00, "is_from_me": false, "content": "quaid... I've lost you. I've lost the father of our nation. I'm broken. but I'll carry your vision. I'll never stop"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jinnah_fatima_1920_1948",
+      "contact": "Fatima Jinnah",
+      "messages": [
+        {"date": "1920-06-15", "hour": 16, "minute": 30, "is_from_me": false, "content": "bhai. I'm coming to stay with you. I want to help you. you need someone to take care of things"},
+        {"date": "1920-06-15", "hour": 16, "minute": 33, "is_from_me": true, "content": "fatima. my sister. my heart. yes. come. I need you more than you know"},
+        {"date": "1920-06-15", "hour": 16, "minute": 35, "is_from_me": false, "content": "I'll handle the house. I'll handle everything. you can focus on the struggle. the fight for our people"},
+        {"date": "1925-08-15", "hour": 18, "minute": 00, "is_from_me": false, "content": "bhai. I'm worried about ruttie. she's not well. the strain of everything is getting to her"},
+        {"date": "1925-08-15", "hour": 18, "minute": 03, "is_from_me": true, "content": "I know. I've tried to give her everything. but the life we lead... it takes its toll. I'm trying to find a way to make it better"},
+        {"date": "1929-02-20", "hour": 18, "minute": 00, "is_from_me": false, "content": "bhai. ruttie is gone. I'm so sorry. I'm here. I'll always be here. I'll take care of dina. I'll take care of you"},
+        {"date": "1929-02-20", "hour": 18, "minute": 03, "is_from_me": true, "content": "fatima. I can't speak. I can't feel. I'm empty. I have nothing left but the mission. and you. thank you for never leaving me"},
+        {"date": "1947-08-14", "hour": 23, "minute": 30, "is_from_me": false, "content": "bhai. I was at the independence ceremony. I was crying. you've done it. you've given us a nation"},
+        {"date": "1947-08-14", "hour": 23, "minute": 33, "is_from_me": true, "content": "I couldn't have done it without you. you've been my rock. my support. my everything. I love you fatima. more than you'll ever know"},
+        {"date": "1948-09-11", "hour": 08, "minute": 00, "is_from_me": false, "content": "bhai. I'm here. I'm holding your hand. don't leave me. please don't leave me. you can't leave"},
+        {"date": "1948-09-11", "hour": 08, "minute": 03, "is_from_me": true, "content": "fatima. you gave me everything. you were my sister. my mother. my friend. I love you. take care of the nation. I know you will. I'm at peace"},
+        {"date": "1948-09-11", "hour": 18, "minute": 00, "is_from_me": false, "content": "bhai. I held you as you left. I'll never forget this moment. I'll carry your legacy. I'll protect your vision. I promise. I'll never stop fighting for Pakistan"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jinnah_gandhi_1944_1948",
+      "contact": "Mahatma Gandhi",
+      "messages": [
+        {"date": "1944-09-15", "hour": 14, "minute": 30, "is_from_me": false, "content": "muhammad ali. thank you for meeting me in bombay. I hope we can find common ground. the violence must stop"},
+        {"date": "1944-09-15", "hour": 14, "minute": 33, "is_from_me": true, "content": "gandhiji. I respect you more than you know. but our positions are irreconcilable. the congress wants a unified india. the muslims want their own state. I have no choice but to fight for what I believe in"},
+        {"date": "1944-09-15", "hour": 14, "minute": 35, "is_from_me": false, "content": "we must continue talking. for the sake of peace. for the sake of humanity"},
+        {"date": "1944-09-15", "hour": 14, "minute": 38, "is_from_me": true, "content": "I will always talk. but I will not compromise on Pakistan. that is the only solution. you know this in your heart"},
+        {"date": "1946-09-15", "hour": 18, "minute": 00, "is_from_me": false, "content": "the violence is destroying everything. I'm fasting. I'm praying. I'm pleading for peace"},
+        {"date": "1946-09-15", "hour": 18, "minute": 03, "is_from_me": true, "content": "I'm suffering too. my heart breaks every day for the people. but we must see this through. partition is the only way to stop the bloodshed"},
+        {"date": "1948-01-30", "hour": 18, "minute": 00, "is_from_me": false, "content": "muhammad ali. I'm gone. I know this. but I want you to know I bear you no ill will. I know you fought for what you believed was right. I respect that. I respect you. Jai Hind"},
+        {"date": "1948-01-30", "hour": 18, "minute": 03, "is_from_me": true, "content": "gandhiji. I just received the news. I'm devastated. we had our differences but you were a great soul. a giant. the world is lesser without you"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jinnah_nehru_1946_1948",
+      "contact": "Jawaharlal Nehru",
+      "messages": [
+        {"date": "1946-03-15", "hour": 16, "minute": 00, "is_from_me": false, "content": "jinnah. we need to talk. the interim government. I need you to accept something. we can't keep fighting"},
+        {"date": "1946-03-15", "hour": 16, "minute": 03, "is_from_me": true, "content": "nehru. I will accept nothing less than Pakistan. you know this. I have been clear for forty years"},
+        {"date": "1946-03-15", "hour": 16, "minute": 05, "is_from_me": false, "content": "you're impossible. you're tearing this country apart"},
+        {"date": "1946-03-15", "hour": 16, "minute": 08, "is_from_me": true, "content": "I'm not tearing anything apart. I'm protecting my people. you've had your way for decades. now we must have ours"},
+        {"date": "1947-06-03", "hour": 20, "minute": 00, "is_from_me": false, "content": "well jinnah. you've won. you have your Pakistan. I hope you're happy"},
+        {"date": "1947-06-03", "hour": 20, "minute": 03, "is_from_me": true, "content": "happiness has nothing to do with it. I did what I had to do. what was right. for millions of people who had no voice. I'm at peace with myself"},
+        {"date": "1947-08-15", "hour": 18, "minute": 00, "is_from_me": false, "content": "I'm sorry about the violence. I'm sorry about the refugees. this is a tragedy. but I still believe in a united india"},
+        {"date": "1947-08-15", "hour": 18, "minute": 03, "is_from_me": true, "content": "and I still believe in Pakistan. may our two nations live in peace. that's all I want now"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jinnah_iqbal_1930_1938",
+      "contact": "Sir Muhammad Iqbal",
+      "messages": [
+        {"date": "1930-12-30", "hour": 18, "minute": 30, "is_from_me": false, "content": "jinnah. I was just in allahabad. I spoke of a separate muslim state in the northwest. I believe this is our destiny"},
+        {"date": "1930-12-30", "hour": 18, "minute": 33, "is_from_me": true, "content": "iqbal. I read your speech. you've given words to what I've felt in my heart. the dream of a homeland for the muslims. it may be the only solution"},
+        {"date": "1930-12-30", "hour": 18, "minute": 35, "is_from_me": false, "content": "I have been thinking about this for years. the two nation theory. we are not the same as hindus. we must have our own state"},
+        {"date": "1930-12-30", "hour": 18, "minute": 38, "is_from_me": true, "content": "you're a poet. but your words have the weight of prophecy. I will take this vision forward. I promise you"},
+        {"date": "1937-10-15", "hour": 16, "minute": 00, "is_from_me": false, "content": "jinnah. I'm not well. I don't have much time. but I need you to know that I believe in you. you must lead us. you must lead the muslim league to victory"},
+        {"date": "1937-10-15", "hour": 16, "minute": 03, "is_from_me": true, "content": "iqbal. you are the vision. I am just the lawyer who will fight for it. I will not let you down. I will not let our people down"},
+        {"date": "1938-04-21", "hour": 18, "minute": 00, "is_from_me": false, "content": "I'm leaving you now. I'm at peace because I know you'll carry this vision. Pakistan. I can see it in my mind. the land of the pure. may Allah bless you"},
+        {"date": "1938-04-21", "hour": 18, "minute": 03, "is_from_me": true, "content": "you were the great soul who saw the future. I'll make your dream a reality. farewell my friend. may you rest in peace"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jinnah_mountbatten_1947",
+      "contact": "Lord Louis Mountbatten",
+      "messages": [
+        {"date": "1947-03-18", "hour": 14, "minute": 30, "is_from_me": false, "content": "jinnah. I've arrived as viceroy. I need to speak with you urgently. we must find a solution"},
+        {"date": "1947-03-18", "hour": 14, "minute": 33, "is_from_me": true, "content": "lord mountbatten. I've been waiting for you. but let me be clear from the start. I will accept nothing less than Pakistan. no federation. no confederation. an independent state"},
+        {"date": "1947-03-18", "hour": 14, "minute": 35, "is_from_me": false, "content": "you're a hard man to negotiate with. I've never met anyone quite like you"},
+        {"date": "1947-03-18", "hour": 14, "minute": 38, "is_from_me": true, "content": "I'm not a politician who plays games. I'm a lawyer. I know what I want. and I know my people deserve"},
+        {"date": "1947-06-03", "hour": 18, "minute": 00, "is_from_me": false, "content": "I've decided on partition. you have your Pakistan. I'm announcing it this week"},
+        {"date": "1947-06-03", "hour": 18, "minute": 03, "is_from_me": true, "content": "you've made the right decision. history will remember you for it. I thank you"},
+        {"date": "1947-08-14", "hour": 18, "minute": 00, "is_from_me": false, "content": "jinnah. you're now the governor-general of your own country. I'm handing it over to you. I hope you're satisfied"},
+        {"date": "1947-08-14", "hour": 18, "minute": 03, "is_from_me": true, "content": "satisfied? I'm fulfilled. my life's work is complete. thank you for your help. now let me govern my people"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_jinnah_emibai_1892_1893",
+      "contact": "Emibai Jinnah",
+      "messages": [
+        {"date": "1892-10-15", "hour": 18, "minute": 30, "is_from_me": true, "content": "my dear emibai. I'm leaving for england. I'll study hard and I'll return to be the man you deserve"},
+        {"date": "1892-10-15", "hour": 18, "minute": 33, "is_from_me": false, "content": "I'll wait for you muhammad. I believe in you. I'll always be here"},
+        {"date": "1893-12-20", "hour": 16, "minute": 00, "is_from_me": true, "content": "I've been called to the bar. I'm a barrister now. I'm coming home to you. I can't wait to see you"},
+        {"date": "1893-12-20", "hour": 16, "minute": 03, "is_from_me": false, "content": "I've missed you so much. I've been praying for your return. I love you muhammad"},
+        {"date": "1894-02-15", "hour": 18, "minute": 00, "is_from_me": true, "content": "my emibai. I'm home. I'm never leaving you again. I promise. I love you"},
+        {"date": "1894-02-15", "hour": 18, "minute": 03, "is_from_me": false, "content": "I've waited so long. I love you. I'm so happy"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jinnah_ruttie_1918_1929",
+      "contact": "Rattanbai (Ruttie) Jinnah",
+      "messages": [
+        {"date": "1918-04-15", "hour": 18, "minute": 30, "is_from_me": false, "content": "muhammad. I know your religion doesn't allow this. but I love you. I want to marry you"},
+        {"date": "1918-04-15", "hour": 18, "minute": 33, "is_from_me": true, "content": "ruttie. my beautiful ruttie. I love you too. I'll convert you. we'll make this work. I don't care what anyone says"},
+        {"date": "1918-04-15", "hour": 18, "minute": 35, "is_from_me": false, "content": "I'm ready to marry you. I'm ready to be your wife. I love you more than anything"},
+        {"date": "1919-04-15", "hour": 18, "minute": 00, "is_from_me": true, "content": "dina is here. we have a daughter. I'm the proudest man in the world. you've given me everything"},
+        {"date": "1919-04-15", "hour": 18, "minute": 03, "is_from_me": false, "content": "she's perfect. like a little rose. I love you muhammad. I love our family"},
+        {"date": "1924-12-20", "hour": 16, "minute": 00, "is_from_me": false, "content": "I need to move out. I need space. the politics. the stress. it's too much for me. I can't breathe"},
+        {"date": "1924-12-20", "hour": 16, "minute": 03, "is_from_me": true, "content": "ruttie. please. don't leave me. I'll change. I'll be better. I'll spend more time with you"},
+        {"date": "1925-01-15", "hour": 18, "minute": 00, "is_from_me": false, "content": "I'm leaving. I can't stay. I love you. but I need to take care of myself now. I'm sorry"},
+        {"date": "1929-02-20", "hour": 18, "minute": 00, "is_from_me": true, "content": "you're gone. I'm shattered. I'm a shell. I should have been there more. I should have loved you better. I'll never forgive myself. I'll see you again one day. I promise"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jinnah_dina_1940_1948",
+      "contact": "Dina Wadia (Daughter)",
+      "messages": [
+        {"date": "1940-12-20", "hour": 14, "minute": 00, "is_from_me": false, "content": "baba. I'm so proud of you. the pakistan resolution. you're making history"},
+        {"date": "1940-12-20", "hour": 14, "minute": 03, "is_from_me": true, "content": "my daughter. thank you. I wish you could be here more often. I miss you so much"},
+        {"date": "1940-12-20", "hour": 14, "minute": 05, "is_from_me": false, "content": "I miss you too. but I'm married to a parsi. they don't accept me. it's complicated"},
+        {"date": "1940-12-20", "hour": 14, "minute": 08, "is_from_me": true, "content": "you'll always be my daughter. I will always love you. nothing will ever change that"},
+        {"date": "1947-08-14", "hour": 18, "minute": 00, "is_from_me": false, "content": "baba. I saw the independence ceremony. I'm crying. you've done it. you've built a nation"},
+        {"date": "1947-08-14", "hour": 18, "minute": 03, "is_from_me": true, "content": "I wish you could be here. I wish you could see what we've built. but I understand why you can't. I love you dina. always"},
+        {"date": "1948-09-11", "hour": 08, "minute": 00, "is_from_me": false, "content": "baba. I'm coming. I'm coming to see you. please hold on. I need to say goodbye. I need to see you. I love you"},
+        {"date": "1948-09-11", "hour": 08, "minute": 03, "is_from_me": true, "content": "my daughter. I can feel you near. I've always loved you. I was too hard on you. I'm sorry. I'm at peace. I'll watch over you. I promise"},
+        {"date": "1948-09-11", "hour": 18, "minute": 00, "is_from_me": false, "content": "baba. I couldn't make it in time. I'll never forgive myself. I loved you. I still love you. I'll always love you. Pakistan is your legacy. And I will respect it. Always. Goodbye baba. I love you"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jinnah_aga_1906_1948",
+      "contact": "Sir Aga Khan III",
+      "messages": [
+        {"date": "1906-12-30", "hour": 18, "minute": 30, "is_from_me": false, "content": "muhammad. the muslim league is formed. we need leaders like you. you must join us"},
+        {"date": "1906-12-30", "hour": 18, "minute": 33, "is_from_me": true, "content": "the muslims need a political voice. I'll join. I'll serve my people. you have my word"},
+        {"date": "1906-12-30", "hour": 18, "minute": 35, "is_from_me": false, "content": "you have a brilliant legal mind. you'll be a great leader. I'm confident"},
+        {"date": "1913-12-30", "hour": 16, "minute": 00, "is_from_me": true, "content": "I've been elected president of the league. I'll lead this movement. I'll fight for muslim rights"},
+        {"date": "1913-12-30", "hour": 16, "minute": 03, "is_from_me": false, "content": "I knew you would. you're the right man. the muslims of india need a champion. you are that champion"},
+        {"date": "1940-03-23", "hour": 18, "minute": 00, "is_from_me": false, "content": "you've done it. the lahore resolution. I'm an old man now. but I'm so proud. I'm so proud of you"},
+        {"date": "1940-03-23", "hour": 18, "minute": 03, "is_from_me": true, "content": "you gave me a platform. you believed in me when others doubted. thank you. for everything. for your friendship."}
+      ]
+    },
+    {
+      "chat_id": "imessage_jinnah_family_1940_1948",
+      "contact": "Jinnah Family Group",
+      "messages": [
+        {"date": "1940-03-23", "hour": 22, "minute": 30, "is_from_me": false, "content": "bhai. the resolution. I'm so proud. you've given our people hope - fatima"},
+        {"date": "1940-03-23", "hour": 22, "minute": 33, "is_from_me": false, "content": "muhammad. you've done what we've all dreamed of - sir aga khan"},
+        {"date": "1940-03-23", "hour": 22, "minute": 35, "is_from_me": true, "content": "this is the beginning. not the end. we have so much work ahead. but I believe in us. I believe in Pakistan"},
+        {"date": "1947-08-14", "hour": 23, "minute": 30, "is_from_me": false, "content": "pakistan is free. I can't stop crying - fatima"},
+        {"date": "1947-08-14", "hour": 23, "minute": 33, "is_from_me": false, "content": "you've made history brother. the nation is yours - liaquat"},
+        {"date": "1947-08-14", "hour": 23, "minute": 35, "is_from_me": true, "content": "I love you all. we've done it together. this is for every muslim who believed. for every person who sacrificed. may Allah bless Pakistan"},
+        {"date": "1948-09-11", "hour": 08, "minute": 00, "is_from_me": false, "content": "bhai. I'm here. I'm holding your hand. you're not alone - fatima"},
+        {"date": "1948-09-11", "hour": 08, "minute": 02, "is_from_me": false, "content": "quaid. the nation is praying for you. please hold on - liaquat"},
+        {"date": "1948-09-11", "hour": 08, "minute": 05, "is_from_me": true, "content": "my family. my people. my nation. I've given everything. I have no regrets. I love you all. Pakistan Zindabad. forever"},
+        {"date": "1948-09-11", "hour": 18, "minute": 00, "is_from_me": false, "content": "he's gone. the father of our nation is gone. I don't know how we'll go on. but we must. for him. for Pakistan - fatima"},
+        {"date": "1948-09-11", "hour": 18, "minute": 03, "is_from_me": false, "content": "I'll carry his vision. I'll never stop working for pakistan. I promise - liaquat"},
+        {"date": "1948-09-11", "hour": 18, "minute": 05, "is_from_me": false, "content": "you will always be our leader. our guide. our quaid-e-azam - dina"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jinnah_final_thoughts_1948",
+      "contact": "Muhammad Ali Jinnah (self-reflective thread)",
+      "messages": [
+        {"date": "1948-09-01", "hour": 22, "minute": 00, "is_from_me": true, "content": "I don't have much time left. I can feel it. my body is giving way. but my mind is at peace"},
+        {"date": "1948-09-01", "hour": 22, "minute": 02, "is_from_me": true, "content": "I look back at my life. I started as a boy from karachi. I went to london. I became a lawyer. I became a leader. and I became the father of a nation"},
+        {"date": "1948-09-01", "hour": 22, "minute": 05, "is_from_me": true, "content": "I lost my wives. I lost my daughter. I lost so much. but I never lost my faith. I never lost my vision"},
+        {"date": "1948-09-01", "hour": 22, "minute": 08, "is_from_me": true, "content": "Pakistan is fragile. it's newborn. it will face many challenges. but I believe in the people. I believe they will succeed"},
+        {"date": "1948-09-01", "hour": 22, "minute": 10, "is_from_me": true, "content": "unity. faith. discipline. that's what I tried to teach. that's what I want the nation to remember. we are one people. we must stay united"},
+        {"date": "1948-09-05", "hour": 20, "minute": 00, "is_from_me": true, "content": "fatima is here. she's taking care of me. she's always taken care of me. she's my strength. I don't know what I would have done without her"},
+        {"date": "1948-09-05", "hour": 20, "minute": 03, "is_from_me": true, "content": "I fought for democracy. I fought for the rule of law. I hope the nation remembers that. I wasn't a dictator. I was a servant of the people"},
+        {"date": "1948-09-08", "hour": 18, "minute": 00, "is_from_me": true, "content": "the pain is getting worse. but I'm not afraid. I've lived a full life. I've done what I was born to do"},
+        {"date": "1948-09-08", "hour": 18, "minute": 03, "is_from_me": true, "content": "my only regret. I didn't spend enough time with dina. I wish she were here. I wish I had been a better father"},
+        {"date": "1948-09-10", "hour": 20, "minute": 00, "is_from_me": true, "content": "tomorrow will be my last day. I can feel it. I'm ready. I've made my peace with Allah. I've made my peace with myself"},
+        {"date": "1948-09-10", "hour": 20, "minute": 03, "is_from_me": true, "content": "Pakistan. my Pakistan. may you always be strong. may you always be free. may you always be just. I love you. I gave you everything. Now you must carry on"},
+        {"date": "1948-09-10", "hour": 20, "minute": 05, "is_from_me": true, "content": "I'm closing my eyes now. I'm going home. I'm going to rest. thank you to everyone who believed in the dream. you made it possible. I'll always be with you. Ameen"}
+      ]
+    }
+  ]
+}

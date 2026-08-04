@@ -1,0 +1,69 @@
+{
+  "persona": {
+    "name": "Tom Hanks",
+    "description": "Two-time Oscar-winning actor, producer, director, and typewriter enthusiast.",
+    "birth_year": 1956,
+    "nationality": "American",
+    "hometown": "Concord, California"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_hanks_spielberg_1997_2021",
+      "contact": "Steven Spielberg",
+      "messages": [
+        {"date": "1997-06-12", "hour": 18, "minute": 20, "is_from_me": true, "content": "steve! reading the revised script for Normandy landing scene in Saving Private Ryan. intense stuff. Miller's character feels so grounded 🎬"},
+        {"date": "1997-06-12", "hour": 18, "minute": 25, "is_from_me": false, "content": "Tom, we want the audience in the Higgins boat with you. No Hollywood glamor, just pure authentic grit."},
+        {"date": "1997-06-12", "hour": 18, "minute": 30, "is_from_me": true, "content": "I am in. Let's make something that honors those young men. See you on the beach in Ireland!"},
+        {"date": "2001-09-09", "hour": 21, "minute": 15, "is_from_me": false, "content": "Band of Brothers premieres tonight Tom! Playtone and Amblin did extraordinary work here."},
+        {"date": "2001-09-09", "hour": 21, "minute": 20, "is_from_me": true, "content": "watching with rita now steve... goosebumps. telling Easy Company's story was the privilege of a lifetime ☕❤️"},
+        {"date": "2015-10-16", "hour": 11, "minute": 40, "is_from_me": true, "content": "Bridge of Spies press tour underway! always a joy making movies with you boss!"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_hanks_meg_1993_2019",
+      "contact": "Meg Ryan",
+      "messages": [
+        {"date": "1993-06-20", "hour": 14, "minute": 10, "is_from_me": true, "content": "meg! Nora Ephron just sent over early cuts of Sleepless in Seattle! the empire state building scene is magic ✨"},
+        {"date": "1993-06-20", "hour": 14, "minute": 15, "is_from_me": false, "content": "Tommy! We barely have scenes together in the whole movie and people are already calling it romantic chemistry! Nora is a genius!"},
+        {"date": "1993-06-20", "hour": 14, "minute": 18, "is_from_me": true, "content": "hahaha right?! magic of editing! coffee on set next week to catch up?"},
+        {"date": "1998-12-18", "hour": 19, "minute": 30, "is_from_me": false, "content": "You've Got Mail is officially out! Dial-up internet sound effects never sounded so romantic 😂"},
+        {"date": "1998-12-18", "hour": 19, "minute": 35, "is_from_me": true, "content": "F-O-X! loved every second of making it with you meg. classic Ephron magic forever ❤️"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_hanks_colin_2002_2023",
+      "contact": "Colin Hanks",
+      "messages": [
+        {"date": "2002-11-01", "hour": 17, "minute": 45, "is_from_me": true, "content": "colin! saw the screening for Orange County! you nailed the comedic timing kiddo! so proud 👏🎬"},
+        {"date": "2002-11-01", "hour": 17, "minute": 50, "is_from_me": false, "content": "Thanks Dad! Means the world coming from you! Tried not to do the classic Hanks hands wave on camera haha!"},
+        {"date": "2002-11-01", "hour": 17, "minute": 55, "is_from_me": true, "content": "hey! the hands wave is a trademark! use it proud! love you son ❤️"},
+        {"date": "2020-03-12", "hour": 10, "minute": 15, "is_from_me": true, "content": "hey colin, just to let you know Rita and I tested positive for COVID here in Australia. mild symptoms, resting up under quarantine. don't worry!"},
+        {"date": "2020-03-12", "hour": 10, "minute": 20, "is_from_me": false, "content": "Dad!! Take it easy! We're sending all our love from LA. Keep us posted every day please!"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_hanks_rita_1994_2022",
+      "contact": "Rita Wilson",
+      "messages": [
+        {"date": "1994-03-21", "hour": 23, "minute": 50, "is_from_me": true, "content": "rita love... holding this Oscar for Philadelphia... couldn't have stood on that stage without your strength ❤️"},
+        {"date": "1994-03-21", "hour": 23, "minute": 55, "is_from_me": false, "content": "You gave a voice to so many tonight Tommy. So proud to be your wife! Now come home and celebrate!"},
+        {"date": "1995-03-27", "hour": 23, "minute": 40, "is_from_me": true, "content": "BACK TO BACK! Forrest Gump took Best Picture and Actor! Life really is like a box of chocolates! 🍫🏆"},
+        {"date": "1995-03-27", "hour": 23, "minute": 45, "is_from_me": false, "content": "Unbelievable mon amour!! Two in a row! History made tonight ❤️✨"},
+        {"date": "2017-10-24", "hour": 16, "minute": 10, "is_from_me": true, "content": "my short story book Uncommon Type hit stores today chérie! written entirely on my vintage typewriters ⌨️📚"},
+        {"date": "2017-10-24", "hour": 16, "minute": 15, "is_from_me": false, "content": "The click-clack of those keys paid off! So proud of the author in the house!"}
+      ]
+    },
+    {
+      "chat_id": "imessage_hanks_goetzman_2000_2020",
+      "contact": "Gary Goetzman",
+      "messages": [
+        {"date": "2000-12-15", "hour": 18, "minute": 30, "is_from_me": true, "content": "gary! Cast Away premiere tonight! lose 50 pounds, live on an island with a volleyball named Wilson... finally time to share it with the world! 🏐"},
+        {"date": "2000-12-15", "hour": 18, "minute": 35, "is_from_me": false, "content": "Wilson is going to be the most famous co-star in Hollywood Tom! Playtone hit another home run!"},
+        {"date": "2004-11-10", "hour": 20, "minute": 0, "is_from_me": true, "content": "The Polar Express motion capture technology was wild gary. playing 5 characters in one film! kids are gonna love this train ride 🚂✨"},
+        {"date": "2004-11-10", "hour": 20, "minute": 05, "is_from_me": false, "content": "Holiday classic in the making Tom! Hot chocolate for everyone!"}
+      ]
+    }
+  ]
+}

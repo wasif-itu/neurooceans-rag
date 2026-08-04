@@ -1,0 +1,213 @@
+{
+  "persona": {
+    "name": "Taylor Alison Swift",
+    "description": "14-time Grammy Award-winning singer-songwriter, one of the best-selling music artists of all time, known for narrative songwriting about her personal life, cultural phenomenon, has reinvented her sound multiple times across country, pop, folk, and alternative genres",
+    "birth_year": 1989,
+    "nationality": "American",
+    "hometown": "West Reading, Pennsylvania"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_swift_selena_2008_2025",
+      "contact": "Selena Gomez",
+      "messages": [
+        {"date": "2008-05-15", "hour": 16, "minute": 30, "is_from_me": false, "content": "taylor. I just heard fearless. I'm obsessed. you're so talented"},
+        {"date": "2008-05-15", "hour": 16, "minute": 33, "is_from_me": true, "content": "omg selena. I love you. we need to be friends. I'm coming to LA soon"},
+        {"date": "2008-05-15", "hour": 16, "minute": 35, "is_from_me": false, "content": "yes! we're going to be best friends. I can feel it"},
+        {"date": "2009-08-10", "hour": 20, "minute": 00, "is_from_me": false, "content": "how are you doing? I saw all the kanye stuff. I'm so sorry. he's so wrong"},
+        {"date": "2009-08-10", "hour": 20, "minute": 03, "is_from_me": true, "content": "I'm trying to be okay. it was humiliating. but I'm going to keep making music. I won't let him win"},
+        {"date": "2009-08-10", "hour": 20, "minute": 05, "is_from_me": false, "content": "you're so strong. I admire you so much. let's get together soon"},
+        {"date": "2014-10-27", "hour": 18, "minute": 30, "is_from_me": true, "content": "1989 is out! I went full pop. I'm nervous but I'm so excited"},
+        {"date": "2014-10-27", "hour": 18, "minute": 33, "is_from_me": false, "content": "I've been streaming it all day. it's incredible. you've reinvented yourself again"},
+        {"date": "2016-07-19", "hour": 22, "minute": 00, "is_from_me": true, "content": "selena. I don't know what to do. the kimye thing. everyone hates me. I feel so alone"},
+        {"date": "2016-07-19", "hour": 22, "minute": 03, "is_from_me": false, "content": "I'm here. you're not alone. I've been through this. it gets better. I promise. I love you"},
+        {"date": "2017-08-24", "hour": 20, "minute": 00, "is_from_me": false, "content": "reputation. it's so dark but so good. you're making your comeback. I'm so proud"},
+        {"date": "2017-08-24", "hour": 20, "minute": 03, "is_from_me": true, "content": "I had to reclaim my narrative. I had to write about what happened. and I did"},
+        {"date": "2020-07-24", "hour": 18, "minute": 00, "is_from_me": false, "content": "folklore. I'm crying. it's so beautiful and sad. you've written a masterpiece"},
+        {"date": "2020-07-24", "hour": 18, "minute": 03, "is_from_me": true, "content": "I wrote it all during quarantine. I found this voice I didn't know I had"},
+        {"date": "2023-04-01", "hour": 22, "minute": 30, "is_from_me": false, "content": "eras tour. I watched the clips. you're unstoppable. 3 hours of music. I'm so proud"},
+        {"date": "2023-04-01", "hour": 22, "minute": 33, "is_from_me": true, "content": "I'm exhausted but I'm so happy. I get to play all my music. all my eras. it's what I've always wanted"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_swift_jack_2013_2025",
+      "contact": "Jack Antonoff",
+      "messages": [
+        {"date": "2013-06-15", "hour": 14, "minute": 30, "is_from_me": false, "content": "taylor. I loved our session today. I think we made something special"},
+        {"date": "2013-06-15", "hour": 14, "minute": 33, "is_from_me": true, "content": "I think so too. we have this chemistry. I want to make so much more music with you"},
+        {"date": "2013-06-15", "hour": 14, "minute": 35, "is_from_me": false, "content": "I'm in. whenever you're ready. you've got that magic"},
+        {"date": "2014-10-27", "hour": 18, "minute": 00, "is_from_me": true, "content": "1989. we did it. we changed everything. I'm so grateful for you"},
+        {"date": "2014-10-27", "hour": 18, "minute": 03, "is_from_me": false, "content": "you did it. I was just there helping you build it. you have the vision"},
+        {"date": "2017-08-24", "hour": 20, "minute": 00, "is_from_me": true, "content": "reputation. dark taylor. I needed this record. thank you for helping me find the sound"},
+        {"date": "2017-08-24", "hour": 20, "minute": 03, "is_from_me": false, "content": "you needed to make this. it's honest. it's raw. it's you"},
+        {"date": "2020-07-24", "hour": 18, "minute": 00, "is_from_me": false, "content": "folklore. we made a record during a pandemic. I can't believe it. it's so good"},
+        {"date": "2020-07-24", "hour": 18, "minute": 03, "is_from_me": true, "content": "I couldn't have done it without you. you're my creative soulmate"},
+        {"date": "2022-10-21", "hour": 18, "minute": 00, "is_from_me": true, "content": "midnights. I stayed up all night writing with you. it's perfect"},
+        {"date": "2022-10-21", "hour": 18, "minute": 03, "is_from_me": false, "content": "it's a masterpiece. you keep getting better. I'm so lucky to work with you"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_swift_ed_2011_2025",
+      "contact": "Ed Sheeran",
+      "messages": [
+        {"date": "2011-11-15", "hour": 15, "minute": 00, "is_from_me": false, "content": "taylor! I loved meeting you today. you're as cool as I thought you'd be"},
+        {"date": "2011-11-15", "hour": 15, "minute": 03, "is_from_me": true, "content": "ed! you're amazing. I want to write with you sometime. I think we'd make magic"},
+        {"date": "2011-11-15", "hour": 15, "minute": 05, "is_from_me": false, "content": "I'm so down. let's do it. I've got some ideas"},
+        {"date": "2012-12-10", "hour": 18, "minute": 00, "is_from_me": true, "content": "everything has changed. it's perfect. I love it. thank you for writing with me"},
+        {"date": "2012-12-10", "hour": 18, "minute": 03, "is_from_me": false, "content": "I love it too. you bring out something different in me. let's keep doing this"},
+        {"date": "2014-10-27", "hour": 18, "minute": 30, "is_from_me": false, "content": "1989 is incredible. you've done it again. I'm so proud of you"},
+        {"date": "2014-10-27", "hour": 18, "minute": 33, "is_from_me": true, "content": "thank you. I couldn't have done it without our sessions. you inspire me"},
+        {"date": "2018-08-15", "hour": 16, "minute": 00, "is_from_me": false, "content": "I'm going through something. can I call you later?"},
+        {"date": "2018-08-15", "hour": 16, "minute": 03, "is_from_me": true, "content": "always. call anytime. I love you and I'm here for you"},
+        {"date": "2021-02-20", "hour": 20, "minute": 00, "is_from_me": true, "content": "ed. I'm rerecording all my old albums. it's emotional. I'm reclaiming my work"},
+        {"date": "2021-02-20", "hour": 20, "minute": 03, "is_from_me": false, "content": "that's incredible. I support you 100%. your legacy deserves to be yours"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_swift_blake_2015_2025",
+      "contact": "Blake Lively",
+      "messages": [
+        {"date": "2015-06-15", "hour": 14, "minute": 30, "is_from_me": false, "content": "taylor. I saw you at the party but didn't get to say hi. you're amazing. let's be friends"},
+        {"date": "2015-06-15", "hour": 14, "minute": 33, "is_from_me": true, "content": "yes! I've always wanted to be friends with you and ryan. let's hang out"},
+        {"date": "2015-06-15", "hour": 14, "minute": 35, "is_from_me": false, "content": "come over this weekend. we'll drink wine and talk about everything"},
+        {"date": "2017-12-15", "hour": 18, "minute": 00, "is_from_me": false, "content": "I heard the new album. reputation. it's so good. you're so strong"},
+        {"date": "2017-12-15", "hour": 18, "minute": 03, "is_from_me": true, "content": "I needed to make it. I needed to reclaim my image. you understand that"},
+        {"date": "2019-08-23", "hour": 18, "minute": 00, "is_from_me": true, "content": "lover is out. it's about all the love in my life. you're one of those loves"},
+        {"date": "2019-08-23", "hour": 18, "minute": 03, "is_from_me": false, "content": "I'm so happy for you. you deserve all this happiness. I love you"},
+        {"date": "2023-04-01", "hour": 22, "minute": 30, "is_from_me": false, "content": "eras tour. I brought the kids. they're obsessed. you're incredible"},
+        {"date": "2023-04-01", "hour": 22, "minute": 33, "is_from_me": true, "content": "you being there means everything. I love you and your family"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_swift_gigi_2014_2025",
+      "contact": "Gigi Hadid",
+      "messages": [
+        {"date": "2014-10-15", "hour": 16, "minute": 30, "is_from_me": false, "content": "taylor. I'm such a fan. can we be friends?"},
+        {"date": "2014-10-15", "hour": 16, "minute": 33, "is_from_me": true, "content": "omg yes! come to my party this weekend. we'll have so much fun"},
+        {"date": "2014-10-15", "hour": 16, "minute": 35, "is_from_me": false, "content": "you're even nicer than I thought. I'm so excited"},
+        {"date": "2016-07-19", "hour": 22, "minute": 00, "is_from_me": true, "content": "gigi. I need a friend. this kanye stuff is awful"},
+        {"date": "2016-07-19", "hour": 22, "minute": 03, "is_from_me": false, "content": "I'm here. we're all here. you're not alone. they're wrong. I love you"},
+        {"date": "2017-08-24", "hour": 20, "minute": 00, "is_from_me": false, "content": "reputation. you're taking back your power. I'm so proud"},
+        {"date": "2017-08-24", "hour": 20, "minute": 03, "is_from_me": true, "content": "I had to. I'm not going to let anyone make me feel small again"},
+        {"date": "2023-04-01", "hour": 22, "minute": 30, "is_from_me": false, "content": "eras tour. I came with the crew. we're all losing our minds. you're the best"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_swift_travis_2023_2025",
+      "contact": "Travis Kelce",
+      "messages": [
+        {"date": "2023-07-08", "hour": 20, "minute": 00, "is_from_me": false, "content": "hey. I heard you're amazing. I made you a friendship bracelet with my number on it. you should hit me up"},
+        {"date": "2023-07-08", "hour": 20, "minute": 03, "is_from_me": true, "content": "haha I heard about that. you're bold. I like it. maybe I'll text you"},
+        {"date": "2023-09-24", "hour": 18, "minute": 30, "is_from_me": false, "content": "you came to the game. you were in the suite. I can't believe it"},
+        {"date": "2023-09-24", "hour": 18, "minute": 33, "is_from_me": true, "content": "I had a great time. you scored a touchdown. I was impressed"},
+        {"date": "2023-09-24", "hour": 18, "minute": 35, "is_from_me": false, "content": "you were the reason I scored. I was showing off for you"},
+        {"date": "2023-12-15", "hour": 20, "minute": 00, "is_from_me": true, "content": "I'm going to argentina for my show. I want you to come"},
+        {"date": "2023-12-15", "hour": 20, "minute": 03, "is_from_me": false, "content": "I'll be there. I wouldn't miss it. I've never been more excited for anything"},
+        {"date": "2024-02-11", "hour": 22, "minute": 30, "is_from_me": false, "content": "super bowl champions. I did it. I won it for you. I love you"},
+        {"date": "2024-02-11", "hour": 22, "minute": 33, "is_from_me": true, "content": "I saw you down there. I was so proud. I love you too. this is incredible"},
+        {"date": "2024-02-11", "hour": 22, "minute": 35, "is_from_me": false, "content": "you're my good luck charm. never leave me"},
+        {"date": "2024-02-11", "hour": 22, "minute": 38, "is_from_me": true, "content": "I'm not going anywhere. you're stuck with me"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_swift_andrea_2005_2025",
+      "contact": "Andrea Swift (Mother)",
+      "messages": [
+        {"date": "2005-10-15", "hour": 18, "minute": 30, "is_from_me": false, "content": "taylor. I'm so proud of you. your album is done. you're going to be a star"},
+        {"date": "2005-10-15", "hour": 18, "minute": 33, "is_from_me": true, "content": "I couldn't have done it without you mom. you drove me to every audition. you believed in me"},
+        {"date": "2005-10-15", "hour": 18, "minute": 35, "is_from_me": false, "content": "I'll always believe in you. you're my daughter. and you're extraordinary"},
+        {"date": "2008-11-11", "hour": 20, "minute": 00, "is_from_me": true, "content": "mom. I won album of the year at the grammys. I can't believe it"},
+        {"date": "2008-11-11", "hour": 20, "minute": 03, "is_from_me": false, "content": "I was crying watching you. you've done so much. I'm so proud"},
+        {"date": "2015-03-15", "hour": 16, "minute": 00, "is_from_me": false, "content": "I have some news. they found cancer. I'm going to fight this"},
+        {"date": "2015-03-15", "hour": 16, "minute": 03, "is_from_me": true, "content": "mom. I'm scared. I can't lose you. you're everything to me"},
+        {"date": "2015-03-15", "hour": 16, "minute": 05, "is_from_me": false, "content": "you won't lose me. I'm a fighter. just like you. I'll beat this"},
+        {"date": "2019-08-23", "hour": 18, "minute": 00, "is_from_me": false, "content": "lover. I listened to the whole album. it's about love. about family. you dedicated it to me. I'm crying"},
+        {"date": "2019-08-23", "hour": 18, "minute": 03, "is_from_me": true, "content": "you're my inspiration. I wrote it thinking about you. about how much I love you"},
+        {"date": "2020-07-24", "hour": 18, "minute": 00, "is_from_me": false, "content": "folklore. you wrote this during quarantine. it's so beautiful and sad"},
+        {"date": "2020-07-24", "hour": 18, "minute": 03, "is_from_me": true, "content": "I wrote it thinking about life. about love. about you. you're in so many of these songs"},
+        {"date": "2023-04-01", "hour": 22, "minute": 30, "is_from_me": false, "content": "eras tour. I was in the audience. you're the greatest. I'm so lucky to be your mom"},
+        {"date": "2023-04-01", "hour": 22, "minute": 33, "is_from_me": true, "content": "I'm the lucky one. you're my hero. my everything. I love you mom. forever"},
+        {"date": "2024-12-25", "hour": 18, "minute": 00, "is_from_me": false, "content": "Merry Christmas taylor. I'm so proud of the woman you've become. you're my greatest achievement"},
+        {"date": "2024-12-25", "hour": 18, "minute": 03, "is_from_me": true, "content": "Merry Christmas mom. I love you more than anything. you're my whole world"}
+      ]
+    },
+    {
+      "chat_id": "imessage_swift_abigail_2003_2025",
+      "contact": "Abigail Anderson",
+      "messages": [
+        {"date": "2003-09-15", "hour": 15, "minute": 30, "is_from_me": false, "content": "taylor. I'm so glad we're friends. you're the best"},
+        {"date": "2003-09-15", "hour": 15, "minute": 33, "is_from_me": true, "content": "abby. you're my best friend forever. I'm never letting you go"},
+        {"date": "2004-06-10", "hour": 18, "minute": 00, "is_from_me": false, "content": "I can't believe you're moving to nashville. I'm going to miss you so much"},
+        {"date": "2004-06-10", "hour": 18, "minute": 03, "is_from_me": true, "content": "I'm going to miss you too. but I'll call you every day. you're my person"},
+        {"date": "2008-11-11", "hour": 20, "minute": 00, "is_from_me": false, "content": "grammy winner. I'm screaming. I'm so proud of you"},
+        {"date": "2008-11-11", "hour": 20, "minute": 03, "is_from_me": true, "content": "I couldn't have done it without you. you've been there since day one"},
+        {"date": "2012-10-22", "hour": 18, "minute": 00, "is_from_me": false, "content": "red. I can't stop crying. you've written my entire breakup from years ago"},
+        {"date": "2012-10-22", "hour": 18, "minute": 03, "is_from_me": true, "content": "haha I wrote them for you basically. we've been through everything together"},
+        {"date": "2019-08-23", "hour": 18, "minute": 00, "is_from_me": false, "content": "lover. I'm so happy for you. you found love again. you deserve it"},
+        {"date": "2019-08-23", "hour": 18, "minute": 03, "is_from_me": true, "content": "you're my love. my forever friend. I don't know what I'd do without you"},
+        {"date": "2023-04-01", "hour": 22, "minute": 30, "is_from_me": false, "content": "eras tour. I was there. front row. I cried through the whole thing. you're the best"},
+        {"date": "2023-04-01", "hour": 22, "minute": 33, "is_from_me": true, "content": "you being there means everything. you're my best friend. forever and always"}
+      ]
+    },
+    {
+      "chat_id": "imessage_swift_joe_2017_2023",
+      "contact": "Joe Alwyn",
+      "messages": [
+        {"date": "2017-05-15", "hour": 18, "minute": 30, "is_from_me": false, "content": "I love the privacy we have. it's so different from everything else in my life"},
+        {"date": "2017-05-15", "hour": 18, "minute": 33, "is_from_me": true, "content": "I love it too. I don't want the world to know everything. it's just us"},
+        {"date": "2017-08-24", "hour": 20, "minute": 00, "is_from_me": true, "content": "reputation is out. I wrote so much about you. thank you for being my safe place"},
+        {"date": "2017-08-24", "hour": 20, "minute": 03, "is_from_me": false, "content": "I love the songs. I love you. you're the best thing that's ever happened to me"},
+        {"date": "2019-08-23", "hour": 18, "minute": 00, "is_from_me": false, "content": "lover. it's all about love. about us. I love it so much"},
+        {"date": "2019-08-23", "hour": 18, "minute": 03, "is_from_me": true, "content": "I wrote it all thinking about you. about us. about how much you mean to me"},
+        {"date": "2020-07-24", "hour": 18, "minute": 00, "is_from_me": false, "content": "folklore. so much of it is about our relationship. I love how you write about love"},
+        {"date": "2020-07-24", "hour": 18, "minute": 03, "is_from_me": true, "content": "I had to write about it. about you. about us. you're my muse"},
+        {"date": "2023-01-15", "hour": 18, "minute": 30, "is_from_me": false, "content": "I think we need to talk. I don't know if we're working anymore"},
+        {"date": "2023-01-15", "hour": 18, "minute": 33, "is_from_me": true, "content": "I know. I feel it too. I'm so sad. I thought we were forever"},
+        {"date": "2023-01-15", "hour": 18, "minute": 35, "is_from_me": false, "content": "I'll always love you. you changed my life. but I think we need time"},
+        {"date": "2023-01-15", "hour": 18, "minute": 38, "is_from_me": true, "content": "I'll always love you too. thank you for everything. for six beautiful years"}
+      ]
+    },
+    {
+      "chat_id": "imessage_swift_family_2006_2025",
+      "contact": "Swift Family Group",
+      "messages": [
+        {"date": "2006-10-24", "hour": 18, "minute": 30, "is_from_me": false, "content": "debut album! we're so proud of you - mom"},
+        {"date": "2006-10-24", "hour": 18, "minute": 33, "is_from_me": false, "content": "the whole family is listening. you're going to be huge - dad"},
+        {"date": "2006-10-24", "hour": 18, "minute": 35, "is_from_me": false, "content": "congratulations taylor. so proud - austin"},
+        {"date": "2006-10-24", "hour": 18, "minute": 38, "is_from_me": true, "content": "I love you all. you made this possible. thank you for everything"},
+        {"date": "2010-02-14", "hour": 20, "minute": 30, "is_from_me": false, "content": "grammy night! we're watching! - mom"},
+        {"date": "2010-02-14", "hour": 20, "minute": 33, "is_from_me": false, "content": "you're our star. always have been - dad"},
+        {"date": "2010-02-14", "hour": 20, "minute": 35, "is_from_me": true, "content": "I couldn't do this without you. I love you all so much"},
+        {"date": "2015-03-15", "hour": 16, "minute": 00, "is_from_me": false, "content": "we'll get through this. we're a family. we're strong - dad"},
+        {"date": "2015-03-15", "hour": 16, "minute": 03, "is_from_me": false, "content": "mom's going to fight this. and we'll be right there with her - austin"},
+        {"date": "2015-03-15", "hour": 16, "minute": 05, "is_from_me": true, "content": "I'm so scared. but I know we'll get through it. I love you all"},
+        {"date": "2021-04-15", "hour": 14, "minute": 00, "is_from_me": false, "content": "fearless taylor's version. you've reclaimed your work. we're so proud - mom"},
+        {"date": "2021-04-15", "hour": 14, "minute": 03, "is_from_me": false, "content": "I listened to the whole thing. it's even better the second time - austin"},
+        {"date": "2021-04-15", "hour": 14, "minute": 05, "is_from_me": true, "content": "I did it. I'm taking back my music. thank you for supporting me"},
+        {"date": "2023-04-01", "hour": 22, "minute": 30, "is_from_me": false, "content": "eras tour. we're all here. front row. you're incredible - mom"},
+        {"date": "2023-04-01", "hour": 22, "minute": 33, "is_from_me": false, "content": "you've come so far. from that 14-year-old to this - dad"},
+        {"date": "2023-04-01", "hour": 22, "minute": 35, "is_from_me": false, "content": "best show I've ever seen. I'm so proud to be your brother - austin"},
+        {"date": "2023-04-01", "hour": 22, "minute": 38, "is_from_me": true, "content": "I'm so lucky. this is my family. my everything. I love you all so much"},
+        {"date": "2024-12-25", "hour": 18, "minute": 00, "is_from_me": false, "content": "time person of the year. I'm crying. you're the greatest - mom"},
+        {"date": "2024-12-25", "hour": 18, "minute": 03, "is_from_me": false, "content": "you've done everything. we're all so proud - dad"},
+        {"date": "2024-12-25", "hour": 18, "minute": 05, "is_from_me": false, "content": "you're my hero. I love you - austin"},
+        {"date": "2024-12-25", "hour": 18, "minute": 08, "is_from_me": true, "content": "you're all my heroes. you gave me a life. a career. a reason to believe. I love you forever"}
+      ]
+    },
+    {
+      "chat_id": "imessage_swift_cats_2019_2025",
+      "contact": "Taylor Swift Cat Group",
+      "messages": [
+        {"date": "2019-08-23", "hour": 18, "minute": 00, "is_from_me": true, "content": "meredith. olivia. benjamin. I made an album for you. it's called lover. you're all in it."},
+        {"date": "2019-08-23", "hour": 18, "minute": 02, "is_from_me": true, "content": "okay I know you can't read this. but I love you three more than anything."},
+        {"date": "2019-08-23", "hour": 18, "minute": 05, "is_from_me": true, "content": "meredith you're the queen. olivia you're the diva. benjamin you're my new baby."},
+        {"date": "2020-07-24", "hour": 18, "minute": 00, "is_from_me": true, "content": "folklore is out. I wrote it all while you three sat on my lap. you're my muses."},
+        {"date": "2020-07-24", "hour": 18, "minute": 02, "is_from_me": true, "content": "okay maybe not. but you were there. and that's what matters."},
+        {"date": "2023-04-01", "hour": 22, "minute": 30, "is_from_me": true, "content": "eras tour starts tonight. I'm going to miss you three. but I'll be home soon."},
+        {"date": "2023-04-01", "hour": 22, "minute": 33, "is_from_me": true, "content": "you're the best companions a girl could ask for. I love my cats."}
+      ]
+    }
+  ]
+}

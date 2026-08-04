@@ -1,0 +1,214 @@
+{
+  "persona": {
+    "name": "John Felix Anthony Cena",
+    "description": "Professional wrestler, actor, and television host, 16-time world champion in WWE, one of the most recognizable professional wrestlers of all time, successful Hollywood actor, philanthropist with over 650 Make-A-Wish wishes granted",
+    "birth_year": 1977,
+    "nationality": "American",
+    "hometown": "West Newbury, Massachusetts"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_cena_vince_2002_2025",
+      "contact": "Vince McMahon",
+      "messages": [
+        {"date": "2002-06-27", "hour": 20, "minute": 30, "is_from_me": false, "content": "john. your debut tomorrow. don't screw it up. I see something in you"},
+        {"date": "2002-06-27", "hour": 20, "minute": 33, "is_from_me": true, "content": "I won't let you down mr. mcmahon. I've been waiting my whole life for this"},
+        {"date": "2002-06-27", "hour": 20, "minute": 35, "is_from_me": false, "content": "I'm watching. make it count. you have the look. now show me the fire"},
+        {"date": "2003-05-15", "hour": 14, "minute": 00, "is_from_me": true, "content": "vince. the rap gimmick is working. the crowd is eating it up"},
+        {"date": "2003-05-15", "hour": 14, "minute": 03, "is_from_me": false, "content": "I told you. you have charisma. I know talent when I see it. keep pushing"},
+        {"date": "2005-04-03", "hour": 22, "minute": 30, "is_from_me": false, "content": "your first wwe championship. wrestlemania. you're the face of this company now"},
+        {"date": "2005-04-03", "hour": 22, "minute": 33, "is_from_me": true, "content": "I still can't believe it. this is everything. thank you for believing in me"},
+        {"date": "2005-04-03", "hour": 22, "minute": 35, "is_from_me": false, "content": "you earned it. now carry this company on your back. you're ready"},
+        {"date": "2007-06-20", "hour": 18, "minute": 00, "is_from_me": true, "content": "vince. I need to talk to you about the direction. the character needs to evolve"},
+        {"date": "2007-06-20", "hour": 18, "minute": 03, "is_from_me": false, "content": "we can talk. but you're the biggest star we have. the kids love you. don't mess with that"},
+        {"date": "2010-08-15", "hour": 16, "minute": 30, "is_from_me": false, "content": "you're taking time off? for the movie?"},
+        {"date": "2010-08-15", "hour": 16, "minute": 33, "is_from_me": true, "content": "yes. but I'll be back. I need to see if I can do more than wrestling"},
+        {"date": "2010-08-15", "hour": 16, "minute": 35, "is_from_me": false, "content": "you have my blessing. but don't forget where you came from"},
+        {"date": "2025-12-31", "hour": 18, "minute": 00, "is_from_me": true, "content": "vince. I think it's time. I've given everything to this industry. I want to go out on my own terms"},
+        {"date": "2025-12-31", "hour": 18, "minute": 03, "is_from_me": false, "content": "you've been the heart of this company for 20 years. when you're ready, we'll give you the send-off you deserve"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_cena_rock_2011_2025",
+      "contact": "The Rock (Dwayne Johnson)",
+      "messages": [
+        {"date": "2011-02-14", "hour": 18, "minute": 30, "is_from_me": false, "content": "john. I'm coming back to wwe. and I want you at wrestlemania. let's make history"},
+        {"date": "2011-02-14", "hour": 18, "minute": 33, "is_from_me": true, "content": "rock. I've been waiting for this. you vs me. once in a lifetime. I'm ready"},
+        {"date": "2011-02-14", "hour": 18, "minute": 35, "is_from_me": false, "content": "I know you are. let's give the fans something they'll never forget"},
+        {"date": "2012-04-01", "hour": 22, "minute": 30, "is_from_me": false, "content": "we did it. that was incredible. I know you wanted the win. but we made history"},
+        {"date": "2012-04-01", "hour": 22, "minute": 33, "is_from_me": true, "content": "you're the better man tonight. but I'll be back. I always come back"},
+        {"date": "2012-04-01", "hour": 22, "minute": 35, "is_from_me": false, "content": "I know you will. and I'll be ready. but you've earned my respect forever"},
+        {"date": "2013-04-07", "hour": 22, "minute": 30, "is_from_me": true, "content": "rock. I did it. I beat you at wrestlemania. I can't believe it"},
+        {"date": "2013-04-07", "hour": 22, "minute": 33, "is_from_me": false, "content": "you deserved it. you made me better. and honestly, I've always respected you. even when I was talking trash"},
+        {"date": "2013-04-07", "hour": 22, "minute": 35, "is_from_me": true, "content": "same. you pushed me to be the best I could be. you'll always be the people's champ"},
+        {"date": "2020-06-15", "hour": 16, "minute": 00, "is_from_me": false, "content": "you're killing it in hollywood. I saw peacemaker. you're doing something special"},
+        {"date": "2020-06-15", "hour": 16, "minute": 03, "is_from_me": true, "content": "I learned from the best. you paved the way for all of us. I owe you so much"},
+        {"date": "2025-12-31", "hour": 18, "minute": 30, "is_from_me": false, "content": "I'm going to be at your final match. wouldn't miss it for the world. you've had an incredible career. I'm proud of you"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_cena_orton_2006_2025",
+      "contact": "Randy Orton",
+      "messages": [
+        {"date": "2006-08-20", "hour": 18, "minute": 30, "is_from_me": false, "content": "you think you're the face of this company? you're not. I'm the legend killer"},
+        {"date": "2006-08-20", "hour": 18, "minute": 33, "is_from_me": true, "content": "I don't think. I know. I'm the champion. and you can't beat me"},
+        {"date": "2006-08-20", "hour": 18, "minute": 35, "is_from_me": false, "content": "we'll see at unforgiven. you're going down"},
+        {"date": "2009-09-13", "hour": 22, "minute": 30, "is_from_me": false, "content": "breaking point. I quit match. I made you say it. I made you quit"},
+        {"date": "2009-09-13", "hour": 22, "minute": 33, "is_from_me": true, "content": "you did. but I'll never quit on myself. I'll be back. we're not done"},
+        {"date": "2014-08-17", "hour": 22, "minute": 30, "is_from_me": true, "content": "summerslam. I beat you. clean. in the middle of the ring. 15th world title"},
+        {"date": "2014-08-17", "hour": 22, "minute": 33, "is_from_me": false, "content": "you did. you earned it. but this rivalry is never over between us"},
+        {"date": "2025-12-31", "hour": 18, "minute": 00, "is_from_me": false, "content": "I heard it's your last match. I never thought I'd see this day. you've been a hell of a rival. I'll respect you forever"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_cena_stephanie_2000_2025",
+      "contact": "Stephanie McMahon",
+      "messages": [
+        {"date": "2000-10-10", "hour": 14, "minute": 30, "is_from_me": false, "content": "john. welcome to wwe. I've been watching your work at UPW. you're going to be great"},
+        {"date": "2000-10-10", "hour": 14, "minute": 33, "is_from_me": true, "content": "thank you stephanie. I won't let you down. I've dreamed of this my whole life"},
+        {"date": "2004-05-20", "hour": 16, "minute": 00, "is_from_me": false, "content": "the us championship. you're on your way. I see the dedication"},
+        {"date": "2004-05-20", "hour": 16, "minute": 03, "is_from_me": true, "content": "I appreciate that. I want to be the face of this company. I'll prove it"},
+        {"date": "2005-04-03", "hour": 22, "minute": 30, "is_from_me": false, "content": "wwe champion. at wrestlemania. you did it. I'm so proud of you"},
+        {"date": "2005-04-03", "hour": 22, "minute": 33, "is_from_me": true, "content": "thank you. you believed in me from day one. I'll never forget that"},
+        {"date": "2015-06-15", "hour": 15, "minute": 00, "is_from_me": true, "content": "stephanie. I'm going to focus on hollywood more. but I'll never leave wwe"},
+        {"date": "2015-06-15", "hour": 15, "minute": 03, "is_from_me": false, "content": "you've earned the right. you've given everything. we'll always be your home"},
+        {"date": "2025-12-31", "hour": 18, "minute": 30, "is_from_me": false, "content": "I'll be there for your last match. you've been the face of this company for two decades. thank you for everything"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_cena_mark_2016_2025",
+      "contact": "Mark Wahlberg",
+      "messages": [
+        {"date": "2016-05-10", "hour": 14, "minute": 30, "is_from_me": false, "content": "john. I saw your audition for trainwreck. you're funny. I didn't know you had that"},
+        {"date": "2016-05-10", "hour": 14, "minute": 33, "is_from_me": true, "content": "haha thanks mark. I've been hiding it. people only see the wrestler"},
+        {"date": "2016-05-10", "hour": 14, "minute": 35, "is_from_me": false, "content": "you're going to be huge in hollywood. I can feel it. you've got the work ethic"},
+        {"date": "2018-08-15", "hour": 18, "minute": 00, "is_from_me": true, "content": "blockers is getting great reviews. I can't believe I'm a real actor now"},
+        {"date": "2018-08-15", "hour": 18, "minute": 03, "is_from_me": false, "content": "I told you. you're a natural. the discipline you learned in wrestling translates"},
+        {"date": "2021-01-15", "hour": 16, "minute": 00, "is_from_me": true, "content": "peacemaker. the reviews are insane. I can't believe people love this character"},
+        {"date": "2021-01-15", "hour": 16, "minute": 03, "is_from_me": false, "content": "you're nailing it. you're showing the world what we already knew. you're special"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_cena_gronk_2020_2025",
+      "contact": "Rob Gronkowski",
+      "messages": [
+        {"date": "2020-02-02", "hour": 22, "minute": 30, "is_from_me": false, "content": "bro. I just won the super bowl with the bucs. I'm so hyped!"},
+        {"date": "2020-02-02", "hour": 22, "minute": 33, "is_from_me": true, "content": "I saw you out there. you're unstoppable. congrats man. you deserve it"},
+        {"date": "2020-02-02", "hour": 22, "minute": 35, "is_from_me": false, "content": "you going to be in the peacemaker show? I need to do something with you. let's party"},
+        {"date": "2020-02-02", "hour": 22, "minute": 38, "is_from_me": true, "content": "I'm always down. you bring the energy. I'll bring the hustle"},
+        {"date": "2021-08-10", "hour": 16, "minute": 00, "is_from_me": false, "content": "you killed it in the suicide squad. I watched it twice. you're hilarious"},
+        {"date": "2021-08-10", "hour": 16, "minute": 03, "is_from_me": true, "content": "thanks bro. I tried to be as funny as you are. impossible standard"},
+        {"date": "2024-09-20", "hour": 18, "minute": 00, "is_from_me": false, "content": "you're going to be in the next wwe game? I want to be in it too!"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_cena_sr_1995_2025",
+      "contact": "John Cena Sr.",
+      "messages": [
+        {"date": "1995-06-10", "hour": 18, "minute": 30, "is_from_me": false, "content": "son. I'm proud of you. you're building a future. keep working hard"},
+        {"date": "1995-06-10", "hour": 18, "minute": 33, "is_from_me": true, "content": "thanks dad. I'm going to make you proud. I promise. just wait"},
+        {"date": "1999-12-20", "hour": 15, "minute": 00, "is_from_me": true, "content": "dad. I got signed. I'm going to the big time. I can't believe it"},
+        {"date": "1999-12-20", "hour": 15, "minute": 03, "is_from_me": false, "content": "I always knew you would. you've got something special. that fire. I gave you that"},
+        {"date": "2002-06-27", "hour": 20, "minute": 00, "is_from_me": true, "content": "I'm debuting tomorrow on smackdown. are you watching?"},
+        {"date": "2002-06-27", "hour": 20, "minute": 03, "is_from_me": false, "content": "I wouldn't miss it for the world. I'm so proud of you son"},
+        {"date": "2005-04-03", "hour": 22, "minute": 30, "is_from_me": false, "content": "wwe champion. wrestlemania. I was screaming at the TV. I'm so proud of you"},
+        {"date": "2005-04-03", "hour": 22, "minute": 33, "is_from_me": true, "content": "I did it dad. I did it for us. I love you. thank you for everything"},
+        {"date": "2007-10-15", "hour": 18, "minute": 00, "is_from_me": false, "content": "you're the biggest star in the world. I knew it from the first day we lifted weights in the garage"},
+        {"date": "2025-12-31", "hour": 18, "minute": 30, "is_from_me": true, "content": "dad. I'm retiring. I've given everything. I want you to be there"},
+        {"date": "2025-12-31", "hour": 18, "minute": 33, "is_from_me": false, "content": "I'll be there. front row. the proudest father in the world. you've done it all son"}
+      ]
+    },
+    {
+      "chat_id": "imessage_cena_nikki_2012_2018",
+      "contact": "Nikki Bella",
+      "messages": [
+        {"date": "2012-08-15", "hour": 19, "minute": 30, "is_from_me": false, "content": "I never thought I'd fall for a guy who wears jorts. but here we are"},
+        {"date": "2012-08-15", "hour": 19, "minute": 33, "is_from_me": true, "content": "haha you love the jorts. don't lie. you're just jealous you can't pull them off"},
+        {"date": "2012-08-15", "hour": 19, "minute": 35, "is_from_me": false, "content": "you're impossible. I love it. I love you"},
+        {"date": "2012-08-15", "hour": 19, "minute": 38, "is_from_me": true, "content": "I love you too. I never thought I'd find someone who understands this life"},
+        {"date": "2013-10-15", "hour": 16, "minute": 00, "is_from_me": false, "content": "total divas is going to be amazing. everyone is going to see our relationship"},
+        {"date": "2013-10-15", "hour": 16, "minute": 03, "is_from_me": true, "content": "I'm nervous. but I trust you. we got this"},
+        {"date": "2017-04-02", "hour": 22, "minute": 30, "is_from_me": false, "content": "we're engaged. I can't believe it. I'm the luckiest woman in the world"},
+        {"date": "2017-04-02", "hour": 22, "minute": 33, "is_from_me": true, "content": "I'm the lucky one. you've changed me. you've made me a better man"},
+        {"date": "2018-04-15", "hour": 20, "minute": 00, "is_from_me": true, "content": "nikki. I need to talk to you. about kids. I don't think I'm ready"},
+        {"date": "2018-04-15", "hour": 20, "minute": 03, "is_from_me": false, "content": "I've always been honest about wanting a family. I think we need to take a break"},
+        {"date": "2018-04-15", "hour": 20, "minute": 05, "is_from_me": true, "content": "I'm sorry. I'm so sorry. I don't want to lose you. but I can't give you what you need right now"},
+        {"date": "2018-04-15", "hour": 20, "minute": 08, "is_from_me": false, "content": "I love you. I'll always love you. but I need to think about my future too"},
+        {"date": "2018-08-15", "hour": 18, "minute": 00, "is_from_me": false, "content": "I think we need to end this. I need to move on. I'll always care about you"}
+      ]
+    },
+    {
+      "chat_id": "imessage_cena_shay_2019_2025",
+      "contact": "Shay Shariatzadeh",
+      "messages": [
+        {"date": "2019-10-15", "hour": 18, "minute": 30, "is_from_me": false, "content": "I had the most amazing time with you. you're not what I expected at all"},
+        {"date": "2019-10-15", "hour": 18, "minute": 33, "is_from_me": true, "content": "what did you expect? some guy who says 'you can't see me' all the time?"},
+        {"date": "2019-10-15", "hour": 18, "minute": 35, "is_from_me": false, "content": "honestly? kind of. but you're actually really thoughtful and sweet"},
+        {"date": "2019-10-15", "hour": 18, "minute": 38, "is_from_me": true, "content": "I'm trying to be a better man. you make me want to be better"},
+        {"date": "2020-10-12", "hour": 12, "minute": 00, "is_from_me": false, "content": "I married you! I can't believe we're married. in secret. in vancouver. I love you so much"},
+        {"date": "2020-10-12", "hour": 12, "minute": 03, "is_from_me": true, "content": "I love you more than I ever thought possible. you're my forever. my everything"},
+        {"date": "2021-06-15", "hour": 16, "minute": 00, "is_from_me": false, "content": "I'm so proud of you. peacemaker is incredible. and you're doing it all with me by your side"},
+        {"date": "2021-06-15", "hour": 16, "minute": 03, "is_from_me": true, "content": "I couldn't do any of it without you. you're my peace. you're my rock"},
+        {"date": "2025-12-31", "hour": 18, "minute": 00, "is_from_me": false, "content": "your last match. I'm so emotional. but I'm so proud of you. you've given everything. and now you're coming home to me"},
+        {"date": "2025-12-31", "hour": 18, "minute": 03, "is_from_me": true, "content": "I'm coming home. and I'm never leaving. I love you shay. forever"}
+      ]
+    },
+    {
+      "chat_id": "imessage_cena_family_2005_2025",
+      "contact": "Cena Family Group",
+      "messages": [
+        {"date": "2005-04-03", "hour": 22, "minute": 30, "is_from_me": false, "content": "champion! I'm so proud of you! - mom"},
+        {"date": "2005-04-03", "hour": 22, "minute": 33, "is_from_me": false, "content": "you're a legend now john. we're all watching from home - matt"},
+        {"date": "2005-04-03", "hour": 22, "minute": 35, "is_from_me": false, "content": "I can't believe my little brother is wwe champion - sean"},
+        {"date": "2005-04-03", "hour": 22, "minute": 38, "is_from_me": true, "content": "I love you all. you made me who I am. this is for our family"},
+        {"date": "2010-08-15", "hour": 16, "minute": 30, "is_from_me": false, "content": "you're doing the movie? that's amazing. we're all so excited - mom"},
+        {"date": "2010-08-15", "hour": 16, "minute": 33, "is_from_me": true, "content": "I'm nervous. but I want to try something new. wish me luck"},
+        {"date": "2015-06-15", "hour": 15, "minute": 00, "is_from_me": false, "content": "trainwreck was hilarious. you're a real actor now - matt"},
+        {"date": "2015-06-15", "hour": 15, "minute": 03, "is_from_me": false, "content": "the whole family is so proud of you - sean"},
+        {"date": "2017-04-02", "hour": 22, "minute": 30, "is_from_me": false, "content": "engaged! congratulations! we love nikki - mom"},
+        {"date": "2018-08-15", "hour": 18, "minute": 00, "is_from_me": false, "content": "I'm sorry about you and nikki. we're here for you - matt"},
+        {"date": "2018-08-15", "hour": 18, "minute": 03, "is_from_me": true, "content": "thanks. I'll be okay. I have my family. that's all I need"},
+        {"date": "2020-10-12", "hour": 12, "minute": 00, "is_from_me": false, "content": "shay! congratulations on the marriage! we're so happy for you - mom"},
+        {"date": "2020-10-12", "hour": 12, "minute": 03, "is_from_me": false, "content": "welcome to the family shay - matt"},
+        {"date": "2020-10-12", "hour": 12, "minute": 05, "is_from_me": false, "content": "we love you both - sean"},
+        {"date": "2020-10-12", "hour": 12, "minute": 08, "is_from_me": true, "content": "I love you all. you're my foundation. my everything"},
+        {"date": "2025-12-31", "hour": 18, "minute": 30, "is_from_me": false, "content": "we'll all be there. your last match. we're so proud of everything you've done - mom"},
+        {"date": "2025-12-31", "hour": 18, "minute": 33, "is_from_me": false, "content": "from a kid in massachusetts to a world champion. you've done it all - matt"},
+        {"date": "2025-12-31", "hour": 18, "minute": 35, "is_from_me": false, "content": "proud of you bro. always - sean"},
+        {"date": "2025-12-31", "hour": 18, "minute": 38, "is_from_me": true, "content": "I love you all. this is just the beginning of the next chapter. but my family will always come first. always"}
+      ]
+    },
+    {
+      "chat_id": "imessage_cena_wish_2010_2025",
+      "contact": "Make-A-Wish Foundation Coordinator",
+      "messages": [
+        {"date": "2010-03-10", "hour": 14, "minute": 30, "is_from_me": false, "content": "john. we have a young fan. he's 8. leukemia. he wants to meet you. can you make it?"},
+        {"date": "2010-03-10", "hour": 14, "minute": 33, "is_from_me": true, "content": "of course. I'll be there. just tell me when and where. these kids are my priority"},
+        {"date": "2010-03-10", "hour": 14, "minute": 35, "is_from_me": false, "content": "you're incredible. thank you. you don't know how much this means"},
+        {"date": "2015-12-20", "hour": 18, "minute": 00, "is_from_me": false, "content": "john. you've granted 500 wishes. you're the record holder. we're doing a tribute"},
+        {"date": "2015-12-20", "hour": 18, "minute": 03, "is_from_me": true, "content": "I don't do it for the recognition. I do it because these kids are braver than I could ever be"},
+        {"date": "2015-12-20", "hour": 18, "minute": 05, "is_from_me": false, "content": "we know. that's what makes you special. you've changed so many lives"},
+        {"date": "2025-01-15", "hour": 16, "minute": 00, "is_from_me": false, "content": "john. you're at 650 wishes. you've made history. you're the most requested celebrity"},
+        {"date": "2025-01-15", "hour": 16, "minute": 03, "is_from_me": true, "content": "I'm honored. but honestly, they've given me more than I could ever give them. they've shown me what strength really means"},
+        {"date": "2025-01-15", "hour": 16, "minute": 05, "is_from_me": false, "content": "you're a hero to so many. thank you. for everything"}
+      ]
+    },
+    {
+      "chat_id": "imessage_cena_legacy_2025",
+      "contact": "John Cena (self-reflective thread)",
+      "messages": [
+        {"date": "2025-12-31", "hour": 23, "minute": 00, "is_from_me": true, "content": "I can't believe it's over. 25 years. I gave this everything"},
+        {"date": "2025-12-31", "hour": 23, "minute": 02, "is_from_me": true, "content": "I remember being a kid in massachusetts watching hulk hogan. never thought I'd be here"},
+        {"date": "2025-12-31", "hour": 23, "minute": 05, "is_from_me": true, "content": "the fans. the fans made me. I hope I gave them everything I had"},
+        {"date": "2025-12-31", "hour": 23, "minute": 08, "is_from_me": true, "content": "hustle. loyalty. respect. that's not just a catchphrase. that's who I am. that's how I lived"},
+        {"date": "2025-12-31", "hour": 23, "minute": 10, "is_from_me": true, "content": "thank you to everyone who believed in me. thank you to everyone who doubted me. you all pushed me"},
+        {"date": "2025-12-31", "hour": 23, "minute": 12, "is_from_me": true, "content": "the legacy isn't the championships. it's the moments. the kids. the smiles. the hope"},
+        {"date": "2025-12-31", "hour": 23, "minute": 15, "is_from_me": true, "content": "now I'm going home. to my wife. to my family. I've earned this. but I'll never forget where I came from"},
+        {"date": "2025-12-31", "hour": 23, "minute": 18, "is_from_me": true, "content": "thank you. all of you. for the ride of a lifetime. I love this industry. I love this life. and I'll always be grateful"},
+        {"date": "2025-12-31", "hour": 23, "minute": 20, "is_from_me": true, "content": "john cena. out. but never forgotten"}
+      ]
+    }
+  ]
+}

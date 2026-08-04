@@ -1,0 +1,218 @@
+{
+  "persona": {
+    "name": "Michael Joseph Jackson",
+    "description": "'The King of Pop' - One of the most influential entertainers in history, 13-time Grammy winner, pioneer of music videos, global cultural icon, known for his distinctive voice, moonwalk dance move, and humanitarian efforts",
+    "birth_year": 1958,
+    "nationality": "American",
+    "hometown": "Gary, Indiana"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_jackson_quincy_1979_2001",
+      "contact": "Quincy Jones",
+      "messages": [
+        {"date": "1979-08-10", "hour": 18, "minute": 30, "is_from_me": false, "content": "michael. off the wall is done. I've never heard anything like it. you're going to be huge"},
+        {"date": "1979-08-10", "hour": 18, "minute": 33, "is_from_me": true, "content": "quincy. I can't believe it. you pushed me. I've never worked harder on anything"},
+        {"date": "1979-08-10", "hour": 18, "minute": 35, "is_from_me": false, "content": "you're the one with the talent. I just pointed the camera. this is the beginning"},
+        {"date": "1982-11-30", "hour": 20, "minute": 00, "is_from_me": true, "content": "quincy. thriller. it's done. I think we've made something that will live forever"},
+        {"date": "1982-11-30", "hour": 20, "minute": 03, "is_from_me": false, "content": "I'm listening to it right now. it's perfect. the video is going to change everything"},
+        {"date": "1982-11-30", "hour": 20, "minute": 05, "is_from_me": true, "content": "I wanted to scare people. I wanted to make art. I think we did it"},
+        {"date": "1983-12-02", "hour": 22, "minute": 30, "is_from_me": false, "content": "the thriller video. 45 minutes. I've never seen anything like it. you're the king now"},
+        {"date": "1983-12-02", "hour": 22, "minute": 33, "is_from_me": true, "content": "I wanted to dance with zombies. I wanted people to feel something new"},
+        {"date": "1987-08-31", "hour": 18, "minute": 00, "is_from_me": true, "content": "bad is out. I wanted to be edgier. more aggressive. but still me"},
+        {"date": "1987-08-31", "hour": 18, "minute": 03, "is_from_me": false, "content": "it's incredible. I'm so proud of you. you keep evolving"},
+        {"date": "1991-11-26", "hour": 20, "minute": 00, "is_from_me": false, "content": "dangerous. I heard it. I can't believe you're still doing this. you're unstoppable"},
+        {"date": "1991-11-26", "hour": 20, "minute": 03, "is_from_me": true, "content": "I want to keep making music. I don't know how to stop. it's who I am"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jackson_diana_1970_2009",
+      "contact": "Diana Ross",
+      "messages": [
+        {"date": "1970-12-15", "hour": 14, "minute": 30, "is_from_me": false, "content": "michael. I watched you on stage tonight. you're going to be the biggest star in the world"},
+        {"date": "1970-12-15", "hour": 14, "minute": 33, "is_from_me": true, "content": "ms. ross. thank you. I can't believe you believe in me. you're my idol"},
+        {"date": "1970-12-15", "hour": 14, "minute": 35, "is_from_me": false, "content": "you're going to be my protégé. I see so much in you. you have no idea"},
+        {"date": "1977-12-20", "hour": 18, "minute": 00, "is_from_me": true, "content": "ms. ross. I'm working on my solo album. I want you to hear it first"},
+        {"date": "1977-12-20", "hour": 18, "minute": 03, "is_from_me": false, "content": "I'm so proud of you. come over. I want to hear everything"},
+        {"date": "1983-03-25", "hour": 22, "minute": 30, "is_from_me": false, "content": "motown 25. the moonwalk. I was in the audience. I cried. you're the greatest"},
+        {"date": "1983-03-25", "hour": 22, "minute": 33, "is_from_me": true, "content": "I did it for you. you showed me how to be a star. I wanted to make you proud"},
+        {"date": "1993-09-15", "hour": 16, "minute": 00, "is_from_me": true, "content": "ms. ross. the allegations. I don't know what to do. they're destroying me"},
+        {"date": "1993-09-15", "hour": 16, "minute": 03, "is_from_me": false, "content": "I know. I'm here for you. you're innocent. I believe in you. stay strong"},
+        {"date": "2009-06-15", "hour": 15, "minute": 00, "is_from_me": false, "content": "michael. I heard about the tour. this is going to be incredible. I'm so proud of you"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jackson_elizabeth_1985_2009",
+      "contact": "Elizabeth Taylor",
+      "messages": [
+        {"date": "1985-05-20", "hour": 18, "minute": 30, "is_from_me": false, "content": "michael. I've been watching your career. you're a kindred spirit. we should be friends"},
+        {"date": "1985-05-20", "hour": 18, "minute": 33, "is_from_me": true, "content": "ms. taylor. I would be honored. I've always admired you so much"},
+        {"date": "1985-05-20", "hour": 18, "minute": 35, "is_from_me": false, "content": "call me liz. I'll call you michael. we're going to be best friends"},
+        {"date": "1988-07-15", "hour": 16, "minute": 00, "is_from_me": false, "content": "I visited neverland. it's magical. you've created a world for yourself"},
+        {"date": "1988-07-15", "hour": 16, "minute": 03, "is_from_me": true, "content": "I wanted to make a place where children can be children. where I can be myself"},
+        {"date": "1988-07-15", "hour": 16, "minute": 05, "is_from_me": false, "content": "you're an angel. the world doesn't understand you. but I do"},
+        {"date": "1993-09-15", "hour": 16, "minute": 30, "is_from_me": false, "content": "I'm with you. I'll stand by you. I know the truth. you're innocent"},
+        {"date": "1993-09-15", "hour": 16, "minute": 33, "is_from_me": true, "content": "thank you. I need you. I don't know who to trust anymore"},
+        {"date": "2003-11-20", "hour": 18, "minute": 00, "is_from_me": false, "content": "the allegations again. I'm so sorry. I'll be there for you. always"},
+        {"date": "2003-11-20", "hour": 18, "minute": 03, "is_from_me": true, "content": "I don't understand why they keep doing this to me. I've given so much"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jackson_lisa_1994_1996",
+      "contact": "Lisa Marie Presley",
+      "messages": [
+        {"date": "1994-05-26", "hour": 20, "minute": 00, "is_from_me": false, "content": "I can't believe we're married. this is crazy. but I'm so happy"},
+        {"date": "1994-05-26", "hour": 20, "minute": 03, "is_from_me": true, "content": "you're the only one who understands me. I love you. I've never felt this way"},
+        {"date": "1994-05-26", "hour": 20, "minute": 05, "is_from_me": false, "content": "we're both misunderstood. we're going to make this work"},
+        {"date": "1994-09-15", "hour": 18, "minute": 00, "is_from_me": true, "content": "the diane sawyer interview. I should never have done it. I was trying to protect myself"},
+        {"date": "1994-09-15", "hour": 18, "minute": 03, "is_from_me": false, "content": "I saw it. I was worried about you. but I understand why you did it"},
+        {"date": "1995-06-15", "hour": 16, "minute": 00, "is_from_me": false, "content": "I think I need some space. this is too much. I'm not used to all this attention"},
+        {"date": "1995-06-15", "hour": 16, "minute": 03, "is_from_me": true, "content": "please don't leave me. I need you. you're the only one who gets it"},
+        {"date": "1996-01-15", "hour": 18, "minute": 00, "is_from_me": false, "content": "I think we need to end this. I'll always love you. but I can't do this anymore"},
+        {"date": "1996-01-15", "hour": 18, "minute": 03, "is_from_me": true, "content": "I understand. I'll always love you too. thank you for giving me a chance"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jackson_debbie_1996_1999",
+      "contact": "Debbie Rowe",
+      "messages": [
+        {"date": "1996-11-15", "hour": 18, "minute": 00, "is_from_me": false, "content": "michael. I want to have your children. I want to give you the family you've always wanted"},
+        {"date": "1996-11-15", "hour": 18, "minute": 03, "is_from_me": true, "content": "debbie. are you sure? this is a lot. I've always wanted children. more than anything"},
+        {"date": "1996-11-15", "hour": 18, "minute": 05, "is_from_me": false, "content": "I'm sure. I want to do this for you. I want to give you this gift"},
+        {"date": "1997-02-13", "hour": 16, "minute": 00, "is_from_me": false, "content": "prince is here. you have a son. I've never seen you happier"},
+        {"date": "1997-02-13", "hour": 16, "minute": 03, "is_from_me": true, "content": "I'm holding him. I can't stop crying. he's perfect. thank you. thank you"},
+        {"date": "1998-04-03", "hour": 14, "minute": 00, "is_from_me": false, "content": "paris is here. you have a daughter. your family is growing"},
+        {"date": "1998-04-03", "hour": 14, "minute": 03, "is_from_me": true, "content": "I have a daughter. I can't believe it. she's so beautiful. I love you for this"},
+        {"date": "1999-10-20", "hour": 18, "minute": 00, "is_from_me": false, "content": "I think it's time for me to go. I've given you what you wanted. I need to move on"},
+        {"date": "1999-10-20", "hour": 18, "minute": 03, "is_from_me": true, "content": "I understand. thank you for everything. you've given me the greatest gifts of my life"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jackson_paul_1982_1984",
+      "contact": "Paul McCartney",
+      "messages": [
+        {"date": "1982-10-15", "hour": 15, "minute": 30, "is_from_me": false, "content": "michael. I love 'the girl is mine'. we made magic together"},
+        {"date": "1982-10-15", "hour": 15, "minute": 33, "is_from_me": true, "content": "you're a legend. working with you has been a dream. I learned so much"},
+        {"date": "1982-10-15", "hour": 15, "minute": 35, "is_from_me": false, "content": "you're a legend too. you're just starting. you're going to do amazing things"},
+        {"date": "1983-12-15", "hour": 18, "minute": 00, "is_from_me": true, "content": "paul. I'm buying the atv catalog. with the beatles songs. I had to tell you"},
+        {"date": "1983-12-15", "hour": 18, "minute": 03, "is_from_me": false, "content": "I heard. I'm not going to lie. it hurts. I wish you had told me earlier"},
+        {"date": "1983-12-15", "hour": 18, "minute": 05, "is_from_me": true, "content": "I'm sorry. it was business. I didn't mean to hurt you. I love you. I love the beatles"},
+        {"date": "1984-10-20", "hour": 18, "minute": 00, "is_from_me": false, "content": "I've made peace with it. I wish it had been different. but I still respect you as an artist"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_jackson_katherine_1970_2009",
+      "contact": "Katherine Jackson (Mother)",
+      "messages": [
+        {"date": "1970-12-20", "hour": 18, "minute": 30, "is_from_me": false, "content": "my son. I'm so proud of you. the jacksons are on top of the world"},
+        {"date": "1970-12-20", "hour": 18, "minute": 33, "is_from_me": true, "content": "mama. I did it for you. you always believed in me. I love you so much"},
+        {"date": "1970-12-20", "hour": 18, "minute": 35, "is_from_me": false, "content": "I'll always believe in you. you're my son. my heart"},
+        {"date": "1983-03-25", "hour": 22, "minute": 30, "is_from_me": false, "content": "motown 25. I watched from home. the moonwalk. I've never seen anything like it"},
+        {"date": "1983-03-25", "hour": 22, "minute": 33, "is_from_me": true, "content": "I wanted to make you proud. I want to make everyone proud"},
+        {"date": "1984-02-28", "hour": 20, "minute": 00, "is_from_me": false, "content": "grammys. thriller. 8 awards. I'm crying. you've done everything"},
+        {"date": "1984-02-28", "hour": 20, "minute": 03, "is_from_me": true, "content": "I did it for you. you're my inspiration. my everything"},
+        {"date": "1993-09-15", "hour": 16, "minute": 30, "is_from_me": true, "content": "mama. the allegations. I don't know how to handle this. I feel so alone"},
+        {"date": "1993-09-15", "hour": 16, "minute": 33, "is_from_me": false, "content": "I'm here. I'll always be here. you're my son. I know the truth"},
+        {"date": "1993-09-15", "hour": 16, "minute": 35, "is_from_me": true, "content": "I don't know who to trust. everyone is turning against me"},
+        {"date": "2003-11-20", "hour": 18, "minute": 00, "is_from_me": false, "content": "I'm praying for you. we're all praying. you'll get through this"},
+        {"date": "2003-11-20", "hour": 18, "minute": 03, "is_from_me": true, "content": "I don't know how much more I can take. I just want to make music"},
+        {"date": "2005-06-13", "hour": 16, "minute": 00, "is_from_me": false, "content": "you're free. we did it. I knew it. I always knew. I'm so relieved"},
+        {"date": "2005-06-13", "hour": 16, "minute": 03, "is_from_me": true, "content": "I can't believe it's over. I can finally breathe. thank you mama. for never leaving me"},
+        {"date": "2009-06-15", "hour": 15, "minute": 00, "is_from_me": false, "content": "the tour. be careful baby. I'm worried about you. you've been pushing yourself too hard"},
+        {"date": "2009-06-15", "hour": 15, "minute": 03, "is_from_me": true, "content": "I'll be okay mama. I need to do this. I need to show them I still can"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jackson_janet_1970_2009",
+      "contact": "Janet Jackson",
+      "messages": [
+        {"date": "1970-12-20", "hour": 18, "minute": 30, "is_from_me": false, "content": "michael. I'm going to be just like you when I grow up"},
+        {"date": "1970-12-20", "hour": 18, "minute": 33, "is_from_me": true, "content": "you're going to be better than me. I can feel it. you're going to be a star"},
+        {"date": "1982-11-30", "hour": 20, "minute": 00, "is_from_me": false, "content": "thriller. I heard the whole album. you've done it. this is going to be everything"},
+        {"date": "1982-11-30", "hour": 20, "minute": 03, "is_from_me": true, "content": "I hope so. I put my whole soul into it"},
+        {"date": "1986-09-15", "hour": 16, "minute": 00, "is_from_me": false, "content": "control is out. I finally did it. I made my own album. I found my voice"},
+        {"date": "1986-09-15", "hour": 16, "minute": 03, "is_from_me": true, "content": "I'm so proud of you. you've found your way. you're better than I ever was"},
+        {"date": "1989-10-20", "hour": 18, "minute": 00, "is_from_me": false, "content": "rhythm nation. come dance with me. we're changing the world"},
+        {"date": "1993-09-15", "hour": 16, "minute": 30, "is_from_me": false, "content": "I'm here for you. I know what you're going through. I had my own scandals"},
+        {"date": "1993-09-15", "hour": 16, "minute": 33, "is_from_me": true, "content": "I know. and you survived. you're so strong. I admire you"},
+        {"date": "2009-06-25", "hour": 18, "minute": 00, "is_from_me": false, "content": "michael. I heard. I can't believe it. I'm coming. I love you. I always have"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jackson_joe_1970_2009",
+      "contact": "Joe Jackson (Father)",
+      "messages": [
+        {"date": "1970-12-20", "hour": 18, "minute": 30, "is_from_me": false, "content": "you boys did good. I knew you would. I pushed you hard. but you're stars"},
+        {"date": "1970-12-20", "hour": 18, "minute": 33, "is_from_me": true, "content": "I know. thank you. for pushing us. for believing in us"},
+        {"date": "1983-03-25", "hour": 22, "minute": 30, "is_from_me": false, "content": "the moonwalk. I watched it. you're the best. I always knew you would be"},
+        {"date": "1983-03-25", "hour": 22, "minute": 33, "is_from_me": true, "content": "thank you daddy. I tried to make you proud"},
+        {"date": "1984-02-28", "hour": 20, "minute": 00, "is_from_me": false, "content": "8 grammys. I'm so proud. my son. the king of pop"},
+        {"date": "1984-02-28", "hour": 20, "minute": 03, "is_from_me": true, "content": "I love you daddy. I know I don't always show it. but I do"},
+        {"date": "2003-11-20", "hour": 18, "minute": 00, "is_from_me": false, "content": "stay strong. I know you're innocent. the truth will come out"},
+        {"date": "2009-06-25", "hour": 18, "minute": 00, "is_from_me": false, "content": "my son. I'm coming. I'm devastated. I love you. I should have told you more"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jackson_prince_1997_2009",
+      "contact": "Prince Jackson (Son)",
+      "messages": [
+        {"date": "1997-02-13", "hour": 16, "minute": 00, "is_from_me": true, "content": "my son. you're here. I'm holding you. I've never felt love like this"},
+        {"date": "2002-06-15", "hour": 15, "minute": 30, "is_from_me": false, "content": "daddy. I love you. can we play today?"},
+        {"date": "2002-06-15", "hour": 15, "minute": 33, "is_from_me": true, "content": "of course my son. we'll play all day. I'll push you on the swings"},
+        {"date": "2005-06-13", "hour": 16, "minute": 00, "is_from_me": false, "content": "daddy. I'm so happy you're home. I missed you"},
+        {"date": "2005-06-13", "hour": 16, "minute": 03, "is_from_me": true, "content": "I missed you more. I'll never leave you again. I promise"},
+        {"date": "2009-06-15", "hour": 15, "minute": 00, "is_from_me": false, "content": "daddy. I heard you're going on tour. I'm going to miss you so much"},
+        {"date": "2009-06-15", "hour": 15, "minute": 03, "is_from_me": true, "content": "I'll miss you too. but I'll be back soon. and we'll have so much fun together"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jackson_paris_1998_2009",
+      "contact": "Paris Jackson (Daughter)",
+      "messages": [
+        {"date": "1998-04-03", "hour": 14, "minute": 00, "is_from_me": true, "content": "my princess. you're here. I'm so in love with you. you're perfect"},
+        {"date": "2004-12-25", "hour": 18, "minute": 00, "is_from_me": false, "content": "daddy. I love you. you're the best daddy in the world"},
+        {"date": "2004-12-25", "hour": 18, "minute": 03, "is_from_me": true, "content": "I love you more. you're my angel. my everything"},
+        {"date": "2005-06-13", "hour": 16, "minute": 00, "is_from_me": false, "content": "daddy. I'm so glad you're home. I was scared you wouldn't come back"},
+        {"date": "2005-06-13", "hour": 16, "minute": 03, "is_from_me": true, "content": "I'll always come back. I'll never leave you. I promise my princess"},
+        {"date": "2009-06-15", "hour": 15, "minute": 00, "is_from_me": false, "content": "daddy. I'm going to miss you so much. please come back soon"},
+        {"date": "2009-06-15", "hour": 15, "minute": 03, "is_from_me": true, "content": "I will. I promise. I love you more than anything in this world"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jackson_blanket_2002_2009",
+      "contact": "Prince Michael Jackson II (Blanket)",
+      "messages": [
+        {"date": "2002-02-15", "hour": 14, "minute": 00, "is_from_me": true, "content": "my prince. my blanket. you're here. I have another son. I'm so blessed"},
+        {"date": "2006-08-15", "hour": 16, "minute": 00, "is_from_me": false, "content": "daddy. I love you. can I see the animals at neverland today?"},
+        {"date": "2006-08-15", "hour": 16, "minute": 03, "is_from_me": true, "content": "of course my son. anything you want. I love you so much"},
+        {"date": "2009-06-15", "hour": 15, "minute": 00, "is_from_me": false, "content": "daddy. I want to go with you. I want to see the shows"},
+        {"date": "2009-06-15", "hour": 15, "minute": 03, "is_from_me": true, "content": "not this time my son. but I'll bring you back something special"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jackson_family_1984_2009",
+      "contact": "Jackson Family Group",
+      "messages": [
+        {"date": "1984-02-28", "hour": 20, "minute": 30, "is_from_me": false, "content": "8 grammys. I'm screaming. I love you - janet"},
+        {"date": "1984-02-28", "hour": 20, "minute": 33, "is_from_me": false, "content": "the king of pop. my brother - jermaine"},
+        {"date": "1984-02-28", "hour": 20, "minute": 35, "is_from_me": false, "content": "you've done it all - la toya"},
+        {"date": "1984-02-28", "hour": 20, "minute": 38, "is_from_me": true, "content": "I love you all. my family. my everything"},
+        {"date": "1993-09-15", "hour": 16, "minute": 30, "is_from_me": false, "content": "we're here for you. all of us. always - jackie"},
+        {"date": "1993-09-15", "hour": 16, "minute": 33, "is_from_me": false, "content": "don't let them win. we believe in you - marlon"},
+        {"date": "1993-09-15", "hour": 16, "minute": 35, "is_from_me": false, "content": "you're a jackson. you fight - tito"},
+        {"date": "1993-09-15", "hour": 16, "minute": 38, "is_from_me": true, "content": "I love you all. I don't know what I'd do without my family"},
+        {"date": "2005-06-13", "hour": 16, "minute": 00, "is_from_me": false, "content": "you're free. we're all crying. we're so happy - katherine"},
+        {"date": "2005-06-13", "hour": 16, "minute": 03, "is_from_me": false, "content": "the truth wins. always. we love you - janet"},
+        {"date": "2005-06-13", "hour": 16, "minute": 05, "is_from_me": true, "content": "I couldn't have survived without you all. I love you. thank you"},
+        {"date": "2009-06-15", "hour": 15, "minute": 00, "is_from_me": false, "content": "good luck with the tour. we'll be watching - katherine"},
+        {"date": "2009-06-15", "hour": 15, "minute": 03, "is_from_me": false, "content": "be careful. take care of yourself - janet"},
+        {"date": "2009-06-15", "hour": 15, "minute": 05, "is_from_me": true, "content": "I will. I love you all. you're my foundation. my everything"},
+        {"date": "2009-06-25", "hour": 18, "minute": 00, "is_from_me": false, "content": "I can't believe it. my son. my brother. I can't breathe - katherine"},
+        {"date": "2009-06-25", "hour": 18, "minute": 03, "is_from_me": false, "content": "we're coming. we're all coming. I love you michael - janet"},
+        {"date": "2009-06-25", "hour": 18, "minute": 05, "is_from_me": false, "content": "the king is gone. I can't believe it - jermaine"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "persona": {
+    "name": "Jackie Chan",
+    "description": "Legendary martial artist, actor, stunt pioneer, director, and Oscar recipient.",
+    "birth_year": 1954,
+    "nationality": "Hong Kong / Chinese",
+    "hometown": "Hong Kong"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_jackie_sammo_1985_2020",
+      "contact": "Sammo Hung",
+      "messages": [
+        {"date": "1985-12-14", "hour": 22, "minute": 15, "is_from_me": true, "content": "big brother sammo! premiere of police story finished! people went crazy for the shopping mall light pole slide!"},
+        {"date": "1985-12-14", "hour": 22, "minute": 20, "is_from_me": false, "content": "you crazy boy!! second degree burns on your hands and broken vertebrae! but scene looked incredible ah!!"},
+        {"date": "1985-12-14", "hour": 22, "minute": 25, "is_from_me": true, "content": "no pain no gain big brother! learned from Master Yu at Opera School discipline first! 👊😄"},
+        {"date": "1998-09-18", "hour": 14, "minute": 10, "is_from_me": false, "content": "Rush Hour opening number one in America Jackie! Hollywood finally understands your comedy style!"},
+        {"date": "1998-09-18", "hour": 14, "minute": 15, "is_from_me": true, "content": "ah thank you big brother! my english still bad but chris tucker talk so fast we make great team haha! 🎬💥"},
+        {"date": "2016-11-13", "hour": 10, "minute": 30, "is_from_me": false, "content": "congratulations on the Honorary Oscar in LA little brother! 56 years in movie business and every bone broken for it!"},
+        {"date": "2016-11-13", "hour": 10, "minute": 35, "is_from_me": true, "content": "thank you sammo! holding this statuette... thought about all our opera school training days sleeping on wooden floor 🏆❤️"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jackie_tucker_1998_2022",
+      "contact": "Chris Tucker",
+      "messages": [
+        {"date": "1998-08-10", "hour": 18, "minute": 30, "is_from_me": false, "content": "Jackie my man!! Do you understand the words coming out of my mouth?! 😂😂"},
+        {"date": "1998-08-10", "hour": 18, "minute": 35, "is_from_me": true, "content": "man nobody understand the words coming out of your mouth chris!! ahahaha! 👊😄"},
+        {"date": "1998-08-10", "hour": 18, "minute": 40, "is_from_me": false, "content": "Rush Hour premiere tonight bro! We bout to blow up the box office!"},
+        {"date": "2001-08-03", "hour": 21, "minute": 15, "is_from_me": true, "content": "chris! rush hour 2 opening weekend huge! people love us in hong kong and las vegas!"},
+        {"date": "2001-08-03", "hour": 21, "minute": 20, "is_from_me": false, "content": "That karaoke War scene was iconic Jackie! What is it good for?! Absolutely nothing!! 🎤🔥"},
+        {"date": "2022-12-09", "hour": 16, "minute": 0, "is_from_me": true, "content": "my brother chris! good seeing you at red sea film festival! people still asking for rush hour 4!! let's do it when script ready 😄🎬"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_jackie_willie_1995_2014",
+      "contact": "Willie Chan",
+      "messages": [
+        {"date": "1995-02-23", "hour": 11, "minute": 20, "is_from_me": true, "content": "willie! rumble in the bronx broke box office in US! breaking my ankle jumping onto hovercraft paid off haha! 💥"},
+        {"date": "1995-02-23", "hour": 11, "minute": 25, "is_from_me": false, "content": "Jackie you wore a painted sock over your cast to finish shooting! Production was terrified but you made US audience fall in love!"},
+        {"date": "1995-02-23", "hour": 11, "minute": 30, "is_from_me": true, "content": "audience want real action willie! no special effects, just real jackie chan!"},
+        {"date": "2000-05-26", "hour": 17, "minute": 45, "is_from_me": false, "content": "Shanghai Noon doing great numbers too Jackie! Western martial arts comedy working everywhere."},
+        {"date": "2000-05-26", "hour": 17, "minute": 50, "is_from_me": true, "content": "owen wilson so funny brother! teaching him martial arts timing was great fun 😄🤠"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_jackie_joan_1999_2021",
+      "contact": "Joan Lin",
+      "messages": [
+        {"date": "1999-10-15", "hour": 20, "minute": 10, "is_from_me": true, "content": "joan, finished filming in LA today. heading back home to Hong Kong tomorrow. miss you ❤️"},
+        {"date": "1999-10-15", "hour": 20, "minute": 15, "is_from_me": false, "content": "Safe flight Jackie. Home cooked soup waiting for you when you land."},
+        {"date": "2010-06-11", "hour": 22, "minute": 30, "is_from_me": true, "content": "karate kid premiere went so well joan! playing mr. han was emotional... teaching Jaden Smith brought back so many memories"},
+        {"date": "2010-06-11", "hour": 22, "minute": 35, "is_from_me": false, "content": "You were wonderful in the dramatic scenes Jackie. Showing your age with grace in cinema."},
+        {"date": "2021-04-07", "hour": 12, "minute": 0, "is_from_me": true, "content": "67th birthday today joan... stunt team gave me big cake on set! still kicking and jumping every day! 😄❤️"}
+      ]
+    },
+    {
+      "chat_id": "imessage_jackie_jaycee_2004_2019",
+      "contact": "Jaycee Chan",
+      "messages": [
+        {"date": "2004-09-10", "hour": 19, "minute": 0, "is_from_me": true, "content": "jaycee! saw your music album release. work hard, stay humble, respect your elders always son 🎵"},
+        {"date": "2004-09-10", "hour": 19, "minute": 05, "is_from_me": false, "content": "Thanks Dad! Trying my best to build my own path in music!"},
+        {"date": "2004-09-10", "hour": 19, "minute": 10, "is_from_me": true, "content": "good! focus and discipline! no shortcuts in life or art 👊"},
+        {"date": "2019-01-01", "hour": 10, "minute": 15, "is_from_me": false, "content": "Happy New Year Dad! Wish you good health and less dangerous stunts this year!"},
+        {"date": "2019-01-01", "hour": 10, "minute": 20, "is_from_me": true, "content": "haha happy new year son! cannot stop making movies... action is my life! 😄💥"}
+      ]
+    }
+  ]
+}

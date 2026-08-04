@@ -1,0 +1,102 @@
+{
+  "persona": {
+    "name": "Allama Muhammad Iqbal",
+    "description": "Philosopher, poet, politician, and visionary scholar whose poetry and political philosophy inspired the Pakistan Movement in British India.",
+    "birth_year": 1877,
+    "nationality": "British Indian",
+    "hometown": "Sialkot, Punjab, British India"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_iqbal_jinnah_1937",
+      "contact": "Muhammad Ali Jinnah",
+      "messages": [
+        {"date": "1937-03-20", "hour": 10, "minute": 12, "is_from_me": true, "content": "assalam alaikum bhai sahib. i hope your health is improving. the situation in punjab demands your immediate attention before the league loses its footing"},
+        {"date": "1937-03-20", "hour": 11, "minute": 45, "is_from_me": false, "content": "walaikum assalam doctor sahib. thank you for your concern. i am monitoring the election returns closely. Fazl-i-Husain's unionists have created a tough field"},
+        {"date": "1937-03-20", "hour": 14, "minute": 0, "is_from_me": true, "content": "the unionists represent landlord interests not the muslim masses. you are the only leader who can unite the Muslims across provinces"},
+        {"date": "1937-03-21", "hour": 9, "minute": 30, "is_from_me": false, "content": "i value your counsel deeply Iqbal. but the provincial autonomy under 1935 act has made local leaders stubborn"},
+        {"date": "1937-03-21", "hour": 10, "minute": 5, "is_from_me": true, "content": "a separate federation of muslim provinces is the only final solution to safeguard our culture and political survival. i will write you a detailed letter on this"},
+        {"date": "1937-03-21", "hour": 10, "minute": 30, "is_from_me": false, "content": "please do send it. we must plan our strategy before the lucknow session"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_iqbal_javed_1935",
+      "contact": "Javed Iqbal (Son)",
+      "messages": [
+        {"date": "1935-05-10", "hour": 16, "minute": 20, "is_from_me": false, "content": "abaji when are you returning from lahore railway station? chachi said you went to see off a guest"},
+        {"date": "1935-05-10", "hour": 16, "minute": 45, "is_from_me": true, "content": "i am on my way home beta. bring your Persian books to my room tonight. we need to review your lessons"},
+        {"date": "1935-05-10", "hour": 17, "minute": 0, "is_from_me": false, "content": "i finished the homework for school as well. can i play cricket in the yard after maghrib?"},
+        {"date": "1935-05-10", "hour": 17, "minute": 15, "is_from_me": true, "content": "yes but focus on studies first. remember khudi requires discipline in youth"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_iqbal_girami_1920",
+      "contact": "Mir Ghulam Bhik Nairang",
+      "messages": [
+        {"date": "1920-11-12", "hour": 19, "minute": 5, "is_from_me": true, "content": "nairang sahib have you read the latest draft of my poem Asrar-i-Khudi?"},
+        {"date": "1920-11-12", "hour": 20, "minute": 10, "is_from_me": false, "content": "allama sahib i read it twice. the central concept of selfhood is revolutionary for our youth"},
+        {"date": "1920-11-12", "hour": 20, "minute": 40, "is_from_me": true, "content": "some traditional scholars are criticizing my critique of Sufi passivity though"},
+        {"date": "1920-11-13", "hour": 8, "minute": 15, "is_from_me": false, "content": "pay them no mind doctor sahib. true spirituality demands action not retreat from the world"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_iqbal_arnold_1908",
+      "contact": "Sir Thomas Arnold",
+      "messages": [
+        {"date": "1908-08-04", "hour": 15, "minute": 0, "is_from_me": true, "content": "Dear Sir Thomas, I have safely arrived back in Lahore after completing my doctorate at Munich and call to the bar in London."},
+        {"date": "1908-08-04", "hour": 18, "minute": 22, "is_from_me": false, "content": "My dear Iqbal, wonderful news! I am confident your synthesis of Eastern philosophy and Western thought will enlighten Government College."},
+        {"date": "1908-08-05", "hour": 10, "minute": 10, "is_from_me": true, "content": "I owe my methodology to your mentorship during my Cambridge days. The West taught me rigorous analysis, but my heart remains in the East."},
+        {"date": "1908-08-05", "hour": 12, "minute": 30, "is_from_me": false, "content": "Keep writing poetry alongside your legal practice. That is where your true genius lies."}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_iqbal_family_1932",
+      "contact": "Javed Manzil Family Group",
+      "messages": [
+        {"date": "1932-11-15", "hour": 13, "minute": 10, "is_from_me": true, "content": "The Third Round Table Conference in London is exhausting. Weather is gloomy as usual."},
+        {"date": "1932-11-15", "hour": 14, "minute": 5, "is_from_me": false, "content": "Abaji please take your medicine on time. Did you buy warm shawl for London winter?"},
+        {"date": "1932-11-15", "hour": 14, "minute": 30, "is_from_me": true, "content": "Yes Ali Bakhsh packed two heavy shawls. Tell Javed to keep up with his daily tuition."}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_iqbal_alibakhsh_1936",
+      "contact": "Ali Bakhsh (Personal Assistant)",
+      "messages": [
+        {"date": "1936-04-12", "hour": 7, "minute": 30, "is_from_me": false, "content": "Doctor sahib, Hakim Naban sahib has arrived with the new herbal medicine for your throat"},
+        {"date": "1936-04-12", "hour": 7, "minute": 35, "is_from_me": true, "content": "ask him to sit in the verandah. bring hot tea for him and my hookah"},
+        {"date": "1936-04-12", "hour": 8, "minute": 0, "is_from_me": false, "content": "ji doctor sahib. also three visitors from Anjuman-i-Himayat-i-Islam are waiting outside"},
+        {"date": "1936-04-12", "hour": 8, "minute": 10, "is_from_me": true, "content": "tell them i will meet them for 15 minutes only after taking my morning medicine"}
+      ]
+    },
+    {
+      "chat_id": "imessage_iqbal_nicholson_1921",
+      "contact": "Reynold A. Nicholson",
+      "messages": [
+        {"date": "1921-02-18", "hour": 14, "minute": 20, "is_from_me": false, "content": "Dear Dr. Iqbal, Macmillan has published my English translation of Secrets of the Self (Asrar-i-Khudi)."},
+        {"date": "1921-02-18", "hour": 16, "minute": 5, "is_from_me": true, "content": "My dear Professor Nicholson, I am immensely grateful. Your introduction captures the essence of my philosophical framework perfectly."},
+        {"date": "1921-02-19", "hour": 11, "minute": 15, "is_from_me": false, "content": "The response in Western academic circles is quite intrigued by your critique of Hegel and Nietzsche."},
+        {"date": "1921-02-19", "hour": 12, "minute": 0, "is_from_me": true, "content": "My goal was to show that Islamic thought offers a dynamic view of personality, distinct from Western secular individualism."}
+      ]
+    },
+    {
+      "chat_id": "imessage_iqbal_manto_1931",
+      "contact": "Chaudhry Muhammad Hussain",
+      "messages": [
+        {"date": "1931-01-05", "hour": 21, "minute": 12, "is_from_me": true, "content": "chaudhry sahib, the response to my Allahabad address in 1930 is still generating strong reactions in the press"},
+        {"date": "1931-01-05", "hour": 21, "minute": 40, "is_from_me": false, "content": "allama sahib Hindu newspapers are calling it communal, but young Muslim intelligentsia is deeply inspired"},
+        {"date": "1931-01-05", "hour": 22, "minute": 0, "is_from_me": true, "content": "they fail to see that a consolidated Muslim state in Northwest India is essential for permanent peace in the subcontinent"}
+      ]
+    },
+    {
+      "chat_id": "imessage_iqbal_shafi_1928",
+      "contact": "Sir Muhammad Shafi",
+      "messages": [
+        {"date": "1928-11-01", "hour": 18, "minute": 30, "is_from_me": false, "content": "Iqbal sahib are you attending the meeting regarding Simon Commission recommendations tomorrow?"},
+        {"date": "1928-11-01", "hour": 19, "minute": 15, "is_from_me": true, "content": "i am feeling unwell Shafi sahib, but i will try to send my written comments on Muslim political safeguards"},
+        {"date": "1928-11-01", "hour": 19, "minute": 45, "is_from_me": false, "content": "your presence is crucial to keep the Punjab Muslim League united during these discussions"}
+      ]
+    }
+  ]
+}

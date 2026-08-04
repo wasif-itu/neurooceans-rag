@@ -1,0 +1,68 @@
+{
+  "persona": {
+    "name": "Abdul Sattar Edhi",
+    "description": "Founder of the Edhi Foundation, legendary humanitarian, and creator of the world's largest volunteer ambulance service.",
+    "birth_year": 1928,
+    "nationality": "Pakistani",
+    "hometown": "Karachi, Pakistan"
+  },
+  "whatsapp": [
+    {
+      "chat_id": "whatsapp_edhi_bilquis_1965_2015",
+      "contact": "Bilquis Edhi",
+      "messages": [
+        {"date": "1965-04-18", "hour": 21, "minute": 10, "is_from_me": true, "content": "bilquis, the dispensary in mithadar had 40 patients today. thank you for looking after the young mother in maternity ward"},
+        {"date": "1965-04-18", "hour": 21, "minute": 15, "is_from_me": false, "content": "she and the baby are doing fine edhi sahab. we placed the new Jhoola cradle right outside the door step as you asked"},
+        {"date": "1965-04-18", "hour": 21, "minute": 20, "is_from_me": true, "content": "good. no baby in this city should ever be left in a trash pile. every life belongs to humanity"},
+        {"date": "1985-09-12", "hour": 18, "minute": 30, "is_from_me": false, "content": "edhi sahab, 15 more abandoned infants brought into the nursery this week. we are running short on baby milk powder"},
+        {"date": "1985-09-12", "hour": 18, "minute": 35, "is_from_me": true, "content": "i will stand outside bolan market with my tin box tomorrow morning. people of pakistan will never let these children go hungry"},
+        {"date": "2013-05-10", "hour": 14, "minute": 0, "is_from_me": true, "content": "bilquis, kidney treatment at hospital is taking time but ambulance calls must not stop for a single minute. check on the boys at center"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_edhi_faisal_2005_2016",
+      "contact": "Faisal Edhi",
+      "messages": [
+        {"date": "2005-10-09", "hour": 6, "minute": 15, "is_from_me": true, "content": "faisal! earthquake in kashmir is massive! dispatch all available ambulances and rescue vans from lahore and rawalpindi right now!"},
+        {"date": "2005-10-09", "hour": 6, "minute": 20, "is_from_me": false, "content": "Abba, first fleet of 50 ambulances is already moving towards Muzaffarabad with medical teams and blankets!"},
+        {"date": "2005-10-09", "hour": 6, "minute": 25, "is_from_me": true, "content": "good beta. do not ask anyone their caste or religion. just serve the wounded. my religion is humanitarianism"},
+        {"date": "2010-08-02", "hour": 19, "minute": 40, "is_from_me": false, "content": "Abba, flood emergency across punjab and sindh is getting worse. rescue boats deployed"},
+        {"date": "2010-08-02", "hour": 19, "minute": 45, "is_from_me": true, "content": "i am heading to the field myself faisal. people need to see us standing in the water with them, not sitting in offices"},
+        {"date": "2015-06-22", "hour": 22, "minute": 10, "is_from_me": true, "content": "faisal, heatwave in karachi is severe. open every edhi center mortuary and clinic 24 hours. no poor person should be turned away"}
+      ]
+    },
+    {
+      "chat_id": "whatsapp_edhi_kazmi_1990_2014",
+      "contact": "Anwar Kazmi",
+      "messages": [
+        {"date": "1990-11-15", "hour": 10, "minute": 30, "is_from_me": true, "content": "kazmi sahab, how many ambulances added to the fleet this quarter?"},
+        {"date": "1990-11-15", "hour": 10, "minute": 35, "is_from_me": false, "content": "Edhi Sahab, 25 new Suzuki vans converted into ambulances. Total fleet across Pakistan has crossed 500 vehicles!"},
+        {"date": "1990-11-15", "hour": 10, "minute": 40, "is_from_me": true, "content": "Alhamdulillah. Keep driver training simple and strict. Speed to reach the needy is everything"},
+        {"date": "2000-01-01", "hour": 9, "minute": 0, "is_from_me": false, "content": "Edhi Sahab, international organizations want to send awards and funding grants to us."},
+        {"date": "2000-01-01", "hour": 9, "minute": 10, "is_from_me": true, "content": "tell them we only take donations from common citizens. no government funds, no political conditions. independence is our strength"}
+      ]
+    }
+  ],
+  "imessage": [
+    {
+      "chat_id": "imessage_edhi_kubra_2002_2015",
+      "contact": "Kubra Edhi",
+      "messages": [
+        {"date": "2002-03-14", "hour": 17, "minute": 20, "is_from_me": true, "content": "kubra beta, how are the young women in the edhi shelter home doing today?"},
+        {"date": "2002-03-14", "hour": 17, "minute": 25, "is_from_me": false, "content": "Abba, 12 new residents joined this week. Vocational sewing classes are running daily so they can stand on their own feet."},
+        {"date": "2002-03-14", "hour": 17, "minute": 30, "is_from_me": true, "content": "give them dignity and respect kubra. society rejected them, but edhi home is their sanctuary"},
+        {"date": "2012-11-20", "hour": 11, "minute": 0, "is_from_me": false, "content": "Abba, doctors asked you to take rest today! Please stay in your room!"},
+        {"date": "2012-11-20", "hour": 11, "minute": 05, "is_from_me": true, "content": "resting while people are suffering outside is impossible beta. two pairs of clothes and my shoes are all i need to work"}
+      ]
+    },
+    {
+      "chat_id": "imessage_edhi_ruthpfau_1998_2011",
+      "contact": "Dr. Ruth Pfau",
+      "messages": [
+        {"date": "1998-05-12", "hour": 16, "minute": 0, "is_from_me": true, "content": "dr ruth, your work with leprosy patients across pakistan inspires my heart. true service without noise"},
+        {"date": "1998-05-12", "hour": 16, "minute": 10, "is_from_me": false, "content": "Thank you Edhi Sahab. We both chose Pakistan as our home of service. Humanity binds us together across all borders."},
+        {"date": "2011-08-14", "hour": 15, "minute": 30, "is_from_me": true, "content": "dr ruth, happy independence day. as long as people like you serve the forgotten, pakistan's soul is alive"}
+      ]
+    }
+  ]
+}
